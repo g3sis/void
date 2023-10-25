@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+
+pattern="$1"
+workspaces=""
+
+focused="$(wmctrl -d | awk '/\*/ {print $1}')"
+
+focus_colour="#9d879b"
+activ_colour="#9d879b"
+empty_colour="#464646"
+
+function get_workspace_names {
+  wmctrl -d \
+    | awk '$9 ~ "^" { print $1 " " $2 " " $9 }' \
+    | grep -v NSP
+}
+
+while read -r index active name; do
+  name="${name#*_} "
+
+  if [ "$index" == "$focused" ]; then
+    workspaces+="%{F$focus_colour}$name%{F-}"
+  elif wmctrl -l | grep --regexp '.*\s\+'"$index"'\s\+.*' >/dev/null; then
+    workspaces+="%{F$activ_colour}$name%{F-}"
+  else
+    workspaces+="%{F$empty_colour}$name%{F-}"
+  fi
+
+done < <(get_workspace_names)
+
+echo "${workspaces}"

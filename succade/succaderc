@@ -1,0 +1,48 @@
+[bar]
+name = "testbar"
+blocks = "ram | time | battery"
+height = 24
+areas = 16
+foreground = "#EEF4ED"
+background = "#000A20"
+line-color = "#134074"
+line-width = 2
+
+[default]
+label-foreground = "#dddddd"
+affix-foreground = "#134074"
+margin = 8
+padding-left = 1
+prefix = "[ " 
+suffix = " ]"
+underline = true
+
+[battery]
+command = "echo "$(cat /sys/class/power_supply/BAT0/capacity)%""
+interval = 1 
+
+[desktop]
+command = "bspc query -D -d focused --names"
+trigger = "bspc subscribe"
+label = "WORKSPACE"
+margin-left = 8
+
+[user]
+command = "whoami"
+label = ""
+
+[date]
+command = "'%Y-%m-%d'"
+interval = 1
+label = "DATE"
+
+[time]
+command = "date +'%H:%M:%S'"
+interval = 1
+label = ""
+mouse-left = "xclock"
+margin-right = 8
+
+[ram]
+command = "~/.config/succade/scripts/ram"
+interval = 1

@@ -1,0 +1,14 @@
+#! /usr/bin/env bash
+
+  BATC=/sys/class/power_supply/BAT0/capacity
+	BATS=/sys/class/power_supply/BAT0/status
+
+  status= cat $BATS
+
+  if [ "$status" = "Discharging" ]; then
+    cap= cat $BATC
+    echo "$cap %"
+  else
+    cap= cat $BATC
+    echo "+ $cap %"
+  fi

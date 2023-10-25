@@ -1,0 +1,79 @@
+[right]
+name = "right_bar"
+height = 32
+
+blocks = "ram | | date time"
+force = false
+
+command = lemonbar -o -1
+
+width = 1900
+left = 10
+top = 10
+
+foreground = "#464646"
+background = "#f7f7f7"
+font="sq"
+
+[left]
+name = "left_bar"
+height = 32
+
+blocks = "ram | | date time"
+force = false
+
+command = lemonbar -o -1
+
+width = 1900
+left = 1930
+top = 10
+
+foreground = "#464646"
+background = "#f7f7f7"
+[font="sq"]
+
+[workspaces_right]
+command = "~/.config/succade/scripts/workspaces 0"
+raw = true
+
+margin-left = 8
+interval = 0.1
+
+[workspaces_left]
+command = "~/.config/succade/scripts/workspaces 1"
+raw = true
+
+margin-left = 8
+interval = 0.1
+
+[default]
+margin = 8
+padding-left = 1
+
+[date]
+command = "~/.config/succade/scripts/date"
+interval = 60
+
+[time]
+command = "~/.config/succade/scripts/time"
+interval = 60
+margin-right = 16
+
+[ram]
+command = "~/.config/succade/scripts/ram"
+prefix = "%{F#9d879b}mem%{F-}"
+interval = 1
+
+[volume]
+command = "~/.config/succade/scripts/volume"
+scroll-up = pactl -- set-sink-volume 0 +1%
+scroll-down = pactl -- set-sink-volume 0 -1%
+mouse-left = pavucontrol
+prefix = "%{F#9d879b}vol%{F-}"
+
+interval = 0.1
+
+[wifi]
+command = "~/.config/succade/scripts/wifi"
+
+interval = 60
