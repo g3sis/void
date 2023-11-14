@@ -4,7 +4,7 @@ blocks = "ram | time | battery"
 height = 24
 areas = 16
 foreground = "#EEF4ED"
-background = "#000A20"
+background = "#070416"
 line-color = "#134074"
 line-width = 2
 

@@ -1,0 +1,5 @@
+2023-11-09 14:36:23.391 [info] Started initializing default profile extensions in extensions installation folder. file:///home/void/.vscode-oss/extensions
+2023-11-09 14:36:23.835 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/void/.vscode-oss/extensions
+2023-11-09 14:36:26.981 [info] [perf] Render performance baseline is 56ms
+2023-11-09 14:37:12.473 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, saveEditor, terminalDataWriteEvent'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2023-11-09 14:37:12.510 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python

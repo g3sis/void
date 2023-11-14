@@ -1,0 +1,145 @@
+2023-11-09 14:37:13.839 [info] Test server listening.
+2023-11-09 14:37:13.839 [info] > conda info --json
+2023-11-09 14:37:13.843 [info] Found: /bin/python --> /bin/python2.7
+2023-11-09 14:37:13.852 [info] > ~/.conda/bin/conda info --json
+2023-11-09 14:37:13.868 [info] > ~/anaconda3/bin/conda info --json
+2023-11-09 14:37:13.870 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-11-09 14:37:13.870 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-11-09 14:37:13.871 [info] Found: /bin/python2 --> /bin/python2.7
+2023-11-09 14:37:13.888 [info] Found: /bin/python2.7 --> /bin/python2.7
+2023-11-09 14:37:13.888 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-11-09 14:37:13.888 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-11-09 14:37:13.888 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-11-09 14:37:13.889 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-11-09 14:37:13.889 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-11-09 14:37:13.889 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-11-09 14:37:13.889 [info] Found: /bin/python3 --> /bin/python3.12
+2023-11-09 14:37:13.897 [info] Found: /bin/python3.12 --> /bin/python3.12
+2023-11-09 14:37:13.916 [info] Found: /sbin/python --> /sbin/python2.7
+2023-11-09 14:37:13.916 [info] Found: /sbin/python2 --> /sbin/python2.7
+2023-11-09 14:37:13.916 [info] Found: /sbin/python2.7 --> /sbin/python2.7
+2023-11-09 14:37:13.917 [info] Found: /sbin/python3 --> /sbin/python3.12
+2023-11-09 14:37:13.917 [info] Found: /sbin/python3.12 --> /sbin/python3.12
+2023-11-09 14:37:13.922 [info] Found: /usr/bin/python --> /usr/bin/python2.7
+2023-11-09 14:37:13.922 [info] Found: /usr/bin/python2 --> /usr/bin/python2.7
+2023-11-09 14:37:13.922 [info] Found: /usr/bin/python2.7 --> /usr/bin/python2.7
+2023-11-09 14:37:13.922 [info] Found: /usr/bin/python3 --> /usr/bin/python3.12
+2023-11-09 14:37:13.922 [info] Found: /usr/bin/python3.12 --> /usr/bin/python3.12
+2023-11-09 14:37:13.943 [info] Found: /usr/sbin/python --> /usr/sbin/python2.7
+2023-11-09 14:37:13.944 [info] Found: /usr/sbin/python2 --> /usr/sbin/python2.7
+2023-11-09 14:37:13.944 [info] Found: /usr/sbin/python2.7 --> /usr/sbin/python2.7
+2023-11-09 14:37:13.944 [info] Found: /usr/sbin/python3 --> /usr/sbin/python3.12
+2023-11-09 14:37:13.944 [info] Found: /usr/sbin/python3.12 --> /usr/sbin/python3.12
+2023-11-09 14:37:13.967 [info] > /bin/python -I ~/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/interpreterInfo.py
+2023-11-09 14:37:13.971 [warning] [Error: Command failed: /bin/python -I /home/void/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/get_output_via_markers.py /home/void/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/interpreterInfo.py
+Unknown option: -I
+usage: /bin/python [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+
+	at ChildProcess.exithandler (node:child_process:430:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1091:16)
+	at Socket.<anonymous> (node:internal/child_process:449:11)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:322:12)] {
+  code: 2,
+  killed: false,
+  signal: null,
+  cmd: '/bin/python -I /home/void/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/get_output_via_markers.py /home/void/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/interpreterInfo.py'
+}
+2023-11-09 14:37:13.971 [error] Support for Python 2.7 has been dropped by the Python extension so certain features may not work, upgrade to using Python 3.
+2023-11-09 14:37:13.979 [info] > /bin/python ~/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/interpreterInfo.py
+2023-11-09 14:37:13.993 [info] > /bin/python3 -I ~/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/interpreterInfo.py
+2023-11-09 14:37:14.010 [info] > /sbin/python -I ~/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/interpreterInfo.py
+2023-11-09 14:37:14.015 [warning] [Error: Command failed: /sbin/python -I /home/void/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/get_output_via_markers.py /home/void/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/interpreterInfo.py
+Unknown option: -I
+usage: /sbin/python [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+
+	at ChildProcess.exithandler (node:child_process:430:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1091:16)
+	at Socket.<anonymous> (node:internal/child_process:449:11)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:322:12)] {
+  code: 2,
+  killed: false,
+  signal: null,
+  cmd: '/sbin/python -I /home/void/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/get_output_via_markers.py /home/void/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/interpreterInfo.py'
+}
+2023-11-09 14:37:14.015 [error] Support for Python 2.7 has been dropped by the Python extension so certain features may not work, upgrade to using Python 3.
+2023-11-09 14:37:14.024 [info] > /sbin/python ~/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/interpreterInfo.py
+2023-11-09 14:37:14.043 [info] > /sbin/python3 -I ~/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/interpreterInfo.py
+2023-11-09 14:37:14.078 [info] > /usr/bin/python -I ~/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/interpreterInfo.py
+2023-11-09 14:37:14.090 [info] > /usr/bin/python3 -I ~/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/interpreterInfo.py
+2023-11-09 14:37:14.091 [warning] [Error: Command failed: /usr/bin/python -I /home/void/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/get_output_via_markers.py /home/void/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/interpreterInfo.py
+Unknown option: -I
+usage: /usr/bin/python [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+
+	at ChildProcess.exithandler (node:child_process:430:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1091:16)
+	at Socket.<anonymous> (node:internal/child_process:449:11)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:322:12)] {
+  code: 2,
+  killed: false,
+  signal: null,
+  cmd: '/usr/bin/python -I /home/void/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/get_output_via_markers.py /home/void/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/interpreterInfo.py'
+}
+2023-11-09 14:37:14.092 [error] Support for Python 2.7 has been dropped by the Python extension so certain features may not work, upgrade to using Python 3.
+2023-11-09 14:37:14.101 [info] > /usr/bin/python ~/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/interpreterInfo.py
+2023-11-09 14:37:14.137 [info] > /usr/sbin/python -I ~/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/interpreterInfo.py
+2023-11-09 14:37:14.150 [info] > /usr/sbin/python3 -I ~/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/interpreterInfo.py
+2023-11-09 14:37:14.151 [warning] [Error: Command failed: /usr/sbin/python -I /home/void/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/get_output_via_markers.py /home/void/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/interpreterInfo.py
+Unknown option: -I
+usage: /usr/sbin/python [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+
+	at ChildProcess.exithandler (node:child_process:430:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1091:16)
+	at Socket.<anonymous> (node:internal/child_process:449:11)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:322:12)] {
+  code: 2,
+  killed: false,
+  signal: null,
+  cmd: '/usr/sbin/python -I /home/void/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/get_output_via_markers.py /home/void/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/interpreterInfo.py'
+}
+2023-11-09 14:37:14.151 [error] Support for Python 2.7 has been dropped by the Python extension so certain features may not work, upgrade to using Python 3.
+2023-11-09 14:37:14.160 [info] > /usr/sbin/python ~/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/interpreterInfo.py
+2023-11-09 14:37:15.374 [info] > ~/anaconda3/bin/python -I ~/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2023.20.0/pythonFiles/interpreterInfo.py
+2023-11-09 14:37:15.464 [info] Python interpreter path: /bin/python3
+2023-11-09 14:37:15.569 [error] [
+  'Failed to activate a workspace, Class name = g, completed in 2317ms, has a falsy return value, Arg 1: undefined, Return Value: undefined',
+  [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+  Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+   The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+  	at E (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:71061)
+  	at get testResults [as testResults] (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:23653)
+  	at T.activate (/home/void/.vscode-oss/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:791840)
+  	at /home/void/.vscode-oss/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2386
+  	at Array.map (<anonymous>)
+  	at g.activateWorkspace (/home/void/.vscode-oss/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2376)]
+]
+2023-11-09 14:37:15.570 [error] Failure during activation. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at E (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:71061)
+	at get testResults [as testResults] (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:23653)
+	at T.activate (/home/void/.vscode-oss/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:791840)
+	at /home/void/.vscode-oss/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2386
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/void/.vscode-oss/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2376)]
+2023-11-09 14:37:15.570 [error] sendStartupTelemetry() failed. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at E (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:71061)
+	at get testResults [as testResults] (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:23653)
+	at T.activate (/home/void/.vscode-oss/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:791840)
+	at /home/void/.vscode-oss/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2386
+	at Array.map (<anonymous>)
+	at g.activateWorkspace (/home/void/.vscode-oss/extensions/ms-python.python-2023.20.0/out/client/extension.js:2:2376)]
+2023-11-09 14:37:15.593 [info] Starting Pylance language server.
