@@ -1,0 +1,8 @@
+2024-01-23 10:13:11.130 [info] update#setState disabled
+2024-01-23 10:13:11.136 [info] update#ctor - updates are disabled as there is no update URL
+2024-01-29 10:23:21.480 [info] Extension host with pid 9719 exited with code: 0, signal: unknown.
+2024-01-29 10:23:21.490 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2024-01-29 10:23:21.491 [error] [UtilityProcess id: 2, type: fileWatcher, pid: 9710]: crashed with code 15 and reason 'killed'
+2024-01-29 12:42:22.218 [info] Extension host with pid 9813 exited with code: 0, signal: unknown.
+2024-01-29 12:42:22.309 [error] Blocked vscode-file request vscode-file://vscode-app/usr/lib/code-oss/resources/app/out/vs/base/worker/workerMain.js#editorWorkerService
+2024-01-29 14:40:56.558 [warning] No ptyHost heartbeat after 6 seconds

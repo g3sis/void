@@ -1,0 +1,62 @@
+[10:23:23.827][Logger] New log placeholder %WS1% registered for /home/void/Documents/itsec .
+[10:23:23.827][Extension] Initializing LaTeX Workshop.
+[10:23:24.173][Build][Recipe] Set $LATEXWORKSHOP_DOCKER_LATEX: ""
+[10:23:24.260][Server] Creating LaTeX Workshop http and websocket server.
+[10:23:24.459][Format][Bib] Bibtex format config: {"tab":"  ","case":"lowercase","left":"{","right":"}","trailingComma":false,"sort":["key"],"alignOnEqual":true,"sortFields":false,"fieldsOrder":[],"firstEntries":["string","xdata"]}
+[10:23:24.559][Server] Server successfully started: {"address":"127.0.0.1","family":"IPv4","port":42449} .
+[10:23:24.975][Extension] Extension root: /home/void/.vscode-oss/extensions/james-yu.latex-workshop-9.18.0
+[10:23:24.976][Extension] $PATH: /home/void/.local/bin:/home/void/.opam/5.0.0/bin:/opt/texlive/2023/bin/x86_64-linux:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin
+[10:23:24.976][Extension] $SHELL: /bin/fish
+[10:23:24.977][Extension] $LANG: en_GB.UTF-8
+[10:23:24.977][Extension] $LC_ALL: undefined
+[10:23:24.978][Extension] process.platform: linux
+[10:23:24.978][Extension] process.arch: x64
+[10:23:24.979][Extension] vscode.env.appName: Code - OSS
+[10:23:24.981][Extension] vscode.env.remoteName: undefined
+[10:23:24.982][Extension] vscode.env.uiKind: 1
+[10:23:25.117][Extension] Trigger characters for intellisense of LaTeX documents: ["\\",",","{"]
+[10:23:25.120][Root] Current workspace folders: ["file://%WS1%"]
+[10:23:25.121][Extension] LaTeX Workshop initialized.
+[10:23:25.123][Root] Current workspaceRootDir: file://%WS1% .
+[10:23:25.138][Server] valdOrigin is http://127.0.0.1:42449
+[10:23:25.393][Viewer][Panel] Internal PDF viewer at http://127.0.0.1:42449/viewer.html?file=pdf..ZmlsZSUzQSUyRiUyRiUyRmhvbWUlMkZ2b2lkJTJGRG9jdW1lbnRzJTJGaXRzZWMlMkZzbGlkZXMlMkZrYXBpdGVsOV9TeXN0ZW1zaWNoZXJoZWl0LnBkZg .
+[10:23:25.395][Cacher][Watcher] Watched %WS1%/slides/kapitel9_Systemsicherheit.pdf with a new watcher on %WS1%/slides .
+[10:23:25.395][Event] FILE_WATCHED: "%WS1%/slides/kapitel9_Systemsicherheit.pdf"
+[10:23:25.502][Root] No root file found.
+[10:23:25.503][Structure] Structure cleared on undefined root.
+[10:23:25.504][Event] ROOT_FILE_SEARCHED
+[10:23:25.505][Event] STRUCTURE_UPDATED
+[10:23:26.844][Viewer] Handle data type: open
+[10:23:27.066][Server] Preview PDF file: file://%WS1%/slides/kapitel9_Systemsicherheit.pdf
+[10:23:27.698][Viewer] Handle data type: loaded
+[10:23:27.699][Event] VIEWER_PAGE_LOADED
+[10:23:33.086][Viewer][Panel] Internal PDF viewer at http://127.0.0.1:42449/viewer.html?file=pdf..ZmlsZSUzQSUyRiUyRiUyRmhvbWUlMkZ2b2lkJTJGRG9jdW1lbnRzJTJGaXRzZWMlMkZ0dXQlMkZ1ZWIxMy1zbGlkZXMucGRm .
+[10:23:33.088][Cacher][Watcher] Watched %WS1%/tut/ueb13-slides.pdf with a new watcher on %WS1%/tut .
+[10:23:33.088][Event] FILE_WATCHED: "%WS1%/tut/ueb13-slides.pdf"
+[10:23:33.340][Viewer] Handle data type: open
+[10:23:33.474][Server] Preview PDF file: file://%WS1%/tut/ueb13-slides.pdf
+[10:23:33.887][Viewer] Handle data type: loaded
+[10:23:33.887][Event] VIEWER_PAGE_LOADED
+[10:38:14.436][Viewer][Panel] Internal PDF viewer at http://127.0.0.1:42449/viewer.html?file=pdf..ZmlsZSUzQSUyRiUyRiUyRmhvbWUlMkZ2b2lkJTJGRG9jdW1lbnRzJTJGaXRzZWMlMkZ0dXQlMkZ1ZWIxMi1zbGlkZXMucGRm .
+[10:38:14.437][Cacher][Watcher] Watched %WS1%/tut/ueb12-slides.pdf .
+[10:38:14.438][Event] FILE_WATCHED: "%WS1%/tut/ueb12-slides.pdf"
+[10:38:14.677][Viewer] Handle data type: open
+[10:38:14.833][Server] Preview PDF file: file://%WS1%/tut/ueb12-slides.pdf
+[10:38:15.237][Viewer] Handle data type: loaded
+[10:38:15.238][Event] VIEWER_PAGE_LOADED
+[10:38:16.813][Viewer][Panel] Internal PDF viewer at http://127.0.0.1:42449/viewer.html?file=pdf..ZmlsZSUzQSUyRiUyRiUyRmhvbWUlMkZ2b2lkJTJGRG9jdW1lbnRzJTJGaXRzZWMlMkZ0dXQlMkZ1ZWIxMC1zbGlkZXMucGRm .
+[10:38:16.815][Cacher][Watcher] Watched %WS1%/tut/ueb10-slides.pdf .
+[10:38:16.816][Event] FILE_WATCHED: "%WS1%/tut/ueb10-slides.pdf"
+[10:38:17.051][Viewer] Handle data type: open
+[10:38:17.222][Server] Preview PDF file: file://%WS1%/tut/ueb10-slides.pdf
+[10:38:17.679][Viewer] Handle data type: loaded
+[10:38:17.679][Event] VIEWER_PAGE_LOADED
+[11:08:31.449][Viewer] Handle data type: reverse_synctex
+[11:08:31.453][Locator] Backward from %WS1%/tut/ueb13-slides.pdf at x=187.5, y=67.72444970703124 on page 53.
+[11:08:31.455][SyncTeX] %WS1%/tut/ueb13-slides.synctex, %WS1%/tut/ueb13-slides.synctex.gz not found.
+[11:08:31.722][Viewer] Handle data type: reverse_synctex
+[11:08:31.723][Locator] Backward from %WS1%/tut/ueb13-slides.pdf at x=187.5, y=67.72444970703124 on page 53.
+[11:08:31.724][SyncTeX] %WS1%/tut/ueb13-slides.synctex, %WS1%/tut/ueb13-slides.synctex.gz not found.
+[12:42:22.186][Cacher][Watcher] Reset.
+[12:42:22.187][Cacher][Watcher] Reset.
+[12:42:22.188][Cacher][Watcher] Reset.

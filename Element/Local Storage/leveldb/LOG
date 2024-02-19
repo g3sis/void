@@ -1,2 +1,6 @@
-2023/11/07-15:18:43.632 55fd Creating DB /home/void/.config/Element/Local Storage/leveldb since it was missing.
-2023/11/07-15:18:43.649 55fd Reusing MANIFEST /home/void/.config/Element/Local Storage/leveldb/MANIFEST-000001
+2023/11/28-10:04:31.745 5c68 Reusing MANIFEST /home/void/.config/Element/Local Storage/leveldb/MANIFEST-000001
+2023/11/28-10:04:31.745 5c68 Recovering log #3
+2023/11/28-10:04:31.745 5c68 Reusing old log /home/void/.config/Element/Local Storage/leveldb/000003.log 
+2023/11/28-14:14:52.023 5c66 Level-0 table #5: started
+2023/11/28-14:14:52.035 5c66 Level-0 table #5: 9487 bytes OK
+2023/11/28-14:14:52.040 5c66 Delete type=0 #3

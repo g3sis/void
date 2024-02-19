@@ -1,0 +1,26 @@
+2024-01-31 11:49:46.721 [info] Log level: Info
+2024-01-31 11:49:46.721 [info] Validating found git in: "git"
+2024-01-31 11:49:46.721 [info] Using git "2.43.0" from "git"
+2024-01-31 11:49:46.721 [info] > git rev-parse --show-toplevel [10ms]
+2024-01-31 11:49:46.721 [info] > git rev-parse --git-dir --git-common-dir [5ms]
+2024-01-31 11:49:46.721 [info] Open repository: /home/void/Documents/TEP-and-Integrity-Codes
+2024-01-31 11:49:46.721 [info] > git rev-parse --show-toplevel [308ms]
+2024-01-31 11:49:46.721 [info] > git config --get commit.template [316ms]
+2024-01-31 11:49:46.737 [info] > git rev-parse --show-toplevel [96ms]
+2024-01-31 11:49:46.751 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [22ms]
+2024-01-31 11:49:46.757 [info] > git rev-parse --show-toplevel [8ms]
+2024-01-31 11:49:46.780 [info] > git rev-parse --show-toplevel [2ms]
+2024-01-31 11:49:46.799 [info] > git status -z -uall [10ms]
+2024-01-31 11:49:46.820 [info] > git rev-parse --show-toplevel [23ms]
+2024-01-31 11:49:46.823 [info] > git config --get commit.template [3ms]
+2024-01-31 11:49:46.838 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2024-01-31 11:49:46.849 [info] > git status -z -uall [3ms]
+2024-01-31 11:49:47.134 [info] > git check-ignore -v -z --stdin [2ms]
+2024-01-31 11:50:15.049 [info] > git check-ignore -v -z --stdin [5ms]
+2024-01-31 11:50:16.443 [info] > git check-ignore -v -z --stdin [6ms]
+2024-01-31 11:50:23.261 [info] > git show --textconv :Presi/template-pdflatex.tex [16ms]
+2024-01-31 11:50:23.268 [info] > git ls-files --stage -- /home/void/Documents/TEP-and-Integrity-Codes/Presi/template-pdflatex.tex [10ms]
+2024-01-31 11:50:23.285 [info] > git cat-file -s d4d2f0a02cefb3315657d99864e38c69814b8d08 [4ms]
+2024-01-31 11:50:25.833 [info] > git show --textconv :Presi/template-pdflatex.tex [11ms]
+2024-01-31 11:50:25.835 [info] > git ls-files --stage -- /home/void/Documents/TEP-and-Integrity-Codes/Presi/template-pdflatex.tex [3ms]
+2024-01-31 11:50:25.846 [info] > git cat-file -s d4d2f0a02cefb3315657d99864e38c69814b8d08 [2ms]

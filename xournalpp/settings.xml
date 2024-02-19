@@ -7,15 +7,15 @@
   <property name="zoomGesturesEnabled" value="true"/>
   <property name="selectedToolbar" value="Portrait Copy"/>
   <property name="lastSavePath" value="/home/void/Documents/TEP-and-Integrity-Codes/material"/>
-  <property name="lastOpenPath" value="/home/void/Documents/itsec/slides"/>
+  <property name="lastOpenPath" value="/home/void/Documents/analysis/tut"/>
   <property name="lastImagePath" value=""/>
   <property name="edgePanSpeed" value="20"/>
   <property name="edgePanMaxMult" value="5"/>
   <property name="zoomStep" value="10"/>
   <property name="zoomStepScroll" value="2"/>
   <property name="displayDpi" value="72"/>
-  <property name="mainWndWidth" value="1134"/>
-  <property name="mainWndHeight" value="994"/>
+  <property name="mainWndWidth" value="1920"/>
+  <property name="mainWndHeight" value="1080"/>
   <property name="maximized" value="false"/>
   <property name="showToolbar" value="false"/>
   <property name="showSidebar" value="false"/>
@@ -169,6 +169,10 @@
       <attribute name="deviceClass" type="int" value="4"/>
       <attribute name="deviceSource" type="int" value="5"/>
     </data>
+    <data name="Logitech M705">
+      <attribute name="deviceClass" type="int" value="1"/>
+      <attribute name="deviceSource" type="int" value="0"/>
+    </data>
     <data name="Synaptics TM3381-002">
       <attribute name="deviceClass" type="int" value="1"/>
       <attribute name="deviceSource" type="int" value="0"/>
@@ -208,7 +212,7 @@
     </data>
     <data name="highlighter">
       <attribute name="color" type="hex" value="3333cc"/>
-      <attribute name="drawingType" type="string" value="default"/>
+      <attribute name="drawingType" type="string" value="rectangle"/>
       <attribute name="fill" type="int" value="0"/>
       <attribute name="fillAlpha" type="int" value="128"/>
       <attribute name="size" type="string" value="MEDIUM"/>

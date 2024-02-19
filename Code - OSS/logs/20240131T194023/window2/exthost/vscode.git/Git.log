@@ -1,0 +1,47 @@
+2024-02-05 09:48:33.155 [info] Log level: Info
+2024-02-05 09:48:33.155 [info] Validating found git in: "git"
+2024-02-05 09:48:33.155 [info] Using git "2.43.0" from "git"
+2024-02-05 09:48:39.530 [info] Log level: Info
+2024-02-05 09:48:39.530 [info] Validating found git in: "git"
+2024-02-05 09:48:39.530 [info] Using git "2.43.0" from "git"
+2024-02-05 09:48:39.530 [info] > git rev-parse --show-toplevel [27ms]
+2024-02-05 09:48:39.763 [info] > git rev-parse --git-dir --git-common-dir [271ms]
+2024-02-05 09:48:39.778 [info] Open repository: /home/void/Documents
+2024-02-05 09:48:39.855 [info] > git rev-parse --show-toplevel [42ms]
+2024-02-05 09:48:39.856 [info] > git config --get commit.template [57ms]
+2024-02-05 09:48:39.925 [info] > git rev-parse --show-toplevel [53ms]
+2024-02-05 09:48:39.940 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [37ms]
+2024-02-05 09:48:39.956 [info] > git rev-parse --show-toplevel [18ms]
+2024-02-05 09:48:39.979 [info] > git rev-parse --git-dir --git-common-dir [5ms]
+2024-02-05 09:48:39.991 [info] Open repository: /home/void/Documents/itsec/code_stuff
+2024-02-05 09:48:40.046 [info] > git status -z -uall [34ms]
+2024-02-05 09:48:40.046 [info] > git rev-parse --show-toplevel [6ms]
+2024-02-05 09:48:40.047 [info] > git config --get commit.template [19ms]
+2024-02-05 09:48:40.107 [info] > git config --get commit.template [17ms]
+2024-02-05 09:48:40.107 [info] > git rev-parse --show-toplevel [30ms]
+2024-02-05 09:48:40.115 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [10ms]
+2024-02-05 09:48:40.236 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [104ms]
+2024-02-05 09:48:40.258 [info] > git status -z -uall [9ms]
+2024-02-05 09:48:40.318 [info] > git status -z -uall [26ms]
+2024-02-05 09:48:40.320 [info] > git config --get commit.template [10ms]
+2024-02-05 09:48:40.353 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2024-02-05 09:48:40.392 [info] > git status -z -uall [23ms]
+2024-02-05 09:48:40.469 [info] > git check-ignore -v -z --stdin [3ms]
+2024-02-05 09:48:40.675 [info] > git show --textconv :itsec/sec.md [19ms]
+2024-02-05 09:48:40.678 [info] > git ls-files --stage -- /home/void/Documents/itsec/sec.md [5ms]
+2024-02-05 09:48:40.695 [info] > git cat-file -s 3529b101468e594007bd68b9c526ca0086d213d5 [2ms]
+2024-02-05 09:48:50.401 [info] > git check-ignore -v -z --stdin [17ms]
+2024-02-05 09:48:50.402 [info] > git check-ignore -v -z --stdin [4ms]
+2024-02-05 09:52:46.449 [info] > git config --get commit.template [31ms]
+2024-02-05 09:52:46.451 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2024-02-05 09:52:46.516 [info] > git status -z -uall [32ms]
+2024-02-05 11:02:41.784 [info] > git check-ignore -v -z --stdin [5ms]
+2024-02-05 11:10:05.060 [info] > git config --get commit.template [7ms]
+2024-02-05 11:10:05.093 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2024-02-05 11:10:05.158 [info] > git status -z -uall [29ms]
+2024-02-05 12:39:55.601 [info] > git config --get commit.template [14ms]
+2024-02-05 12:39:55.602 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-02-05 12:39:55.625 [info] > git status -z -uall [11ms]
+2024-02-05 12:47:02.184 [info] > git config --get commit.template [12ms]
+2024-02-05 12:47:02.185 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-02-05 12:47:02.219 [info] > git status -z -uall [17ms]

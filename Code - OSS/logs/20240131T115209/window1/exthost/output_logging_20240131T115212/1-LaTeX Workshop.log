@@ -1,0 +1,2280 @@
+[11:52:13.092][Logger] New log placeholder %WS1% registered for /home/void/Documents/TEP-and-Integrity-Codes .
+[11:52:13.092][Extension] Initializing LaTeX Workshop.
+[11:52:13.494][Build][Recipe] Set $LATEXWORKSHOP_DOCKER_LATEX: ""
+[11:52:13.570][Server] Creating LaTeX Workshop http and websocket server.
+[11:52:13.789][Format][Bib] Bibtex format config: {"tab":"  ","case":"lowercase","left":"{","right":"}","trailingComma":false,"sort":["key"],"alignOnEqual":true,"sortFields":false,"fieldsOrder":[],"firstEntries":["string","xdata"]}
+[11:52:13.873][Server] Server successfully started: {"address":"127.0.0.1","family":"IPv4","port":45793} .
+[11:52:13.879][Extension] Extension root: /home/void/.vscode-oss/extensions/james-yu.latex-workshop-9.18.0
+[11:52:13.880][Extension] $PATH: /home/void/.local/bin:/home/void/.opam/5.0.0/bin:/opt/texlive/2023/bin/x86_64-linux:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin
+[11:52:13.880][Extension] $SHELL: /bin/fish
+[11:52:13.881][Extension] $LANG: en_GB.UTF-8
+[11:52:13.881][Extension] $LC_ALL: undefined
+[11:52:13.882][Extension] process.platform: linux
+[11:52:13.882][Extension] process.arch: x64
+[11:52:13.883][Extension] vscode.env.appName: Code - OSS
+[11:52:13.883][Extension] vscode.env.remoteName: undefined
+[11:52:13.884][Extension] vscode.env.uiKind: 1
+[11:52:13.996][Extension] Trigger characters for intellisense of LaTeX documents: ["\\",",","{"]
+[11:52:14.000][Root] Current workspace folders: ["file://%WS1%"]
+[11:52:14.001][Extension] LaTeX Workshop initialized.
+[11:52:14.003][Root] Current workspaceRootDir: file://%WS1% .
+[11:52:14.019][Server] valdOrigin is http://127.0.0.1:45793
+[11:52:14.545][Viewer][Panel] Internal PDF viewer at http://127.0.0.1:45793/viewer.html?file=pdf..ZmlsZSUzQSUyRiUyRiUyRmhvbWUlMkZ2b2lkJTJGRG9jdW1lbnRzJTJGVEVQLWFuZC1JbnRlZ3JpdHktQ29kZXMlMkZQcmVzaSUyRnRlbXBsYXRlLXBkZmxhdGV4LnBkZg .
+[11:52:14.549][Cacher][Watcher] Watched %WS1%/Presi/template-pdflatex.pdf with a new watcher on %WS1%/Presi .
+[11:52:14.550][Event] FILE_WATCHED: "%WS1%/Presi/template-pdflatex.pdf"
+[11:52:14.864][Root] Found files that might be root, choose the first one: %WS1%/Presi/template-lualatex.tex,%WS1%/Presi/template-pdflatex.tex,%WS1%/Paper/TEPandIntegrity.tex .
+[11:52:14.865][Root] Root file changed: from %WS1%/Presi/template-lualatex.tex to %WS1%/Presi/template-lualatex.tex, langID latex . Refresh dependencies
+[11:52:14.865][Event] ROOT_FILE_CHANGED: "%WS1%/Presi/template-lualatex.tex"
+[11:52:14.867][Cacher][Watcher] Reset.
+[11:52:14.867][Cacher][Watcher] Reset.
+[11:52:14.868][Cacher][Watcher] Reset.
+[11:52:14.878][Cacher] Adding %WS1%/Presi/template-lualatex.tex .
+[11:52:14.879][Cacher][Watcher] Watched %WS1%/Presi/template-lualatex.tex with a new watcher on %WS1%/Presi .
+[11:52:14.879][Event] FILE_WATCHED: "%WS1%/Presi/template-lualatex.tex"
+[11:52:14.882][Cacher] Caching %WS1%/Presi/template-lualatex.tex .
+[11:52:14.884][Cacher] Updated inputs of %WS1%/Presi/template-lualatex.tex .
+[11:52:14.884][Cacher] Parse LaTeX AST: %WS1%/Presi/template-lualatex.tex .
+[11:52:14.885][Event] ROOT_FILE_SEARCHED
+[11:52:15.040][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-lualatex.tex .
+[11:52:15.043][File] Calling kpsewhich to resolve beamer.cls .
+[11:52:15.359][Cacher] Updated elements in 317.74 ms: %WS1%/Presi/template-lualatex.tex .
+[11:52:15.361][Event] FILE_PARSED: "%WS1%/Presi/template-lualatex.tex"
+[11:52:15.368][Structure] Structure force updated with 0 root sections for %WS1%/Presi/template-lualatex.tex .
+[11:52:15.369][Event] STRUCTURE_UPDATED
+[11:52:16.226][Viewer] Handle data type: open
+[11:52:16.432][Server] Preview PDF file: file://%WS1%/Presi/template-pdflatex.pdf
+[11:52:16.826][Viewer] Handle data type: loaded
+[11:52:16.827][Event] VIEWER_PAGE_LOADED
+[11:57:15.969][Root] Current workspace folders: ["file://%WS1%"]
+[11:57:15.989][Root] Found root file from active editor: %WS1%/Presi/template-pdflatex.tex
+[11:57:15.993][Root] Root file changed: from %WS1%/Presi/template-pdflatex.tex to %WS1%/Presi/template-pdflatex.tex, langID latex . Refresh dependencies
+[11:57:15.994][Event] ROOT_FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[11:57:15.995][Cacher][Watcher] Reset.
+[11:57:15.995][Cacher][Watcher] Reset.
+[11:57:15.995][Cacher][Watcher] Reset.
+[11:57:16.003][Cacher] Adding %WS1%/Presi/template-pdflatex.tex .
+[11:57:16.004][Cacher][Watcher] Watched %WS1%/Presi/template-pdflatex.tex with a new watcher on %WS1%/Presi .
+[11:57:16.004][Event] FILE_WATCHED: "%WS1%/Presi/template-pdflatex.tex"
+[11:57:16.008][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[11:57:16.009][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[11:57:16.010][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[11:57:16.010][Event] ROOT_FILE_SEARCHED
+[11:57:16.019][Event] STRUCTURE_UPDATED
+[11:57:16.113][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[11:57:16.114][File] Calling kpsewhich to resolve beamer.cls .
+[11:57:16.385][Cacher] Updated elements in 270.51 ms: %WS1%/Presi/template-pdflatex.tex .
+[11:57:16.386][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[11:57:16.388][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[11:57:16.462][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[11:57:16.463][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[11:57:16.464][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[11:57:16.465][Structure] Structure force updated with 2 root sections for %WS1%/Presi/template-pdflatex.tex .
+[11:57:16.466][Event] STRUCTURE_UPDATED
+[11:58:52.448][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[11:58:52.507][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[11:58:52.516][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[11:58:52.519][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[11:58:52.520][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[11:58:52.521][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[11:58:52.522][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[11:58:52.524][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[11:58:52.525][Build] The languageId of the document: latex
+[11:58:52.526][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[11:58:52.527][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[11:58:52.529][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[11:58:52.543][Build][Recipe] Preparing to run recipe: latexmk.
+[11:58:52.545][Build][Recipe] Prepared 1 tools.
+[11:58:52.589][Build][Recipe] outDir: %WS1%/Presi .
+[11:58:52.594][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[11:58:52.594][Build] env: {}
+[11:58:52.595][Build] root: %WS1%/Presi/template-pdflatex.tex
+[11:58:52.596][Build] cwd: %WS1%/Presi
+[11:58:52.608][Build] LaTeX build process spawned with PID 8198.
+[11:58:52.640][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[11:58:52.641][File] Calling kpsewhich to resolve beamer.cls .
+[11:58:52.863][Cacher] Updated elements in 222.01 ms: %WS1%/Presi/template-pdflatex.tex .
+[11:58:52.864][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[11:58:52.865][Structure] Structure force updated with 13 root sections for %WS1%/Presi/template-pdflatex.tex .
+[11:58:52.866][Event] STRUCTURE_UPDATED
+[11:58:57.057][Parser][TexLog] Logged 0 messages.
+[11:58:57.058][Build] Finished a step in recipe with PID 8198.
+[11:58:57.058][Build] Successfully built %WS1%/Presi/template-pdflatex.tex .
+[11:58:57.059][Event] BUILD_DONE
+[11:58:57.060][Viewer] Call refreshExistingViewer: "%WS1%/Presi/template-pdflatex.pdf" .
+[11:58:57.060][Viewer] Refresh PDF viewer: %WS1%/Presi/template-pdflatex.pdf
+[11:58:57.062][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[11:58:57.101][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[11:58:57.102][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[11:58:57.102][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[11:58:57.109][Server] Preview PDF file: file://%WS1%/Presi/template-pdflatex.pdf
+[11:58:57.202][Viewer] Handle data type: loaded
+[11:58:57.202][Event] VIEWER_PAGE_LOADED
+[11:59:01.097][Event] STRUCTURE_UPDATED
+[12:01:30.798][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[12:01:30.867][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[12:01:30.877][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[12:01:30.880][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[12:01:30.882][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[12:01:30.883][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[12:01:30.884][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[12:01:30.885][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[12:01:30.886][Build] The languageId of the document: latex
+[12:01:30.888][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[12:01:30.889][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[12:01:30.890][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[12:01:30.902][Build][Recipe] Preparing to run recipe: latexmk.
+[12:01:30.903][Build][Recipe] Prepared 1 tools.
+[12:01:30.907][Build][Recipe] outDir: %WS1%/Presi .
+[12:01:30.910][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[12:01:30.911][Build] env: {}
+[12:01:30.913][Build] root: %WS1%/Presi/template-pdflatex.tex
+[12:01:30.915][Build] cwd: %WS1%/Presi
+[12:01:30.943][Build] LaTeX build process spawned with PID 10883.
+[12:01:31.089][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[12:01:31.090][File] Calling kpsewhich to resolve beamer.cls .
+[12:01:31.352][Cacher] Updated elements in 262.44 ms: %WS1%/Presi/template-pdflatex.tex .
+[12:01:31.354][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[12:01:31.355][Structure] Structure force updated with 14 root sections for %WS1%/Presi/template-pdflatex.tex .
+[12:01:31.356][Event] STRUCTURE_UPDATED
+[12:01:33.774][Parser][TexLog] Logged 1 messages.
+[12:01:33.776][Build] Recipe returns with error code 12/null on PID 10883.
+[12:01:33.776][Build] Does the executable exist? $PATH: /home/void/.local/bin:/home/void/.opam/5.0.0/bin:/opt/texlive/2023/bin/x86_64-linux:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin, $Path: undefined, $SHELL: /bin/fish
+[12:01:33.776][Build] Latexmk: Missing input file '*' (or dependence on it) from following:
+  %WS1%/Presi/template-pdflatex.tex:113: LaTeX Error: File `*' not found.
+Latexmk: If appropriate, the -f option can be used to get latexmk
+  to try to force complete processing.
+
+[12:01:33.778][Build] Cleaning auxiliary files and retrying build after toolchain error.
+[12:01:33.780][Cleaner] Clean temporary files command The command is latexmk:["-c","%WS1%/Presi/template-pdflatex.tex"].
+[12:01:33.796][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[12:01:33.797][Build] env: {}
+[12:01:33.798][Build] root: %WS1%/Presi/template-pdflatex.tex
+[12:01:33.803][Build] cwd: %WS1%/Presi
+[12:01:33.826][Build] LaTeX build process spawned with PID 10918.
+[12:01:34.030][Event] AUTO_CLEANED
+[12:01:36.728][Parser][TexLog] Logged 2 messages.
+[12:01:36.730][Build] Recipe returns with error code 12/null on PID 10918.
+[12:01:36.731][Build] Does the executable exist? $PATH: /home/void/.local/bin:/home/void/.opam/5.0.0/bin:/opt/texlive/2023/bin/x86_64-linux:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin, $Path: undefined, $SHELL: /bin/fish
+[12:01:36.731][Build] Latexmk: Missing input file '*' (or dependence on it) from following:
+  %WS1%/Presi/template-pdflatex.tex:113: LaTeX Error: File `*' not found.
+Latexmk: If appropriate, the -f option can be used to get latexmk
+  to try to force complete processing.
+
+[12:02:58.168][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[12:02:58.230][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[12:02:58.235][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[12:02:58.236][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[12:02:58.237][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[12:02:58.238][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[12:02:58.238][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[12:02:58.239][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[12:02:58.240][Build] The languageId of the document: latex
+[12:02:58.241][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[12:02:58.241][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[12:02:58.242][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[12:02:58.244][Build][Recipe] Preparing to run recipe: latexmk.
+[12:02:58.245][Build][Recipe] Prepared 1 tools.
+[12:02:58.247][Build][Recipe] outDir: %WS1%/Presi .
+[12:02:58.249][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[12:02:58.250][Build] env: {}
+[12:02:58.250][Build] root: %WS1%/Presi/template-pdflatex.tex
+[12:02:58.251][Build] cwd: %WS1%/Presi
+[12:02:58.264][Build] LaTeX build process spawned with PID 11856.
+[12:02:58.341][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[12:02:58.342][File] Calling kpsewhich to resolve beamer.cls .
+[12:02:58.609][Cacher] Updated elements in 267.00 ms: %WS1%/Presi/template-pdflatex.tex .
+[12:02:58.611][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[12:02:58.613][Structure] Structure force updated with 14 root sections for %WS1%/Presi/template-pdflatex.tex .
+[12:02:58.614][Event] STRUCTURE_UPDATED
+[12:03:00.980][Parser][TexLog] Logged 2 messages.
+[12:03:00.981][Build] Finished a step in recipe with PID 11856.
+[12:03:00.982][Build] Successfully built %WS1%/Presi/template-pdflatex.tex .
+[12:03:00.982][Event] BUILD_DONE
+[12:03:00.983][Viewer] Call refreshExistingViewer: "%WS1%/Presi/template-pdflatex.pdf" .
+[12:03:00.984][Viewer] Refresh PDF viewer: %WS1%/Presi/template-pdflatex.pdf
+[12:03:00.985][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[12:03:01.034][Cacher] Adding %WS1%/Presi/img/ICodes.png .
+[12:03:01.035][Cacher][Watcher] Watched %WS1%/Presi/img/ICodes.png with a new watcher on %WS1%/Presi/img .
+[12:03:01.035][Event] FILE_WATCHED: "%WS1%/Presi/img/ICodes.png"
+[12:03:01.036][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[12:03:01.036][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[12:03:01.037][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[12:03:01.053][Server] Preview PDF file: file://%WS1%/Presi/template-pdflatex.pdf
+[12:03:05.619][Viewer] Handle data type: loaded
+[12:03:05.620][Event] VIEWER_PAGE_LOADED
+[12:03:16.804][Event] STRUCTURE_UPDATED
+[12:03:24.682][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[12:03:24.743][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[12:03:24.747][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[12:03:24.750][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[12:03:24.751][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[12:03:24.752][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[12:03:24.753][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[12:03:24.754][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[12:03:24.755][Build] The languageId of the document: latex
+[12:03:24.756][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[12:03:24.757][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[12:03:24.758][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[12:03:24.762][Build][Recipe] Preparing to run recipe: latexmk.
+[12:03:24.763][Build][Recipe] Prepared 1 tools.
+[12:03:24.767][Build][Recipe] outDir: %WS1%/Presi .
+[12:03:24.770][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[12:03:24.771][Build] env: {}
+[12:03:24.772][Build] root: %WS1%/Presi/template-pdflatex.tex
+[12:03:24.773][Build] cwd: %WS1%/Presi
+[12:03:24.802][Build] LaTeX build process spawned with PID 12129.
+[12:03:24.945][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[12:03:24.946][File] Calling kpsewhich to resolve beamer.cls .
+[12:03:25.172][Cacher] Updated elements in 225.94 ms: %WS1%/Presi/template-pdflatex.tex .
+[12:03:25.173][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[12:03:25.175][Structure] Structure force updated with 14 root sections for %WS1%/Presi/template-pdflatex.tex .
+[12:03:25.176][Event] STRUCTURE_UPDATED
+[12:03:27.193][Parser][TexLog] Logged 1 messages.
+[12:03:27.194][Build] Recipe returns with error code 12/null on PID 12129.
+[12:03:27.195][Build] Does the executable exist? $PATH: /home/void/.local/bin:/home/void/.opam/5.0.0/bin:/opt/texlive/2023/bin/x86_64-linux:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin, $Path: undefined, $SHELL: /bin/fish
+[12:03:27.195][Build] Latexmk: Missing input file '*' (or dependence on it) from following:
+  %WS1%/Presi/template-pdflatex.tex:113: LaTeX Error: File `*' not found.
+Latexmk: If appropriate, the -f option can be used to get latexmk
+  to try to force complete processing.
+
+[12:03:27.196][Build] Cleaning auxiliary files and retrying build after toolchain error.
+[12:03:27.196][Cleaner] Clean temporary files command The command is latexmk:["-c","%WS1%/Presi/template-pdflatex.tex"].
+[12:03:27.208][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[12:03:27.208][Build] env: {}
+[12:03:27.208][Build] root: %WS1%/Presi/template-pdflatex.tex
+[12:03:27.209][Build] cwd: %WS1%/Presi
+[12:03:27.219][Build] LaTeX build process spawned with PID 12154.
+[12:03:27.392][Event] AUTO_CLEANED
+[12:03:29.506][Parser][TexLog] Logged 2 messages.
+[12:03:29.507][Build] Recipe returns with error code 12/null on PID 12154.
+[12:03:29.508][Build] Does the executable exist? $PATH: /home/void/.local/bin:/home/void/.opam/5.0.0/bin:/opt/texlive/2023/bin/x86_64-linux:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin, $Path: undefined, $SHELL: /bin/fish
+[12:03:29.508][Build] Latexmk: Missing input file '*' (or dependence on it) from following:
+  %WS1%/Presi/template-pdflatex.tex:113: LaTeX Error: File `*' not found.
+Latexmk: If appropriate, the -f option can be used to get latexmk
+  to try to force complete processing.
+
+[12:04:36.714][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[12:04:36.760][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[12:04:36.765][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[12:04:36.767][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[12:04:36.767][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[12:04:36.768][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[12:04:36.769][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[12:04:36.769][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[12:04:36.770][Build] The languageId of the document: latex
+[12:04:36.770][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[12:04:36.771][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[12:04:36.771][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[12:04:36.774][Build][Recipe] Preparing to run recipe: latexmk.
+[12:04:36.774][Build][Recipe] Prepared 1 tools.
+[12:04:36.776][Build][Recipe] outDir: %WS1%/Presi .
+[12:04:36.778][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[12:04:36.778][Build] env: {}
+[12:04:36.779][Build] root: %WS1%/Presi/template-pdflatex.tex
+[12:04:36.779][Build] cwd: %WS1%/Presi
+[12:04:36.794][Build] LaTeX build process spawned with PID 13317.
+[12:04:36.904][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[12:04:36.905][File] Calling kpsewhich to resolve beamer.cls .
+[12:04:37.167][Cacher] Updated elements in 262.46 ms: %WS1%/Presi/template-pdflatex.tex .
+[12:04:37.168][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[12:04:37.170][Structure] Structure force updated with 14 root sections for %WS1%/Presi/template-pdflatex.tex .
+[12:04:37.171][Event] STRUCTURE_UPDATED
+[12:04:39.561][Parser][TexLog] Logged 6 messages.
+[12:04:39.562][Build] Recipe returns with error code 12/null on PID 13317.
+[12:04:39.563][Build] Does the executable exist? $PATH: /home/void/.local/bin:/home/void/.opam/5.0.0/bin:/opt/texlive/2023/bin/x86_64-linux:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin, $Path: undefined, $SHELL: /bin/fish
+[12:04:39.563][Build] Latexmk: If appropriate, the -f option can be used to get latexmk
+  to try to force complete processing.
+
+[12:04:39.564][Build] Cleaning auxiliary files and retrying build after toolchain error.
+[12:04:39.565][Cleaner] Clean temporary files command The command is latexmk:["-c","%WS1%/Presi/template-pdflatex.tex"].
+[12:04:39.578][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[12:04:39.579][Build] env: {}
+[12:04:39.580][Build] root: %WS1%/Presi/template-pdflatex.tex
+[12:04:39.581][Build] cwd: %WS1%/Presi
+[12:04:39.596][Build] LaTeX build process spawned with PID 13342.
+[12:04:39.786][Event] AUTO_CLEANED
+[12:04:42.526][Parser][TexLog] Logged 7 messages.
+[12:04:42.527][Build] Recipe returns with error code 12/null on PID 13342.
+[12:04:42.528][Build] Does the executable exist? $PATH: /home/void/.local/bin:/home/void/.opam/5.0.0/bin:/opt/texlive/2023/bin/x86_64-linux:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin, $Path: undefined, $SHELL: /bin/fish
+[12:04:42.528][Build] Latexmk: If appropriate, the -f option can be used to get latexmk
+  to try to force complete processing.
+
+[12:05:14.524][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[12:05:14.583][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[12:05:14.593][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[12:05:14.595][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[12:05:14.596][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[12:05:14.598][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[12:05:14.599][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[12:05:14.600][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[12:05:14.601][Build] The languageId of the document: latex
+[12:05:14.602][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[12:05:14.603][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[12:05:14.605][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[12:05:14.610][Build][Recipe] Preparing to run recipe: latexmk.
+[12:05:14.612][Build][Recipe] Prepared 1 tools.
+[12:05:14.617][Build][Recipe] outDir: %WS1%/Presi .
+[12:05:14.622][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[12:05:14.624][Build] env: {}
+[12:05:14.625][Build] root: %WS1%/Presi/template-pdflatex.tex
+[12:05:14.627][Build] cwd: %WS1%/Presi
+[12:05:14.656][Build] LaTeX build process spawned with PID 13682.
+[12:05:14.748][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[12:05:14.749][File] Calling kpsewhich to resolve beamer.cls .
+[12:05:14.996][Cacher] Updated elements in 247.49 ms: %WS1%/Presi/template-pdflatex.tex .
+[12:05:14.998][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[12:05:14.999][Structure] Structure force updated with 14 root sections for %WS1%/Presi/template-pdflatex.tex .
+[12:05:15.000][Event] STRUCTURE_UPDATED
+[12:05:17.357][Parser][TexLog] Logged 0 messages.
+[12:05:17.357][Build] Finished a step in recipe with PID 13682.
+[12:05:17.358][Build] Successfully built %WS1%/Presi/template-pdflatex.tex .
+[12:05:17.358][Event] BUILD_DONE
+[12:05:17.359][Viewer] Call refreshExistingViewer: "%WS1%/Presi/template-pdflatex.pdf" .
+[12:05:17.359][Viewer] Refresh PDF viewer: %WS1%/Presi/template-pdflatex.pdf
+[12:05:17.361][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[12:05:17.406][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[12:05:17.406][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[12:05:17.406][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[12:05:17.453][Server] Preview PDF file: file://%WS1%/Presi/template-pdflatex.pdf
+[12:05:18.594][Viewer] Handle data type: loaded
+[12:05:18.596][Event] VIEWER_PAGE_LOADED
+[12:05:20.837][Event] STRUCTURE_UPDATED
+[12:05:25.260][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[12:05:25.329][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[12:05:25.333][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[12:05:25.336][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[12:05:25.337][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[12:05:25.338][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[12:05:25.339][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[12:05:25.340][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[12:05:25.341][Build] The languageId of the document: latex
+[12:05:25.343][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[12:05:25.344][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[12:05:25.345][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[12:05:25.354][Build][Recipe] Preparing to run recipe: latexmk.
+[12:05:25.355][Build][Recipe] Prepared 1 tools.
+[12:05:25.358][Build][Recipe] outDir: %WS1%/Presi .
+[12:05:25.361][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[12:05:25.362][Build] env: {}
+[12:05:25.363][Build] root: %WS1%/Presi/template-pdflatex.tex
+[12:05:25.364][Build] cwd: %WS1%/Presi
+[12:05:25.391][Build] LaTeX build process spawned with PID 13806.
+[12:05:25.508][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[12:05:25.509][File] Calling kpsewhich to resolve beamer.cls .
+[12:05:25.773][Cacher] Updated elements in 263.86 ms: %WS1%/Presi/template-pdflatex.tex .
+[12:05:25.774][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[12:05:25.775][Structure] Structure force updated with 14 root sections for %WS1%/Presi/template-pdflatex.tex .
+[12:05:25.776][Event] STRUCTURE_UPDATED
+[12:05:28.171][Parser][TexLog] Logged 4 messages.
+[12:05:28.172][Build] Recipe returns with error code 12/null on PID 13806.
+[12:05:28.172][Build] Does the executable exist? $PATH: /home/void/.local/bin:/home/void/.opam/5.0.0/bin:/opt/texlive/2023/bin/x86_64-linux:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin, $Path: undefined, $SHELL: /bin/fish
+[12:05:28.173][Build] Latexmk: If appropriate, the -f option can be used to get latexmk
+  to try to force complete processing.
+
+[12:05:28.174][Build] Cleaning auxiliary files and retrying build after toolchain error.
+[12:05:28.175][Cleaner] Clean temporary files command The command is latexmk:["-c","%WS1%/Presi/template-pdflatex.tex"].
+[12:05:28.185][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[12:05:28.186][Build] env: {}
+[12:05:28.186][Build] root: %WS1%/Presi/template-pdflatex.tex
+[12:05:28.186][Build] cwd: %WS1%/Presi
+[12:05:28.197][Build] LaTeX build process spawned with PID 13841.
+[12:05:28.363][Event] AUTO_CLEANED
+[12:05:29.960][Event] STRUCTURE_UPDATED
+[12:05:30.871][Parser][TexLog] Logged 5 messages.
+[12:05:30.872][Build] Recipe returns with error code 12/null on PID 13841.
+[12:05:30.872][Build] Does the executable exist? $PATH: /home/void/.local/bin:/home/void/.opam/5.0.0/bin:/opt/texlive/2023/bin/x86_64-linux:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin, $Path: undefined, $SHELL: /bin/fish
+[12:05:30.872][Build] Latexmk: If appropriate, the -f option can be used to get latexmk
+  to try to force complete processing.
+
+[12:05:34.657][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[12:05:34.716][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[12:05:34.719][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[12:05:34.720][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[12:05:34.721][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[12:05:34.721][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[12:05:34.722][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[12:05:34.722][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[12:05:34.723][Build] The languageId of the document: latex
+[12:05:34.723][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[12:05:34.724][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[12:05:34.724][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[12:05:34.727][Build][Recipe] Preparing to run recipe: latexmk.
+[12:05:34.728][Build][Recipe] Prepared 1 tools.
+[12:05:34.730][Build][Recipe] outDir: %WS1%/Presi .
+[12:05:34.731][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[12:05:34.732][Build] env: {}
+[12:05:34.732][Build] root: %WS1%/Presi/template-pdflatex.tex
+[12:05:34.733][Build] cwd: %WS1%/Presi
+[12:05:34.748][Build] LaTeX build process spawned with PID 13909.
+[12:05:34.843][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[12:05:34.871][File] Calling kpsewhich to resolve beamer.cls .
+[12:05:35.153][Cacher] Updated elements in 308.83 ms: %WS1%/Presi/template-pdflatex.tex .
+[12:05:35.155][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[12:05:35.156][Structure] Structure force updated with 14 root sections for %WS1%/Presi/template-pdflatex.tex .
+[12:05:35.156][Event] STRUCTURE_UPDATED
+[12:05:37.427][Parser][TexLog] Logged 0 messages.
+[12:05:37.428][Build] Finished a step in recipe with PID 13909.
+[12:05:37.428][Build] Successfully built %WS1%/Presi/template-pdflatex.tex .
+[12:05:37.429][Event] BUILD_DONE
+[12:05:37.429][Viewer] Call refreshExistingViewer: "%WS1%/Presi/template-pdflatex.pdf" .
+[12:05:37.430][Viewer] Refresh PDF viewer: %WS1%/Presi/template-pdflatex.pdf
+[12:05:37.431][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[12:05:37.461][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[12:05:37.462][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[12:05:37.462][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[12:05:37.465][Server] Preview PDF file: file://%WS1%/Presi/template-pdflatex.pdf
+[12:05:42.612][Viewer] Handle data type: loaded
+[12:05:42.614][Event] VIEWER_PAGE_LOADED
+[12:09:04.734][Event] STRUCTURE_UPDATED
+[12:09:44.973][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[12:09:45.040][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[12:09:45.044][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[12:09:45.046][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[12:09:45.046][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[12:09:45.047][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[12:09:45.047][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[12:09:45.048][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[12:09:45.048][Build] The languageId of the document: latex
+[12:09:45.049][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[12:09:45.049][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[12:09:45.050][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[12:09:45.052][Build][Recipe] Preparing to run recipe: latexmk.
+[12:09:45.052][Build][Recipe] Prepared 1 tools.
+[12:09:45.054][Build][Recipe] outDir: %WS1%/Presi .
+[12:09:45.055][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[12:09:45.055][Build] env: {}
+[12:09:45.056][Build] root: %WS1%/Presi/template-pdflatex.tex
+[12:09:45.056][Build] cwd: %WS1%/Presi
+[12:09:45.070][Build] LaTeX build process spawned with PID 16316.
+[12:09:45.113][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[12:09:45.114][File] Calling kpsewhich to resolve beamer.cls .
+[12:09:45.363][Cacher] Updated elements in 249.43 ms: %WS1%/Presi/template-pdflatex.tex .
+[12:09:45.364][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[12:09:45.365][Structure] Structure force updated with 14 root sections for %WS1%/Presi/template-pdflatex.tex .
+[12:09:45.366][Event] STRUCTURE_UPDATED
+[12:09:48.045][Parser][TexLog] Logged 0 messages.
+[12:09:48.046][Build] Finished a step in recipe with PID 16316.
+[12:09:48.047][Build] Successfully built %WS1%/Presi/template-pdflatex.tex .
+[12:09:48.048][Event] BUILD_DONE
+[12:09:48.048][Viewer] Call refreshExistingViewer: "%WS1%/Presi/template-pdflatex.pdf" .
+[12:09:48.049][Viewer] Refresh PDF viewer: %WS1%/Presi/template-pdflatex.pdf
+[12:09:48.050][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[12:09:48.083][Cacher] Adding %WS1%/Presi/img/TEA.png .
+[12:09:48.084][Cacher][Watcher] Watched %WS1%/Presi/img/TEA.png .
+[12:09:48.084][Event] FILE_WATCHED: "%WS1%/Presi/img/TEA.png"
+[12:09:48.085][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[12:09:48.085][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[12:09:48.085][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[12:09:48.089][Server] Preview PDF file: file://%WS1%/Presi/template-pdflatex.pdf
+[12:10:25.764][Viewer] Handle data type: loaded
+[12:10:25.766][Event] VIEWER_PAGE_LOADED
+[12:46:26.535][Event] STRUCTURE_UPDATED
+[13:58:17.097][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[13:58:17.157][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[13:58:17.167][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[13:58:17.170][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[13:58:17.171][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[13:58:17.172][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[13:58:17.173][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[13:58:17.174][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[13:58:17.175][Build] The languageId of the document: latex
+[13:58:17.176][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[13:58:17.177][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[13:58:17.178][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[13:58:17.183][Build][Recipe] Preparing to run recipe: latexmk.
+[13:58:17.185][Build][Recipe] Prepared 1 tools.
+[13:58:17.189][Build][Recipe] outDir: %WS1%/Presi .
+[13:58:17.192][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[13:58:17.193][Build] env: {}
+[13:58:17.193][Build] root: %WS1%/Presi/template-pdflatex.tex
+[13:58:17.195][Build] cwd: %WS1%/Presi
+[13:58:17.223][Build] LaTeX build process spawned with PID 11991.
+[13:58:17.318][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[13:58:17.320][File] Calling kpsewhich to resolve beamer.cls .
+[13:58:17.585][Cacher] Updated elements in 265.45 ms: %WS1%/Presi/template-pdflatex.tex .
+[13:58:17.587][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[13:58:17.588][Structure] Structure force updated with 14 root sections for %WS1%/Presi/template-pdflatex.tex .
+[13:58:17.589][Event] STRUCTURE_UPDATED
+[13:58:20.025][Parser][TexLog] Logged 1 messages.
+[13:58:20.026][Build] Recipe returns with error code 12/null on PID 11991.
+[13:58:20.027][Build] Does the executable exist? $PATH: /home/void/.local/bin:/home/void/.opam/5.0.0/bin:/opt/texlive/2023/bin/x86_64-linux:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin, $Path: undefined, $SHELL: /bin/fish
+[13:58:20.027][Build] Latexmk: If appropriate, the -f option can be used to get latexmk
+  to try to force complete processing.
+
+[13:58:20.027][Build] Cleaning auxiliary files and retrying build after toolchain error.
+[13:58:20.028][Cleaner] Clean temporary files command The command is latexmk:["-c","%WS1%/Presi/template-pdflatex.tex"].
+[13:58:20.038][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[13:58:20.039][Build] env: {}
+[13:58:20.039][Build] root: %WS1%/Presi/template-pdflatex.tex
+[13:58:20.040][Build] cwd: %WS1%/Presi
+[13:58:20.049][Build] LaTeX build process spawned with PID 12025.
+[13:58:20.216][Event] AUTO_CLEANED
+[13:58:21.796][Event] STRUCTURE_UPDATED
+[13:58:22.776][Parser][TexLog] Logged 2 messages.
+[13:58:22.777][Build] Recipe returns with error code 12/null on PID 12025.
+[13:58:22.777][Build] Does the executable exist? $PATH: /home/void/.local/bin:/home/void/.opam/5.0.0/bin:/opt/texlive/2023/bin/x86_64-linux:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin, $Path: undefined, $SHELL: /bin/fish
+[13:58:22.778][Build] Latexmk: If appropriate, the -f option can be used to get latexmk
+  to try to force complete processing.
+
+[13:58:26.044][Event] STRUCTURE_UPDATED
+[13:59:20.780][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[13:59:20.826][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[13:59:20.835][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[13:59:20.838][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[13:59:20.839][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[13:59:20.841][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[13:59:20.842][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[13:59:20.844][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[13:59:20.845][Build] The languageId of the document: latex
+[13:59:20.846][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[13:59:20.848][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[13:59:20.849][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[13:59:20.855][Build][Recipe] Preparing to run recipe: latexmk.
+[13:59:20.857][Build][Recipe] Prepared 1 tools.
+[13:59:20.862][Build][Recipe] outDir: %WS1%/Presi .
+[13:59:20.866][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[13:59:20.867][Build] env: {}
+[13:59:20.869][Build] root: %WS1%/Presi/template-pdflatex.tex
+[13:59:20.871][Build] cwd: %WS1%/Presi
+[13:59:20.903][Build] LaTeX build process spawned with PID 12902.
+[13:59:21.052][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[13:59:21.053][File] Calling kpsewhich to resolve beamer.cls .
+[13:59:21.290][Cacher] Updated elements in 236.85 ms: %WS1%/Presi/template-pdflatex.tex .
+[13:59:21.291][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[13:59:21.292][Structure] Structure force updated with 14 root sections for %WS1%/Presi/template-pdflatex.tex .
+[13:59:21.293][Event] STRUCTURE_UPDATED
+[13:59:23.624][Parser][TexLog] Logged 1 messages.
+[13:59:23.625][Build] Recipe returns with error code 12/null on PID 12902.
+[13:59:23.626][Build] Does the executable exist? $PATH: /home/void/.local/bin:/home/void/.opam/5.0.0/bin:/opt/texlive/2023/bin/x86_64-linux:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin, $Path: undefined, $SHELL: /bin/fish
+[13:59:23.626][Build] Latexmk: If appropriate, the -f option can be used to get latexmk
+  to try to force complete processing.
+
+[13:59:23.627][Build] Cleaning auxiliary files and retrying build after toolchain error.
+[13:59:23.627][Cleaner] Clean temporary files command The command is latexmk:["-c","%WS1%/Presi/template-pdflatex.tex"].
+[13:59:23.638][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[13:59:23.639][Build] env: {}
+[13:59:23.639][Build] root: %WS1%/Presi/template-pdflatex.tex
+[13:59:23.640][Build] cwd: %WS1%/Presi
+[13:59:23.649][Build] LaTeX build process spawned with PID 12935.
+[13:59:23.838][Event] AUTO_CLEANED
+[13:59:26.152][Parser][TexLog] Logged 2 messages.
+[13:59:26.153][Build] Recipe returns with error code 12/null on PID 12935.
+[13:59:26.153][Build] Does the executable exist? $PATH: /home/void/.local/bin:/home/void/.opam/5.0.0/bin:/opt/texlive/2023/bin/x86_64-linux:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin, $Path: undefined, $SHELL: /bin/fish
+[13:59:26.154][Build] Latexmk: If appropriate, the -f option can be used to get latexmk
+  to try to force complete processing.
+
+[14:00:02.666][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[14:00:02.727][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[14:00:02.736][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[14:00:02.739][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[14:00:02.740][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[14:00:02.741][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[14:00:02.742][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[14:00:02.743][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[14:00:02.744][Build] The languageId of the document: latex
+[14:00:02.745][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[14:00:02.746][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[14:00:02.747][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[14:00:02.756][Build][Recipe] Preparing to run recipe: latexmk.
+[14:00:02.757][Build][Recipe] Prepared 1 tools.
+[14:00:02.761][Build][Recipe] outDir: %WS1%/Presi .
+[14:00:02.764][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[14:00:02.765][Build] env: {}
+[14:00:02.766][Build] root: %WS1%/Presi/template-pdflatex.tex
+[14:00:02.767][Build] cwd: %WS1%/Presi
+[14:00:02.798][Build] LaTeX build process spawned with PID 13304.
+[14:00:02.913][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[14:00:02.914][File] Calling kpsewhich to resolve beamer.cls .
+[14:00:03.160][Cacher] Updated elements in 246.78 ms: %WS1%/Presi/template-pdflatex.tex .
+[14:00:03.161][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[14:00:03.163][Structure] Structure force updated with 14 root sections for %WS1%/Presi/template-pdflatex.tex .
+[14:00:03.163][Event] STRUCTURE_UPDATED
+[14:00:05.581][Parser][TexLog] Logged 1 messages.
+[14:00:05.582][Build] Recipe returns with error code 12/null on PID 13304.
+[14:00:05.582][Build] Does the executable exist? $PATH: /home/void/.local/bin:/home/void/.opam/5.0.0/bin:/opt/texlive/2023/bin/x86_64-linux:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin, $Path: undefined, $SHELL: /bin/fish
+[14:00:05.583][Build] Latexmk: If appropriate, the -f option can be used to get latexmk
+  to try to force complete processing.
+
+[14:00:05.583][Build] Cleaning auxiliary files and retrying build after toolchain error.
+[14:00:05.584][Cleaner] Clean temporary files command The command is latexmk:["-c","%WS1%/Presi/template-pdflatex.tex"].
+[14:00:05.595][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[14:00:05.595][Build] env: {}
+[14:00:05.596][Build] root: %WS1%/Presi/template-pdflatex.tex
+[14:00:05.596][Build] cwd: %WS1%/Presi
+[14:00:05.607][Build] LaTeX build process spawned with PID 13338.
+[14:00:05.793][Event] AUTO_CLEANED
+[14:00:08.130][Parser][TexLog] Logged 2 messages.
+[14:00:08.131][Build] Recipe returns with error code 12/null on PID 13338.
+[14:00:08.131][Build] Does the executable exist? $PATH: /home/void/.local/bin:/home/void/.opam/5.0.0/bin:/opt/texlive/2023/bin/x86_64-linux:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin, $Path: undefined, $SHELL: /bin/fish
+[14:00:08.132][Build] Latexmk: If appropriate, the -f option can be used to get latexmk
+  to try to force complete processing.
+
+[14:01:59.787][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[14:01:59.848][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[14:01:59.857][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[14:01:59.859][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[14:01:59.860][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[14:01:59.862][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[14:01:59.863][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[14:01:59.865][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[14:01:59.866][Build] The languageId of the document: latex
+[14:01:59.867][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[14:01:59.869][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[14:01:59.870][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[14:01:59.874][Build][Recipe] Preparing to run recipe: latexmk.
+[14:01:59.876][Build][Recipe] Prepared 1 tools.
+[14:01:59.879][Build][Recipe] outDir: %WS1%/Presi .
+[14:01:59.882][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[14:01:59.883][Build] env: {}
+[14:01:59.885][Build] root: %WS1%/Presi/template-pdflatex.tex
+[14:01:59.887][Build] cwd: %WS1%/Presi
+[14:01:59.919][Build] LaTeX build process spawned with PID 14395.
+[14:02:00.035][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[14:02:00.036][File] Calling kpsewhich to resolve beamer.cls .
+[14:02:00.286][Cacher] Updated elements in 250.09 ms: %WS1%/Presi/template-pdflatex.tex .
+[14:02:00.287][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[14:02:00.288][Structure] Structure force updated with 14 root sections for %WS1%/Presi/template-pdflatex.tex .
+[14:02:00.289][Event] STRUCTURE_UPDATED
+[14:02:00.293][Build] Recipe returns with error code 12/null on PID 14395.
+[14:02:00.294][Build] Does the executable exist? $PATH: /home/void/.local/bin:/home/void/.opam/5.0.0/bin:/opt/texlive/2023/bin/x86_64-linux:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin, $Path: undefined, $SHELL: /bin/fish
+[14:02:00.294][Build] Latexmk: If appropriate, the -f option can be used to get latexmk
+  to try to force complete processing.
+
+[14:02:00.295][Build] Cleaning auxiliary files and retrying build after toolchain error.
+[14:02:00.296][Cleaner] Clean temporary files command The command is latexmk:["-c","%WS1%/Presi/template-pdflatex.tex"].
+[14:02:00.310][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[14:02:00.311][Build] env: {}
+[14:02:00.311][Build] root: %WS1%/Presi/template-pdflatex.tex
+[14:02:00.312][Build] cwd: %WS1%/Presi
+[14:02:00.326][Build] LaTeX build process spawned with PID 14407.
+[14:02:00.556][Event] AUTO_CLEANED
+[14:02:03.033][Parser][TexLog] Logged 2 messages.
+[14:02:03.034][Build] Recipe returns with error code 12/null on PID 14407.
+[14:02:03.034][Build] Does the executable exist? $PATH: /home/void/.local/bin:/home/void/.opam/5.0.0/bin:/opt/texlive/2023/bin/x86_64-linux:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin, $Path: undefined, $SHELL: /bin/fish
+[14:02:03.034][Build] Latexmk: If appropriate, the -f option can be used to get latexmk
+  to try to force complete processing.
+
+[14:02:46.071][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[14:02:46.124][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[14:02:46.130][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[14:02:46.131][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[14:02:46.132][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[14:02:46.133][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[14:02:46.133][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[14:02:46.134][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[14:02:46.134][Build] The languageId of the document: latex
+[14:02:46.135][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[14:02:46.135][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[14:02:46.136][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[14:02:46.138][Build][Recipe] Preparing to run recipe: latexmk.
+[14:02:46.138][Build][Recipe] Prepared 1 tools.
+[14:02:46.140][Build][Recipe] outDir: %WS1%/Presi .
+[14:02:46.141][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[14:02:46.142][Build] env: {}
+[14:02:46.143][Build] root: %WS1%/Presi/template-pdflatex.tex
+[14:02:46.143][Build] cwd: %WS1%/Presi
+[14:02:46.156][Build] LaTeX build process spawned with PID 14864.
+[14:02:46.230][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[14:02:46.231][File] Calling kpsewhich to resolve beamer.cls .
+[14:02:46.492][Cacher] Updated elements in 261.16 ms: %WS1%/Presi/template-pdflatex.tex .
+[14:02:46.493][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[14:02:46.495][Structure] Structure force updated with 14 root sections for %WS1%/Presi/template-pdflatex.tex .
+[14:02:46.496][Event] STRUCTURE_UPDATED
+[14:02:48.907][Parser][TexLog] Logged 0 messages.
+[14:02:48.909][Build] Finished a step in recipe with PID 14864.
+[14:02:48.909][Build] Successfully built %WS1%/Presi/template-pdflatex.tex .
+[14:02:48.909][Event] BUILD_DONE
+[14:02:48.910][Viewer] Call refreshExistingViewer: "%WS1%/Presi/template-pdflatex.pdf" .
+[14:02:48.911][Viewer] Refresh PDF viewer: %WS1%/Presi/template-pdflatex.pdf
+[14:02:48.913][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[14:02:48.943][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[14:02:48.943][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[14:02:48.944][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[14:02:48.995][Server] Preview PDF file: file://%WS1%/Presi/template-pdflatex.pdf
+[14:02:52.408][Viewer] Handle data type: loaded
+[14:02:52.409][Event] VIEWER_PAGE_LOADED
+[14:03:06.965][Event] STRUCTURE_UPDATED
+[14:03:32.506][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[14:03:32.568][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[14:03:32.569][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[14:03:32.571][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[14:03:32.571][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[14:03:32.572][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[14:03:32.572][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[14:03:32.573][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[14:03:32.573][Build] The languageId of the document: latex
+[14:03:32.573][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[14:03:32.574][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[14:03:32.574][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[14:03:32.576][Build][Recipe] Preparing to run recipe: latexmk.
+[14:03:32.577][Build][Recipe] Prepared 1 tools.
+[14:03:32.579][Build][Recipe] outDir: %WS1%/Presi .
+[14:03:32.581][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[14:03:32.582][Build] env: {}
+[14:03:32.582][Build] root: %WS1%/Presi/template-pdflatex.tex
+[14:03:32.582][Build] cwd: %WS1%/Presi
+[14:03:32.594][Build] LaTeX build process spawned with PID 15314.
+[14:03:32.774][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[14:03:32.775][File] Calling kpsewhich to resolve beamer.cls .
+[14:03:33.066][Cacher] Updated elements in 290.50 ms: %WS1%/Presi/template-pdflatex.tex .
+[14:03:33.067][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[14:03:33.069][Structure] Structure force updated with 14 root sections for %WS1%/Presi/template-pdflatex.tex .
+[14:03:33.069][Event] STRUCTURE_UPDATED
+[14:03:37.702][Parser][TexLog] Logged 0 messages.
+[14:03:37.703][Build] Finished a step in recipe with PID 15314.
+[14:03:37.703][Build] Successfully built %WS1%/Presi/template-pdflatex.tex .
+[14:03:37.704][Event] BUILD_DONE
+[14:03:37.704][Viewer] Call refreshExistingViewer: "%WS1%/Presi/template-pdflatex.pdf" .
+[14:03:37.704][Viewer] Refresh PDF viewer: %WS1%/Presi/template-pdflatex.pdf
+[14:03:37.706][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[14:03:37.737][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[14:03:37.738][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[14:03:37.738][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[14:03:37.763][Server] Preview PDF file: file://%WS1%/Presi/template-pdflatex.pdf
+[14:03:37.857][Viewer] Handle data type: loaded
+[14:03:37.857][Event] VIEWER_PAGE_LOADED
+[14:03:39.041][Event] STRUCTURE_UPDATED
+[14:03:50.467][Event] STRUCTURE_UPDATED
+[14:56:08.898][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[14:56:08.959][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[14:56:08.962][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[14:56:08.964][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[14:56:08.965][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[14:56:08.966][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[14:56:08.967][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[14:56:08.968][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[14:56:08.969][Build] The languageId of the document: latex
+[14:56:08.970][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[14:56:08.971][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[14:56:08.972][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[14:56:08.976][Build][Recipe] Preparing to run recipe: latexmk.
+[14:56:08.977][Build][Recipe] Prepared 1 tools.
+[14:56:08.981][Build][Recipe] outDir: %WS1%/Presi .
+[14:56:08.983][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[14:56:08.984][Build] env: {}
+[14:56:08.985][Build] root: %WS1%/Presi/template-pdflatex.tex
+[14:56:08.986][Build] cwd: %WS1%/Presi
+[14:56:09.011][Build] LaTeX build process spawned with PID 14081.
+[14:56:09.089][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[14:56:09.090][File] Calling kpsewhich to resolve beamer.cls .
+[14:56:09.320][Cacher] Updated elements in 230.16 ms: %WS1%/Presi/template-pdflatex.tex .
+[14:56:09.321][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[14:56:09.323][Structure] Structure force updated with 14 root sections for %WS1%/Presi/template-pdflatex.tex .
+[14:56:09.323][Event] STRUCTURE_UPDATED
+[14:56:11.475][Parser][TexLog] Logged 0 messages.
+[14:56:11.475][Build] Finished a step in recipe with PID 14081.
+[14:56:11.476][Build] Successfully built %WS1%/Presi/template-pdflatex.tex .
+[14:56:11.476][Event] BUILD_DONE
+[14:56:11.477][Viewer] Call refreshExistingViewer: "%WS1%/Presi/template-pdflatex.pdf" .
+[14:56:11.477][Viewer] Refresh PDF viewer: %WS1%/Presi/template-pdflatex.pdf
+[14:56:11.479][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[14:56:11.502][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[14:56:11.502][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[14:56:11.503][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[14:56:11.507][Server] Preview PDF file: file://%WS1%/Presi/template-pdflatex.pdf
+[14:56:34.183][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[14:56:34.243][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[14:56:34.248][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[14:56:34.251][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[14:56:34.252][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[14:56:34.254][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[14:56:34.256][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[14:56:34.257][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[14:56:34.259][Build] The languageId of the document: latex
+[14:56:34.260][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[14:56:34.262][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[14:56:34.263][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[14:56:34.268][Build][Recipe] Preparing to run recipe: latexmk.
+[14:56:34.270][Build][Recipe] Prepared 1 tools.
+[14:56:34.275][Build][Recipe] outDir: %WS1%/Presi .
+[14:56:34.279][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[14:56:34.281][Build] env: {}
+[14:56:34.282][Build] root: %WS1%/Presi/template-pdflatex.tex
+[14:56:34.285][Build] cwd: %WS1%/Presi
+[14:56:34.313][Build] LaTeX build process spawned with PID 14328.
+[14:56:34.374][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[14:56:34.375][File] Calling kpsewhich to resolve beamer.cls .
+[14:56:34.596][Cacher] Updated elements in 221.59 ms: %WS1%/Presi/template-pdflatex.tex .
+[14:56:34.598][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[14:56:34.599][Structure] Structure force updated with 14 root sections for %WS1%/Presi/template-pdflatex.tex .
+[14:56:34.600][Event] STRUCTURE_UPDATED
+[14:56:34.845][Viewer] Handle data type: loaded
+[14:56:34.846][Event] VIEWER_PAGE_LOADED
+[14:56:36.929][Parser][TexLog] Logged 0 messages.
+[14:56:36.929][Build] Finished a step in recipe with PID 14328.
+[14:56:36.930][Build] Successfully built %WS1%/Presi/template-pdflatex.tex .
+[14:56:36.930][Event] BUILD_DONE
+[14:56:36.930][Viewer] Call refreshExistingViewer: "%WS1%/Presi/template-pdflatex.pdf" .
+[14:56:36.931][Viewer] Refresh PDF viewer: %WS1%/Presi/template-pdflatex.pdf
+[14:56:36.932][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[14:56:36.953][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[14:56:36.954][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[14:56:36.954][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[14:56:36.957][Server] Preview PDF file: file://%WS1%/Presi/template-pdflatex.pdf
+[14:56:36.984][Viewer] Handle data type: loaded
+[14:56:36.984][Event] VIEWER_PAGE_LOADED
+[15:21:44.609][Event] STRUCTURE_UPDATED
+[15:22:27.770][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[15:22:27.830][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[15:22:27.838][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[15:22:27.841][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[15:22:27.842][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[15:22:27.843][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[15:22:27.844][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[15:22:27.845][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[15:22:27.846][Build] The languageId of the document: latex
+[15:22:27.847][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[15:22:27.848][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[15:22:27.849][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[15:22:27.854][Build][Recipe] Preparing to run recipe: latexmk.
+[15:22:27.855][Build][Recipe] Prepared 1 tools.
+[15:22:27.859][Build][Recipe] outDir: %WS1%/Presi .
+[15:22:27.862][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[15:22:27.863][Build] env: {}
+[15:22:27.864][Build] root: %WS1%/Presi/template-pdflatex.tex
+[15:22:27.865][Build] cwd: %WS1%/Presi
+[15:22:27.896][Build] LaTeX build process spawned with PID 28491.
+[15:22:27.995][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[15:22:27.997][File] Calling kpsewhich to resolve beamer.cls .
+[15:22:28.250][Cacher] Updated elements in 253.32 ms: %WS1%/Presi/template-pdflatex.tex .
+[15:22:28.251][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[15:22:28.252][Structure] Structure force updated with 14 root sections for %WS1%/Presi/template-pdflatex.tex .
+[15:22:28.252][Event] STRUCTURE_UPDATED
+[15:22:30.552][Parser][TexLog] Logged 0 messages.
+[15:22:30.552][Build] Finished a step in recipe with PID 28491.
+[15:22:30.553][Build] Successfully built %WS1%/Presi/template-pdflatex.tex .
+[15:22:30.553][Event] BUILD_DONE
+[15:22:30.553][Viewer] Call refreshExistingViewer: "%WS1%/Presi/template-pdflatex.pdf" .
+[15:22:30.554][Viewer] Refresh PDF viewer: %WS1%/Presi/template-pdflatex.pdf
+[15:22:30.555][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[15:22:30.592][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[15:22:30.593][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[15:22:30.593][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[15:22:30.597][Server] Preview PDF file: file://%WS1%/Presi/template-pdflatex.pdf
+[15:26:28.022][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[15:26:28.084][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[15:26:28.097][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[15:26:28.101][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[15:26:28.102][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[15:26:28.104][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[15:26:28.105][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[15:26:28.106][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[15:26:28.106][Build] The languageId of the document: latex
+[15:26:28.107][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[15:26:28.108][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[15:26:28.109][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[15:26:28.118][Build][Recipe] Preparing to run recipe: latexmk.
+[15:26:28.120][Build][Recipe] Prepared 1 tools.
+[15:26:28.123][Build][Recipe] outDir: %WS1%/Presi .
+[15:26:28.125][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[15:26:28.126][Build] env: {}
+[15:26:28.127][Build] root: %WS1%/Presi/template-pdflatex.tex
+[15:26:28.129][Build] cwd: %WS1%/Presi
+[15:26:28.157][Build] LaTeX build process spawned with PID 30715.
+[15:26:28.285][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[15:26:28.286][File] Calling kpsewhich to resolve beamer.cls .
+[15:26:28.502][Cacher] Updated elements in 216.29 ms: %WS1%/Presi/template-pdflatex.tex .
+[15:26:28.503][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[15:26:28.504][Structure] Structure force updated with 14 root sections for %WS1%/Presi/template-pdflatex.tex .
+[15:26:28.504][Event] STRUCTURE_UPDATED
+[15:26:30.662][Parser][TexLog] Logged 6 messages.
+[15:26:30.663][Build] Recipe returns with error code 12/null on PID 30715.
+[15:26:30.664][Build] Does the executable exist? $PATH: /home/void/.local/bin:/home/void/.opam/5.0.0/bin:/opt/texlive/2023/bin/x86_64-linux:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin, $Path: undefined, $SHELL: /bin/fish
+[15:26:30.664][Build] Latexmk: If appropriate, the -f option can be used to get latexmk
+  to try to force complete processing.
+
+[15:26:30.665][Build] Cleaning auxiliary files and retrying build after toolchain error.
+[15:26:30.667][Cleaner] Clean temporary files command The command is latexmk:["-c","%WS1%/Presi/template-pdflatex.tex"].
+[15:26:30.677][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[15:26:30.678][Build] env: {}
+[15:26:30.678][Build] root: %WS1%/Presi/template-pdflatex.tex
+[15:26:30.679][Build] cwd: %WS1%/Presi
+[15:26:30.687][Build] LaTeX build process spawned with PID 30740.
+[15:26:30.846][Event] AUTO_CLEANED
+[15:26:33.065][Parser][TexLog] Logged 8 messages.
+[15:26:33.066][Build] Recipe returns with error code 12/null on PID 30740.
+[15:26:33.066][Build] Does the executable exist? $PATH: /home/void/.local/bin:/home/void/.opam/5.0.0/bin:/opt/texlive/2023/bin/x86_64-linux:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin, $Path: undefined, $SHELL: /bin/fish
+[15:26:33.066][Build] Latexmk: If appropriate, the -f option can be used to get latexmk
+  to try to force complete processing.
+
+[15:26:35.211][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[15:26:35.279][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[15:26:35.283][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[15:26:35.284][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[15:26:35.285][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[15:26:35.285][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[15:26:35.286][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[15:26:35.287][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[15:26:35.287][Build] The languageId of the document: latex
+[15:26:35.287][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[15:26:35.288][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[15:26:35.289][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[15:26:35.291][Build][Recipe] Preparing to run recipe: latexmk.
+[15:26:35.292][Build][Recipe] Prepared 1 tools.
+[15:26:35.293][Build][Recipe] outDir: %WS1%/Presi .
+[15:26:35.296][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[15:26:35.296][Build] env: {}
+[15:26:35.297][Build] root: %WS1%/Presi/template-pdflatex.tex
+[15:26:35.298][Build] cwd: %WS1%/Presi
+[15:26:35.313][Build] LaTeX build process spawned with PID 30793.
+[15:26:35.366][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[15:26:35.367][File] Calling kpsewhich to resolve beamer.cls .
+[15:26:35.583][Cacher] Updated elements in 216.53 ms: %WS1%/Presi/template-pdflatex.tex .
+[15:26:35.584][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[15:26:35.585][Structure] Structure force updated with 14 root sections for %WS1%/Presi/template-pdflatex.tex .
+[15:26:35.586][Event] STRUCTURE_UPDATED
+[15:26:37.727][Parser][TexLog] Logged 0 messages.
+[15:26:37.727][Build] Finished a step in recipe with PID 30793.
+[15:26:37.728][Build] Successfully built %WS1%/Presi/template-pdflatex.tex .
+[15:26:37.729][Event] BUILD_DONE
+[15:26:37.730][Viewer] Call refreshExistingViewer: "%WS1%/Presi/template-pdflatex.pdf" .
+[15:26:37.730][Viewer] Refresh PDF viewer: %WS1%/Presi/template-pdflatex.pdf
+[15:26:37.732][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[15:26:37.767][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[15:26:37.768][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[15:26:37.768][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[15:26:37.773][Server] Preview PDF file: file://%WS1%/Presi/template-pdflatex.pdf
+[15:26:42.960][Viewer] Handle data type: loaded
+[15:26:42.960][Event] VIEWER_PAGE_LOADED
+[15:26:42.961][Viewer] Handle data type: loaded
+[15:26:42.961][Event] VIEWER_PAGE_LOADED
+[15:27:54.125][Event] STRUCTURE_UPDATED
+[15:27:59.156][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[15:27:59.217][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[15:27:59.221][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[15:27:59.223][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[15:27:59.224][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[15:27:59.225][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[15:27:59.226][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[15:27:59.227][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[15:27:59.228][Build] The languageId of the document: latex
+[15:27:59.229][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[15:27:59.230][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[15:27:59.231][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[15:27:59.237][Build][Recipe] Preparing to run recipe: latexmk.
+[15:27:59.238][Build][Recipe] Prepared 1 tools.
+[15:27:59.241][Build][Recipe] outDir: %WS1%/Presi .
+[15:27:59.243][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[15:27:59.244][Build] env: {}
+[15:27:59.245][Build] root: %WS1%/Presi/template-pdflatex.tex
+[15:27:59.250][Build] cwd: %WS1%/Presi
+[15:27:59.279][Build] LaTeX build process spawned with PID 31584.
+[15:27:59.355][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[15:27:59.355][File] Calling kpsewhich to resolve beamer.cls .
+[15:27:59.569][Cacher] Updated elements in 213.84 ms: %WS1%/Presi/template-pdflatex.tex .
+[15:27:59.570][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[15:27:59.573][Structure] Structure force updated with 14 root sections for %WS1%/Presi/template-pdflatex.tex .
+[15:27:59.573][Event] STRUCTURE_UPDATED
+[15:28:01.683][Parser][TexLog] Logged 0 messages.
+[15:28:01.684][Build] Finished a step in recipe with PID 31584.
+[15:28:01.684][Build] Successfully built %WS1%/Presi/template-pdflatex.tex .
+[15:28:01.685][Event] BUILD_DONE
+[15:28:01.685][Viewer] Call refreshExistingViewer: "%WS1%/Presi/template-pdflatex.pdf" .
+[15:28:01.685][Viewer] Refresh PDF viewer: %WS1%/Presi/template-pdflatex.pdf
+[15:28:01.687][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[15:28:01.711][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[15:28:01.712][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[15:28:01.712][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[15:28:01.715][Server] Preview PDF file: file://%WS1%/Presi/template-pdflatex.pdf
+[15:28:19.867][Viewer] Handle data type: loaded
+[15:28:19.868][Event] VIEWER_PAGE_LOADED
+[15:57:00.635][Event] STRUCTURE_UPDATED
+[16:11:07.519][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[16:11:07.591][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[16:11:07.605][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[16:11:07.608][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[16:11:07.614][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[16:11:07.616][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[16:11:07.622][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[16:11:07.624][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[16:11:07.629][Build] The languageId of the document: latex
+[16:11:07.631][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[16:11:07.633][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[16:11:07.634][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[16:11:07.647][Build][Recipe] Preparing to run recipe: latexmk.
+[16:11:07.649][Build][Recipe] Prepared 1 tools.
+[16:11:07.662][Build][Recipe] outDir: %WS1%/Presi .
+[16:11:07.666][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[16:11:07.668][Build] env: {}
+[16:11:07.669][Build] root: %WS1%/Presi/template-pdflatex.tex
+[16:11:07.671][Build] cwd: %WS1%/Presi
+[16:11:07.712][Build] LaTeX build process spawned with PID 23576.
+[16:11:07.801][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[16:11:07.801][File] Calling kpsewhich to resolve beamer.cls .
+[16:11:08.022][Cacher] Updated elements in 220.50 ms: %WS1%/Presi/template-pdflatex.tex .
+[16:11:08.023][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[16:11:08.025][Structure] Structure force updated with 14 root sections for %WS1%/Presi/template-pdflatex.tex .
+[16:11:08.025][Event] STRUCTURE_UPDATED
+[16:11:10.299][Parser][TexLog] Logged 0 messages.
+[16:11:10.299][Build] Finished a step in recipe with PID 23576.
+[16:11:10.300][Build] Successfully built %WS1%/Presi/template-pdflatex.tex .
+[16:11:10.300][Event] BUILD_DONE
+[16:11:10.301][Viewer] Call refreshExistingViewer: "%WS1%/Presi/template-pdflatex.pdf" .
+[16:11:10.301][Viewer] Refresh PDF viewer: %WS1%/Presi/template-pdflatex.pdf
+[16:11:10.302][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[16:11:10.325][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[16:11:10.325][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[16:11:10.325][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[16:11:10.328][Server] Preview PDF file: file://%WS1%/Presi/template-pdflatex.pdf
+[16:12:26.502][Viewer] Handle data type: loaded
+[16:12:26.503][Event] VIEWER_PAGE_LOADED
+[16:22:26.943][Event] STRUCTURE_UPDATED
+[16:26:12.392][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[16:26:12.455][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[16:26:12.457][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[16:26:12.458][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[16:26:12.458][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[16:26:12.458][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[16:26:12.458][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[16:26:12.458][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[16:26:12.459][Build] The languageId of the document: latex
+[16:26:12.459][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[16:26:12.459][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[16:26:12.459][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[16:26:12.469][Build][Recipe] Preparing to run recipe: latexmk.
+[16:26:12.470][Build][Recipe] Prepared 1 tools.
+[16:26:12.470][Build][Recipe] outDir: %WS1%/Presi .
+[16:26:12.471][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[16:26:12.471][Build] env: {}
+[16:26:12.472][Build] root: %WS1%/Presi/template-pdflatex.tex
+[16:26:12.472][Build] cwd: %WS1%/Presi
+[16:26:12.480][Build] LaTeX build process spawned with PID 32070.
+[16:26:12.523][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[16:26:12.524][File] Calling kpsewhich to resolve beamer.cls .
+[16:26:12.679][Cacher] Updated elements in 155.90 ms: %WS1%/Presi/template-pdflatex.tex .
+[16:26:12.680][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[16:26:12.681][Structure] Structure force updated with 14 root sections for %WS1%/Presi/template-pdflatex.tex .
+[16:26:12.681][Event] STRUCTURE_UPDATED
+[16:26:15.630][Parser][TexLog] Logged 0 messages.
+[16:26:15.631][Build] Finished a step in recipe with PID 32070.
+[16:26:15.631][Build] Successfully built %WS1%/Presi/template-pdflatex.tex .
+[16:26:15.631][Event] BUILD_DONE
+[16:26:15.632][Viewer] Call refreshExistingViewer: "%WS1%/Presi/template-pdflatex.pdf" .
+[16:26:15.632][Viewer] Refresh PDF viewer: %WS1%/Presi/template-pdflatex.pdf
+[16:26:15.633][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[16:26:15.658][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[16:26:15.659][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[16:26:15.659][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[16:26:15.662][Server] Preview PDF file: file://%WS1%/Presi/template-pdflatex.pdf
+[16:26:17.712][Viewer] Handle data type: loaded
+[16:26:17.713][Event] VIEWER_PAGE_LOADED
+[16:26:29.757][Event] STRUCTURE_UPDATED
+[16:30:07.770][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[16:30:07.843][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[16:30:07.844][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[16:30:07.845][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[16:30:07.845][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[16:30:07.845][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[16:30:07.846][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[16:30:07.846][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[16:30:07.846][Build] The languageId of the document: latex
+[16:30:07.846][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[16:30:07.846][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[16:30:07.847][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[16:30:07.848][Build][Recipe] Preparing to run recipe: latexmk.
+[16:30:07.848][Build][Recipe] Prepared 1 tools.
+[16:30:07.849][Build][Recipe] outDir: %WS1%/Presi .
+[16:30:07.850][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[16:30:07.850][Build] env: {}
+[16:30:07.850][Build] root: %WS1%/Presi/template-pdflatex.tex
+[16:30:07.851][Build] cwd: %WS1%/Presi
+[16:30:07.859][Build] LaTeX build process spawned with PID 2106.
+[16:30:07.886][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[16:30:07.886][File] Calling kpsewhich to resolve beamer.cls .
+[16:30:08.033][Cacher] Updated elements in 147.04 ms: %WS1%/Presi/template-pdflatex.tex .
+[16:30:08.034][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[16:30:08.035][Structure] Structure force updated with 15 root sections for %WS1%/Presi/template-pdflatex.tex .
+[16:30:08.036][Event] STRUCTURE_UPDATED
+[16:30:09.552][Parser][TexLog] Logged 8 messages.
+[16:30:09.553][Build] Recipe returns with error code 12/null on PID 2106.
+[16:30:09.554][Build] Does the executable exist? $PATH: /home/void/.local/bin:/home/void/.opam/5.0.0/bin:/opt/texlive/2023/bin/x86_64-linux:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin, $Path: undefined, $SHELL: /bin/fish
+[16:30:09.554][Build] Latexmk: If appropriate, the -f option can be used to get latexmk
+  to try to force complete processing.
+
+[16:30:09.554][Build] Cleaning auxiliary files and retrying build after toolchain error.
+[16:30:09.555][Cleaner] Clean temporary files command The command is latexmk:["-c","%WS1%/Presi/template-pdflatex.tex"].
+[16:30:09.562][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[16:30:09.563][Build] env: {}
+[16:30:09.563][Build] root: %WS1%/Presi/template-pdflatex.tex
+[16:30:09.564][Build] cwd: %WS1%/Presi
+[16:30:09.571][Build] LaTeX build process spawned with PID 2130.
+[16:30:09.677][Event] AUTO_CLEANED
+[16:30:11.230][Parser][TexLog] Logged 10 messages.
+[16:30:11.231][Build] Recipe returns with error code 12/null on PID 2130.
+[16:30:11.231][Build] Does the executable exist? $PATH: /home/void/.local/bin:/home/void/.opam/5.0.0/bin:/opt/texlive/2023/bin/x86_64-linux:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin, $Path: undefined, $SHELL: /bin/fish
+[16:30:11.231][Build] Latexmk: If appropriate, the -f option can be used to get latexmk
+  to try to force complete processing.
+
+[16:30:16.111][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[16:30:16.187][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[16:30:16.189][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[16:30:16.189][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[16:30:16.189][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[16:30:16.190][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[16:30:16.190][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[16:30:16.190][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[16:30:16.190][Build] The languageId of the document: latex
+[16:30:16.191][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[16:30:16.191][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[16:30:16.191][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[16:30:16.192][Build][Recipe] Preparing to run recipe: latexmk.
+[16:30:16.192][Build][Recipe] Prepared 1 tools.
+[16:30:16.193][Build][Recipe] outDir: %WS1%/Presi .
+[16:30:16.194][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[16:30:16.194][Build] env: {}
+[16:30:16.194][Build] root: %WS1%/Presi/template-pdflatex.tex
+[16:30:16.195][Build] cwd: %WS1%/Presi
+[16:30:16.202][Build] LaTeX build process spawned with PID 2200.
+[16:30:16.228][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[16:30:16.229][File] Calling kpsewhich to resolve beamer.cls .
+[16:30:16.379][Cacher] Updated elements in 150.00 ms: %WS1%/Presi/template-pdflatex.tex .
+[16:30:16.379][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[16:30:16.380][Structure] Structure force updated with 16 root sections for %WS1%/Presi/template-pdflatex.tex .
+[16:30:16.381][Event] STRUCTURE_UPDATED
+[16:30:17.907][Parser][TexLog] Logged 0 messages.
+[16:30:17.908][Build] Finished a step in recipe with PID 2200.
+[16:30:17.908][Build] Successfully built %WS1%/Presi/template-pdflatex.tex .
+[16:30:17.908][Event] BUILD_DONE
+[16:30:17.909][Viewer] Call refreshExistingViewer: "%WS1%/Presi/template-pdflatex.pdf" .
+[16:30:17.909][Viewer] Refresh PDF viewer: %WS1%/Presi/template-pdflatex.pdf
+[16:30:17.910][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[16:30:17.933][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[16:30:17.933][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[16:30:17.933][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[16:30:17.936][Server] Preview PDF file: file://%WS1%/Presi/template-pdflatex.pdf
+[16:30:22.643][Viewer] Handle data type: loaded
+[16:30:22.643][Event] VIEWER_PAGE_LOADED
+[16:33:10.705][Event] STRUCTURE_UPDATED
+[16:35:05.260][Event] STRUCTURE_UPDATED
+[16:35:19.222][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[16:35:19.289][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[16:35:19.290][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[16:35:19.291][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[16:35:19.291][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[16:35:19.291][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[16:35:19.291][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[16:35:19.292][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[16:35:19.292][Build] The languageId of the document: latex
+[16:35:19.292][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[16:35:19.292][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[16:35:19.292][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[16:35:19.303][Build][Recipe] Preparing to run recipe: latexmk.
+[16:35:19.303][Build][Recipe] Prepared 1 tools.
+[16:35:19.304][Build][Recipe] outDir: %WS1%/Presi .
+[16:35:19.304][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[16:35:19.304][Build] env: {}
+[16:35:19.305][Build] root: %WS1%/Presi/template-pdflatex.tex
+[16:35:19.305][Build] cwd: %WS1%/Presi
+[16:35:19.312][Build] LaTeX build process spawned with PID 5370.
+[16:35:19.348][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[16:35:19.349][File] Calling kpsewhich to resolve beamer.cls .
+[16:35:19.494][Cacher] Updated elements in 145.45 ms: %WS1%/Presi/template-pdflatex.tex .
+[16:35:19.495][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[16:35:19.496][Structure] Structure force updated with 16 root sections for %WS1%/Presi/template-pdflatex.tex .
+[16:35:19.496][Event] STRUCTURE_UPDATED
+[16:35:21.099][Parser][TexLog] Logged 0 messages.
+[16:35:21.099][Build] Finished a step in recipe with PID 5370.
+[16:35:21.099][Build] Successfully built %WS1%/Presi/template-pdflatex.tex .
+[16:35:21.100][Event] BUILD_DONE
+[16:35:21.100][Viewer] Call refreshExistingViewer: "%WS1%/Presi/template-pdflatex.pdf" .
+[16:35:21.100][Viewer] Refresh PDF viewer: %WS1%/Presi/template-pdflatex.pdf
+[16:35:21.101][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[16:35:21.118][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[16:35:21.119][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[16:35:21.119][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[16:35:21.121][Server] Preview PDF file: file://%WS1%/Presi/template-pdflatex.pdf
+[16:35:21.147][Viewer] Handle data type: loaded
+[16:35:21.147][Event] VIEWER_PAGE_LOADED
+[16:40:12.254][Event] STRUCTURE_UPDATED
+[16:40:40.914][Event] STRUCTURE_UPDATED
+[16:41:07.530][Event] STRUCTURE_UPDATED
+[16:48:20.743][Event] STRUCTURE_UPDATED
+[16:52:19.992][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[16:52:20.059][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[16:52:20.061][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[16:52:20.062][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[16:52:20.062][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[16:52:20.062][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[16:52:20.063][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[16:52:20.063][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[16:52:20.063][Build] The languageId of the document: latex
+[16:52:20.063][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[16:52:20.063][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[16:52:20.064][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[16:52:20.073][Build][Recipe] Preparing to run recipe: latexmk.
+[16:52:20.074][Build][Recipe] Prepared 1 tools.
+[16:52:20.075][Build][Recipe] outDir: %WS1%/Presi .
+[16:52:20.076][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[16:52:20.076][Build] env: {}
+[16:52:20.077][Build] root: %WS1%/Presi/template-pdflatex.tex
+[16:52:20.077][Build] cwd: %WS1%/Presi
+[16:52:20.085][Build] LaTeX build process spawned with PID 15162.
+[16:52:20.103][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[16:52:20.105][File] Calling kpsewhich to resolve beamer.cls .
+[16:52:20.250][Cacher] Updated elements in 146.63 ms: %WS1%/Presi/template-pdflatex.tex .
+[16:52:20.251][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[16:52:20.252][Structure] Structure force updated with 16 root sections for %WS1%/Presi/template-pdflatex.tex .
+[16:52:20.252][Event] STRUCTURE_UPDATED
+[16:52:21.831][Parser][TexLog] Logged 8 messages.
+[16:52:21.832][Build] Recipe returns with error code 12/null on PID 15162.
+[16:52:21.832][Build] Does the executable exist? $PATH: /home/void/.local/bin:/home/void/.opam/5.0.0/bin:/opt/texlive/2023/bin/x86_64-linux:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin, $Path: undefined, $SHELL: /bin/fish
+[16:52:21.832][Build] Latexmk: If appropriate, the -f option can be used to get latexmk
+  to try to force complete processing.
+
+[16:52:21.833][Build] Cleaning auxiliary files and retrying build after toolchain error.
+[16:52:21.833][Cleaner] Clean temporary files command The command is latexmk:["-c","%WS1%/Presi/template-pdflatex.tex"].
+[16:52:21.840][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[16:52:21.841][Build] env: {}
+[16:52:21.841][Build] root: %WS1%/Presi/template-pdflatex.tex
+[16:52:21.841][Build] cwd: %WS1%/Presi
+[16:52:21.850][Build] LaTeX build process spawned with PID 15186.
+[16:52:21.959][Event] AUTO_CLEANED
+[16:52:23.582][Parser][TexLog] Logged 10 messages.
+[16:52:23.583][Build] Recipe returns with error code 12/null on PID 15186.
+[16:52:23.583][Build] Does the executable exist? $PATH: /home/void/.local/bin:/home/void/.opam/5.0.0/bin:/opt/texlive/2023/bin/x86_64-linux:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin, $Path: undefined, $SHELL: /bin/fish
+[16:52:23.583][Build] Latexmk: Missing input file 'template-pdflatex.aux' (or dependence on it) from following:
+  No file template-pdflatex.aux.
+Latexmk: If appropriate, the -f option can be used to get latexmk
+  to try to force complete processing.
+
+[16:54:04.293][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[16:54:04.361][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[16:54:04.363][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[16:54:04.363][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[16:54:04.364][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[16:54:04.364][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[16:54:04.364][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[16:54:04.364][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[16:54:04.365][Build] The languageId of the document: latex
+[16:54:04.365][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[16:54:04.365][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[16:54:04.365][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[16:54:04.375][Build][Recipe] Preparing to run recipe: latexmk.
+[16:54:04.375][Build][Recipe] Prepared 1 tools.
+[16:54:04.376][Build][Recipe] outDir: %WS1%/Presi .
+[16:54:04.377][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[16:54:04.377][Build] env: {}
+[16:54:04.377][Build] root: %WS1%/Presi/template-pdflatex.tex
+[16:54:04.377][Build] cwd: %WS1%/Presi
+[16:54:04.385][Build] LaTeX build process spawned with PID 16159.
+[16:54:04.402][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[16:54:04.402][File] Calling kpsewhich to resolve beamer.cls .
+[16:54:04.548][Cacher] Updated elements in 145.75 ms: %WS1%/Presi/template-pdflatex.tex .
+[16:54:04.549][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[16:54:04.550][Structure] Structure force updated with 17 root sections for %WS1%/Presi/template-pdflatex.tex .
+[16:54:04.550][Event] STRUCTURE_UPDATED
+[16:54:06.079][Parser][TexLog] Logged 0 messages.
+[16:54:06.080][Build] Finished a step in recipe with PID 16159.
+[16:54:06.080][Build] Successfully built %WS1%/Presi/template-pdflatex.tex .
+[16:54:06.080][Event] BUILD_DONE
+[16:54:06.081][Viewer] Call refreshExistingViewer: "%WS1%/Presi/template-pdflatex.pdf" .
+[16:54:06.081][Viewer] Refresh PDF viewer: %WS1%/Presi/template-pdflatex.pdf
+[16:54:06.082][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[16:54:06.102][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[16:54:06.103][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[16:54:06.103][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[16:54:06.105][Server] Preview PDF file: file://%WS1%/Presi/template-pdflatex.pdf
+[16:54:06.978][Viewer] Handle data type: loaded
+[16:54:06.978][Event] VIEWER_PAGE_LOADED
+[16:54:10.566][Event] STRUCTURE_UPDATED
+[17:01:57.693][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[17:01:57.759][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[17:01:57.761][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[17:01:57.762][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[17:01:57.762][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[17:01:57.762][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[17:01:57.763][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[17:01:57.763][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[17:01:57.763][Build] The languageId of the document: latex
+[17:01:57.763][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[17:01:57.763][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[17:01:57.764][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[17:01:57.766][Build][Recipe] Preparing to run recipe: latexmk.
+[17:01:57.766][Build][Recipe] Prepared 1 tools.
+[17:01:57.767][Build][Recipe] outDir: %WS1%/Presi .
+[17:01:57.767][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[17:01:57.767][Build] env: {}
+[17:01:57.767][Build] root: %WS1%/Presi/template-pdflatex.tex
+[17:01:57.768][Build] cwd: %WS1%/Presi
+[17:01:57.775][Build] LaTeX build process spawned with PID 20562.
+[17:01:57.818][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[17:01:57.819][File] Calling kpsewhich to resolve beamer.cls .
+[17:01:57.989][Cacher] Updated elements in 169.69 ms: %WS1%/Presi/template-pdflatex.tex .
+[17:01:57.989][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[17:01:57.990][Structure] Structure force updated with 17 root sections for %WS1%/Presi/template-pdflatex.tex .
+[17:01:57.991][Event] STRUCTURE_UPDATED
+[17:02:01.328][Parser][TexLog] Logged 0 messages.
+[17:02:01.328][Build] Finished a step in recipe with PID 20562.
+[17:02:01.329][Build] Successfully built %WS1%/Presi/template-pdflatex.tex .
+[17:02:01.330][Event] BUILD_DONE
+[17:02:01.330][Viewer] Call refreshExistingViewer: "%WS1%/Presi/template-pdflatex.pdf" .
+[17:02:01.331][Viewer] Refresh PDF viewer: %WS1%/Presi/template-pdflatex.pdf
+[17:02:01.332][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[17:02:01.357][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[17:02:01.358][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[17:02:01.358][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[17:02:01.361][Server] Preview PDF file: file://%WS1%/Presi/template-pdflatex.pdf
+[17:02:01.411][Viewer] Handle data type: loaded
+[17:02:01.412][Event] VIEWER_PAGE_LOADED
+[17:03:19.401][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[17:03:19.468][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[17:03:19.469][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[17:03:19.469][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[17:03:19.470][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[17:03:19.470][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[17:03:19.470][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[17:03:19.470][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[17:03:19.470][Build] The languageId of the document: latex
+[17:03:19.471][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[17:03:19.471][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[17:03:19.472][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[17:03:19.481][Build][Recipe] Preparing to run recipe: latexmk.
+[17:03:19.481][Build][Recipe] Prepared 1 tools.
+[17:03:19.482][Build][Recipe] outDir: %WS1%/Presi .
+[17:03:19.483][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[17:03:19.483][Build] env: {}
+[17:03:19.483][Build] root: %WS1%/Presi/template-pdflatex.tex
+[17:03:19.484][Build] cwd: %WS1%/Presi
+[17:03:19.491][Build] LaTeX build process spawned with PID 21321.
+[17:03:19.511][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[17:03:19.512][File] Calling kpsewhich to resolve beamer.cls .
+[17:03:19.660][Cacher] Updated elements in 148.18 ms: %WS1%/Presi/template-pdflatex.tex .
+[17:03:19.661][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[17:03:19.662][Structure] Structure force updated with 18 root sections for %WS1%/Presi/template-pdflatex.tex .
+[17:03:19.663][Event] STRUCTURE_UPDATED
+[17:03:22.798][Parser][TexLog] Logged 0 messages.
+[17:03:22.798][Build] Finished a step in recipe with PID 21321.
+[17:03:22.798][Build] Successfully built %WS1%/Presi/template-pdflatex.tex .
+[17:03:22.798][Event] BUILD_DONE
+[17:03:22.799][Viewer] Call refreshExistingViewer: "%WS1%/Presi/template-pdflatex.pdf" .
+[17:03:22.799][Viewer] Refresh PDF viewer: %WS1%/Presi/template-pdflatex.pdf
+[17:03:22.800][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[17:03:22.815][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[17:03:22.815][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[17:03:22.816][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[17:03:22.818][Server] Preview PDF file: file://%WS1%/Presi/template-pdflatex.pdf
+[17:03:30.795][Viewer] Handle data type: loaded
+[17:03:30.795][Event] VIEWER_PAGE_LOADED
+[17:06:56.488][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[17:06:56.552][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[17:06:56.553][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[17:06:56.554][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[17:06:56.554][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[17:06:56.555][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[17:06:56.555][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[17:06:56.555][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[17:06:56.555][Build] The languageId of the document: latex
+[17:06:56.555][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[17:06:56.556][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[17:06:56.556][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[17:06:56.558][Build][Recipe] Preparing to run recipe: latexmk.
+[17:06:56.558][Build][Recipe] Prepared 1 tools.
+[17:06:56.559][Build][Recipe] outDir: %WS1%/Presi .
+[17:06:56.559][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[17:06:56.559][Build] env: {}
+[17:06:56.560][Build] root: %WS1%/Presi/template-pdflatex.tex
+[17:06:56.560][Build] cwd: %WS1%/Presi
+[17:06:56.567][Build] LaTeX build process spawned with PID 23351.
+[17:06:56.608][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[17:06:56.609][File] Calling kpsewhich to resolve beamer.cls .
+[17:06:56.762][Cacher] Updated elements in 153.59 ms: %WS1%/Presi/template-pdflatex.tex .
+[17:06:56.763][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[17:06:56.764][Structure] Structure force updated with 19 root sections for %WS1%/Presi/template-pdflatex.tex .
+[17:06:56.764][Event] STRUCTURE_UPDATED
+[17:06:58.431][Parser][TexLog] Logged 0 messages.
+[17:06:58.431][Build] Finished a step in recipe with PID 23351.
+[17:06:58.432][Build] Successfully built %WS1%/Presi/template-pdflatex.tex .
+[17:06:58.432][Event] BUILD_DONE
+[17:06:58.432][Viewer] Call refreshExistingViewer: "%WS1%/Presi/template-pdflatex.pdf" .
+[17:06:58.432][Viewer] Refresh PDF viewer: %WS1%/Presi/template-pdflatex.pdf
+[17:06:58.433][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[17:06:58.453][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[17:06:58.453][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[17:06:58.454][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[17:06:58.456][Server] Preview PDF file: file://%WS1%/Presi/template-pdflatex.pdf
+[17:07:04.176][Viewer] Handle data type: loaded
+[17:07:04.177][Event] VIEWER_PAGE_LOADED
+[17:08:53.940][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[17:08:54.016][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[17:08:54.017][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[17:08:54.017][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[17:08:54.017][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[17:08:54.018][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[17:08:54.018][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[17:08:54.018][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[17:08:54.018][Build] The languageId of the document: latex
+[17:08:54.019][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[17:08:54.019][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[17:08:54.019][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[17:08:54.020][Build][Recipe] Preparing to run recipe: latexmk.
+[17:08:54.021][Build][Recipe] Prepared 1 tools.
+[17:08:54.021][Build][Recipe] outDir: %WS1%/Presi .
+[17:08:54.022][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[17:08:54.022][Build] env: {}
+[17:08:54.023][Build] root: %WS1%/Presi/template-pdflatex.tex
+[17:08:54.023][Build] cwd: %WS1%/Presi
+[17:08:54.033][Build] LaTeX build process spawned with PID 24485.
+[17:08:54.074][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[17:08:54.074][File] Calling kpsewhich to resolve beamer.cls .
+[17:08:54.227][Cacher] Updated elements in 152.55 ms: %WS1%/Presi/template-pdflatex.tex .
+[17:08:54.228][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[17:08:54.229][Structure] Structure force updated with 19 root sections for %WS1%/Presi/template-pdflatex.tex .
+[17:08:54.229][Event] STRUCTURE_UPDATED
+[17:08:55.789][Parser][TexLog] Logged 0 messages.
+[17:08:55.789][Build] Finished a step in recipe with PID 24485.
+[17:08:55.790][Build] Successfully built %WS1%/Presi/template-pdflatex.tex .
+[17:08:55.790][Event] BUILD_DONE
+[17:08:55.791][Viewer] Call refreshExistingViewer: "%WS1%/Presi/template-pdflatex.pdf" .
+[17:08:55.791][Viewer] Refresh PDF viewer: %WS1%/Presi/template-pdflatex.pdf
+[17:08:55.792][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[17:08:55.808][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[17:08:55.808][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[17:08:55.808][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[17:08:55.811][Server] Preview PDF file: file://%WS1%/Presi/template-pdflatex.pdf
+[17:08:56.565][Viewer] Handle data type: loaded
+[17:08:56.566][Event] VIEWER_PAGE_LOADED
+[17:12:11.998][Event] STRUCTURE_UPDATED
+[17:17:56.358][Event] STRUCTURE_UPDATED
+[17:24:27.165][Root] Current workspace folders: ["file://%WS1%"]
+[17:24:27.181][Root] Found root file from active editor: %WS1%/Paper/TEPandIntegrity.tex
+[17:24:27.226][Root] Root file changed: from %WS1%/Paper/TEPandIntegrity.tex to %WS1%/Paper/TEPandIntegrity.tex, langID latex . Refresh dependencies
+[17:24:27.226][Event] ROOT_FILE_CHANGED: "%WS1%/Paper/TEPandIntegrity.tex"
+[17:24:27.227][Cacher][Watcher] Reset.
+[17:24:27.227][Cacher][Watcher] Reset.
+[17:24:27.227][Cacher][Watcher] Reset.
+[17:24:27.230][Cacher] Adding %WS1%/Paper/TEPandIntegrity.tex .
+[17:24:27.231][Cacher][Watcher] Watched %WS1%/Paper/TEPandIntegrity.tex with a new watcher on %WS1%/Paper .
+[17:24:27.231][Event] FILE_WATCHED: "%WS1%/Paper/TEPandIntegrity.tex"
+[17:24:27.234][Cacher] Caching %WS1%/Paper/TEPandIntegrity.tex .
+[17:24:27.235][Cacher] Updated inputs of %WS1%/Paper/TEPandIntegrity.tex .
+[17:24:27.235][Cacher] Parse LaTeX AST: %WS1%/Paper/TEPandIntegrity.tex .
+[17:24:27.235][Event] ROOT_FILE_SEARCHED
+[17:24:27.236][Event] STRUCTURE_UPDATED
+[17:24:27.544][Cacher] Parsed LaTeX AST: %WS1%/Paper/TEPandIntegrity.tex .
+[17:24:27.545][File] Calling kpsewhich to resolve IEEEtran.cls .
+[17:24:27.700][Cacher] Updated elements in 154.73 ms: %WS1%/Paper/TEPandIntegrity.tex .
+[17:24:27.700][Event] FILE_PARSED: "%WS1%/Paper/TEPandIntegrity.tex"
+[17:24:27.701][Cacher] Parsing .fls %WS1%/Paper/TEPandIntegrity.fls .
+[17:24:27.704][Cacher] Adding %WS1%/Paper/IEEEtran.cls .
+[17:24:27.704][Cacher][Watcher] Watched %WS1%/Paper/IEEEtran.cls .
+[17:24:27.704][Event] FILE_WATCHED: "%WS1%/Paper/IEEEtran.cls"
+[17:24:27.713][Cacher] Found .aux %WS1%/Paper/TEPandIntegrity.tex from .fls %WS1%/Paper/TEPandIntegrity.fls , parsing.
+[17:24:27.721][Cacher] Parsed .aux %WS1%/Paper/TEPandIntegrity.tex .
+[17:24:27.723][Cacher] Parsed .fls %WS1%/Paper/TEPandIntegrity.fls .
+[17:24:27.736][Structure] Structure force updated with 19 root sections for %WS1%/Paper/TEPandIntegrity.tex .
+[17:24:27.737][Event] STRUCTURE_UPDATED
+[17:24:37.777][Root] Current workspace folders: ["file://%WS1%"]
+[17:24:37.788][Root] Found root file from active editor: %WS1%/Presi/template-pdflatex.tex
+[17:24:37.789][Root] Root file changed: from %WS1%/Presi/template-pdflatex.tex to %WS1%/Presi/template-pdflatex.tex, langID latex . Refresh dependencies
+[17:24:37.789][Event] ROOT_FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[17:24:37.790][Cacher][Watcher] Reset.
+[17:24:37.790][Cacher][Watcher] Reset.
+[17:24:37.791][Cacher][Watcher] Reset.
+[17:24:37.791][Cacher] Adding %WS1%/Presi/template-pdflatex.tex .
+[17:24:37.792][Cacher][Watcher] Watched %WS1%/Presi/template-pdflatex.tex with a new watcher on %WS1%/Presi .
+[17:24:37.792][Event] FILE_WATCHED: "%WS1%/Presi/template-pdflatex.tex"
+[17:24:37.793][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[17:24:37.794][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[17:24:37.794][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[17:24:37.794][Event] ROOT_FILE_SEARCHED
+[17:24:37.795][Event] STRUCTURE_UPDATED
+[17:24:37.856][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[17:24:37.857][File] Calling kpsewhich to resolve beamer.cls .
+[17:24:38.023][Cacher] Updated elements in 166.74 ms: %WS1%/Presi/template-pdflatex.tex .
+[17:24:38.024][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[17:24:38.025][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[17:24:38.053][Cacher] Adding %WS1%/Presi/img/ICodes.png .
+[17:24:38.053][Cacher][Watcher] Watched %WS1%/Presi/img/ICodes.png with a new watcher on %WS1%/Presi/img .
+[17:24:38.054][Event] FILE_WATCHED: "%WS1%/Presi/img/ICodes.png"
+[17:24:38.055][Cacher] Adding %WS1%/Presi/img/TEA.png .
+[17:24:38.055][Cacher][Watcher] Watched %WS1%/Presi/img/TEA.png .
+[17:24:38.056][Event] FILE_WATCHED: "%WS1%/Presi/img/TEA.png"
+[17:24:38.056][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[17:24:38.056][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[17:24:38.057][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[17:24:38.057][Structure] Structure force updated with 13 root sections for %WS1%/Presi/template-pdflatex.tex .
+[17:24:38.057][Event] STRUCTURE_UPDATED
+[17:24:52.603][Root] Current workspace folders: ["file://%WS1%"]
+[17:24:52.613][Root] Found root file from active editor: %WS1%/Paper/TEPandIntegrity.tex
+[17:24:52.614][Root] Root file changed: from %WS1%/Paper/TEPandIntegrity.tex to %WS1%/Paper/TEPandIntegrity.tex, langID latex . Refresh dependencies
+[17:24:52.615][Event] ROOT_FILE_CHANGED: "%WS1%/Paper/TEPandIntegrity.tex"
+[17:24:52.615][Cacher][Watcher] Reset.
+[17:24:52.616][Cacher][Watcher] Reset.
+[17:24:52.616][Cacher][Watcher] Reset.
+[17:24:52.618][Cacher] Adding %WS1%/Paper/TEPandIntegrity.tex .
+[17:24:52.618][Cacher][Watcher] Watched %WS1%/Paper/TEPandIntegrity.tex with a new watcher on %WS1%/Paper .
+[17:24:52.619][Event] FILE_WATCHED: "%WS1%/Paper/TEPandIntegrity.tex"
+[17:24:52.620][Cacher] Caching %WS1%/Paper/TEPandIntegrity.tex .
+[17:24:52.621][Cacher] Updated inputs of %WS1%/Paper/TEPandIntegrity.tex .
+[17:24:52.621][Cacher] Parse LaTeX AST: %WS1%/Paper/TEPandIntegrity.tex .
+[17:24:52.621][Event] ROOT_FILE_SEARCHED
+[17:24:52.622][Event] STRUCTURE_UPDATED
+[17:24:52.933][Cacher] Parsed LaTeX AST: %WS1%/Paper/TEPandIntegrity.tex .
+[17:24:52.933][File] Calling kpsewhich to resolve IEEEtran.cls .
+[17:24:53.092][Cacher] Updated elements in 158.72 ms: %WS1%/Paper/TEPandIntegrity.tex .
+[17:24:53.093][Event] FILE_PARSED: "%WS1%/Paper/TEPandIntegrity.tex"
+[17:24:53.093][Cacher] Parsing .fls %WS1%/Paper/TEPandIntegrity.fls .
+[17:24:53.095][Cacher] Adding %WS1%/Paper/IEEEtran.cls .
+[17:24:53.096][Cacher][Watcher] Watched %WS1%/Paper/IEEEtran.cls .
+[17:24:53.096][Event] FILE_WATCHED: "%WS1%/Paper/IEEEtran.cls"
+[17:24:53.102][Cacher] Found .aux %WS1%/Paper/TEPandIntegrity.tex from .fls %WS1%/Paper/TEPandIntegrity.fls , parsing.
+[17:24:53.103][Cacher] Parsed .aux %WS1%/Paper/TEPandIntegrity.tex .
+[17:24:53.103][Cacher] Parsed .fls %WS1%/Paper/TEPandIntegrity.fls .
+[17:24:53.104][Structure] Structure force updated with 20 root sections for %WS1%/Paper/TEPandIntegrity.tex .
+[17:24:53.105][Event] STRUCTURE_UPDATED
+[17:24:54.724][Root] Current workspace folders: ["file://%WS1%"]
+[17:24:54.737][Root] Found root file from active editor: %WS1%/Presi/template-pdflatex.tex
+[17:24:54.738][Root] Root file changed: from %WS1%/Presi/template-pdflatex.tex to %WS1%/Presi/template-pdflatex.tex, langID latex . Refresh dependencies
+[17:24:54.738][Event] ROOT_FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[17:24:54.739][Cacher][Watcher] Reset.
+[17:24:54.739][Cacher][Watcher] Reset.
+[17:24:54.739][Cacher][Watcher] Reset.
+[17:24:54.740][Cacher] Adding %WS1%/Presi/template-pdflatex.tex .
+[17:24:54.741][Cacher][Watcher] Watched %WS1%/Presi/template-pdflatex.tex with a new watcher on %WS1%/Presi .
+[17:24:54.741][Event] FILE_WATCHED: "%WS1%/Presi/template-pdflatex.tex"
+[17:24:54.742][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[17:24:54.742][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[17:24:54.743][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[17:24:54.743][Event] ROOT_FILE_SEARCHED
+[17:24:54.744][Event] STRUCTURE_UPDATED
+[17:24:54.809][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[17:24:54.809][File] Calling kpsewhich to resolve beamer.cls .
+[17:24:54.967][Cacher] Updated elements in 157.86 ms: %WS1%/Presi/template-pdflatex.tex .
+[17:24:54.968][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[17:24:54.969][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[17:24:54.995][Cacher] Adding %WS1%/Presi/img/ICodes.png .
+[17:24:54.996][Cacher][Watcher] Watched %WS1%/Presi/img/ICodes.png with a new watcher on %WS1%/Presi/img .
+[17:24:54.996][Event] FILE_WATCHED: "%WS1%/Presi/img/ICodes.png"
+[17:24:54.997][Cacher] Adding %WS1%/Presi/img/TEA.png .
+[17:24:54.997][Cacher][Watcher] Watched %WS1%/Presi/img/TEA.png .
+[17:24:54.998][Event] FILE_WATCHED: "%WS1%/Presi/img/TEA.png"
+[17:24:54.998][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[17:24:54.999][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[17:24:54.999][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[17:24:55.000][Structure] Structure force updated with 13 root sections for %WS1%/Presi/template-pdflatex.tex .
+[17:24:55.000][Event] STRUCTURE_UPDATED
+[17:25:55.251][Root] Current workspace folders: ["file://%WS1%"]
+[17:25:55.261][Root] Found root file from active editor: %WS1%/Paper/TEPandIntegrity.tex
+[17:25:55.262][Root] Root file changed: from %WS1%/Paper/TEPandIntegrity.tex to %WS1%/Paper/TEPandIntegrity.tex, langID latex . Refresh dependencies
+[17:25:55.262][Event] ROOT_FILE_CHANGED: "%WS1%/Paper/TEPandIntegrity.tex"
+[17:25:55.263][Cacher][Watcher] Reset.
+[17:25:55.263][Cacher][Watcher] Reset.
+[17:25:55.263][Cacher][Watcher] Reset.
+[17:25:55.264][Cacher] Adding %WS1%/Paper/TEPandIntegrity.tex .
+[17:25:55.265][Cacher][Watcher] Watched %WS1%/Paper/TEPandIntegrity.tex with a new watcher on %WS1%/Paper .
+[17:25:55.265][Event] FILE_WATCHED: "%WS1%/Paper/TEPandIntegrity.tex"
+[17:25:55.266][Cacher] Caching %WS1%/Paper/TEPandIntegrity.tex .
+[17:25:55.266][Cacher] Updated inputs of %WS1%/Paper/TEPandIntegrity.tex .
+[17:25:55.267][Cacher] Parse LaTeX AST: %WS1%/Paper/TEPandIntegrity.tex .
+[17:25:55.267][Event] ROOT_FILE_SEARCHED
+[17:25:55.268][Event] STRUCTURE_UPDATED
+[17:25:55.581][Cacher] Parsed LaTeX AST: %WS1%/Paper/TEPandIntegrity.tex .
+[17:25:55.582][File] Calling kpsewhich to resolve IEEEtran.cls .
+[17:25:55.744][Cacher] Updated elements in 162.29 ms: %WS1%/Paper/TEPandIntegrity.tex .
+[17:25:55.745][Event] FILE_PARSED: "%WS1%/Paper/TEPandIntegrity.tex"
+[17:25:55.745][Cacher] Parsing .fls %WS1%/Paper/TEPandIntegrity.fls .
+[17:25:55.749][Cacher] Adding %WS1%/Paper/IEEEtran.cls .
+[17:25:55.749][Cacher][Watcher] Watched %WS1%/Paper/IEEEtran.cls .
+[17:25:55.750][Event] FILE_WATCHED: "%WS1%/Paper/IEEEtran.cls"
+[17:25:55.758][Cacher] Found .aux %WS1%/Paper/TEPandIntegrity.tex from .fls %WS1%/Paper/TEPandIntegrity.fls , parsing.
+[17:25:55.758][Cacher] Parsed .aux %WS1%/Paper/TEPandIntegrity.tex .
+[17:25:55.758][Cacher] Parsed .fls %WS1%/Paper/TEPandIntegrity.fls .
+[17:25:55.759][Structure] Structure force updated with 20 root sections for %WS1%/Paper/TEPandIntegrity.tex .
+[17:25:55.759][Event] STRUCTURE_UPDATED
+[17:25:57.712][Root] Current workspace folders: ["file://%WS1%"]
+[17:25:57.723][Root] Found root file from active editor: %WS1%/Presi/template-pdflatex.tex
+[17:25:57.724][Root] Root file changed: from %WS1%/Presi/template-pdflatex.tex to %WS1%/Presi/template-pdflatex.tex, langID latex . Refresh dependencies
+[17:25:57.725][Event] ROOT_FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[17:25:57.725][Cacher][Watcher] Reset.
+[17:25:57.726][Cacher][Watcher] Reset.
+[17:25:57.726][Cacher][Watcher] Reset.
+[17:25:57.727][Cacher] Adding %WS1%/Presi/template-pdflatex.tex .
+[17:25:57.727][Cacher][Watcher] Watched %WS1%/Presi/template-pdflatex.tex with a new watcher on %WS1%/Presi .
+[17:25:57.727][Event] FILE_WATCHED: "%WS1%/Presi/template-pdflatex.tex"
+[17:25:57.728][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[17:25:57.728][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[17:25:57.729][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[17:25:57.729][Event] ROOT_FILE_SEARCHED
+[17:25:57.730][Event] STRUCTURE_UPDATED
+[17:25:57.788][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[17:25:57.789][File] Calling kpsewhich to resolve beamer.cls .
+[17:25:57.948][Cacher] Updated elements in 159.39 ms: %WS1%/Presi/template-pdflatex.tex .
+[17:25:57.949][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[17:25:57.952][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[17:25:57.971][Cacher] Adding %WS1%/Presi/img/ICodes.png .
+[17:25:57.971][Cacher][Watcher] Watched %WS1%/Presi/img/ICodes.png with a new watcher on %WS1%/Presi/img .
+[17:25:57.971][Event] FILE_WATCHED: "%WS1%/Presi/img/ICodes.png"
+[17:25:57.972][Cacher] Adding %WS1%/Presi/img/TEA.png .
+[17:25:57.972][Cacher][Watcher] Watched %WS1%/Presi/img/TEA.png .
+[17:25:57.973][Event] FILE_WATCHED: "%WS1%/Presi/img/TEA.png"
+[17:25:57.973][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[17:25:57.973][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[17:25:57.974][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[17:25:57.975][Structure] Structure force updated with 13 root sections for %WS1%/Presi/template-pdflatex.tex .
+[17:25:57.975][Event] STRUCTURE_UPDATED
+[17:26:40.600][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[17:26:40.661][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[17:26:40.664][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[17:26:40.664][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[17:26:40.665][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[17:26:40.665][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[17:26:40.665][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[17:26:40.665][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[17:26:40.666][Build] The languageId of the document: latex
+[17:26:40.666][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[17:26:40.666][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[17:26:40.666][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[17:26:40.667][Build][Recipe] Preparing to run recipe: latexmk.
+[17:26:40.667][Build][Recipe] Prepared 1 tools.
+[17:26:40.668][Build][Recipe] outDir: %WS1%/Presi .
+[17:26:40.669][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[17:26:40.669][Build] env: {}
+[17:26:40.669][Build] root: %WS1%/Presi/template-pdflatex.tex
+[17:26:40.670][Build] cwd: %WS1%/Presi
+[17:26:40.678][Build] LaTeX build process spawned with PID 2197.
+[17:26:40.716][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[17:26:40.716][File] Calling kpsewhich to resolve beamer.cls .
+[17:26:40.862][Cacher] Updated elements in 145.83 ms: %WS1%/Presi/template-pdflatex.tex .
+[17:26:40.863][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[17:26:40.864][Structure] Structure force updated with 20 root sections for %WS1%/Presi/template-pdflatex.tex .
+[17:26:40.864][Event] STRUCTURE_UPDATED
+[17:26:44.191][Parser][TexLog] Logged 0 messages.
+[17:26:44.191][Build] Finished a step in recipe with PID 2197.
+[17:26:44.192][Build] Successfully built %WS1%/Presi/template-pdflatex.tex .
+[17:26:44.192][Event] BUILD_DONE
+[17:26:44.192][Viewer] Call refreshExistingViewer: "%WS1%/Presi/template-pdflatex.pdf" .
+[17:26:44.193][Viewer] Refresh PDF viewer: %WS1%/Presi/template-pdflatex.pdf
+[17:26:44.194][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[17:26:44.222][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[17:26:44.222][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[17:26:44.222][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[17:26:44.240][Server] Preview PDF file: file://%WS1%/Presi/template-pdflatex.pdf
+[17:26:47.071][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[17:26:47.139][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[17:26:47.140][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[17:26:47.140][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[17:26:47.141][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[17:26:47.141][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[17:26:47.141][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[17:26:47.141][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[17:26:47.141][Build] The languageId of the document: latex
+[17:26:47.142][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[17:26:47.142][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[17:26:47.142][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[17:26:47.143][Build][Recipe] Preparing to run recipe: latexmk.
+[17:26:47.143][Build][Recipe] Prepared 1 tools.
+[17:26:47.144][Build][Recipe] outDir: %WS1%/Presi .
+[17:26:47.144][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[17:26:47.145][Build] env: {}
+[17:26:47.145][Build] root: %WS1%/Presi/template-pdflatex.tex
+[17:26:47.145][Build] cwd: %WS1%/Presi
+[17:26:47.154][Build] LaTeX build process spawned with PID 2271.
+[17:26:47.202][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[17:26:47.203][File] Calling kpsewhich to resolve beamer.cls .
+[17:26:47.352][Cacher] Updated elements in 149.02 ms: %WS1%/Presi/template-pdflatex.tex .
+[17:26:47.353][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[17:26:47.353][Structure] Structure force updated with 20 root sections for %WS1%/Presi/template-pdflatex.tex .
+[17:26:47.354][Event] STRUCTURE_UPDATED
+[17:26:48.941][Parser][TexLog] Logged 0 messages.
+[17:26:48.942][Build] Finished a step in recipe with PID 2271.
+[17:26:48.942][Build] Successfully built %WS1%/Presi/template-pdflatex.tex .
+[17:26:48.942][Event] BUILD_DONE
+[17:26:48.943][Viewer] Call refreshExistingViewer: "%WS1%/Presi/template-pdflatex.pdf" .
+[17:26:48.943][Viewer] Refresh PDF viewer: %WS1%/Presi/template-pdflatex.pdf
+[17:26:48.944][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[17:26:48.967][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[17:26:48.967][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[17:26:48.968][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[17:26:48.970][Server] Preview PDF file: file://%WS1%/Presi/template-pdflatex.pdf
+[17:26:50.965][Viewer] Handle data type: loaded
+[17:26:50.965][Event] VIEWER_PAGE_LOADED
+[17:26:50.966][Viewer] Handle data type: loaded
+[17:26:50.966][Event] VIEWER_PAGE_LOADED
+[17:26:54.795][Root] Current workspace folders: ["file://%WS1%"]
+[17:26:54.806][Root] Found root file from active editor: %WS1%/Paper/TEPandIntegrity.tex
+[17:26:54.806][Root] Root file changed: from %WS1%/Paper/TEPandIntegrity.tex to %WS1%/Paper/TEPandIntegrity.tex, langID latex . Refresh dependencies
+[17:26:54.807][Event] ROOT_FILE_CHANGED: "%WS1%/Paper/TEPandIntegrity.tex"
+[17:26:54.807][Cacher][Watcher] Reset.
+[17:26:54.808][Cacher][Watcher] Reset.
+[17:26:54.808][Cacher][Watcher] Reset.
+[17:26:54.808][Cacher] Adding %WS1%/Paper/TEPandIntegrity.tex .
+[17:26:54.809][Cacher][Watcher] Watched %WS1%/Paper/TEPandIntegrity.tex with a new watcher on %WS1%/Paper .
+[17:26:54.809][Event] FILE_WATCHED: "%WS1%/Paper/TEPandIntegrity.tex"
+[17:26:54.810][Cacher] Caching %WS1%/Paper/TEPandIntegrity.tex .
+[17:26:54.811][Cacher] Updated inputs of %WS1%/Paper/TEPandIntegrity.tex .
+[17:26:54.811][Cacher] Parse LaTeX AST: %WS1%/Paper/TEPandIntegrity.tex .
+[17:26:54.811][Event] ROOT_FILE_SEARCHED
+[17:26:54.812][Event] STRUCTURE_UPDATED
+[17:26:55.082][Cacher] Parsed LaTeX AST: %WS1%/Paper/TEPandIntegrity.tex .
+[17:26:55.083][File] Calling kpsewhich to resolve IEEEtran.cls .
+[17:26:55.260][Cacher] Updated elements in 176.75 ms: %WS1%/Paper/TEPandIntegrity.tex .
+[17:26:55.260][Event] FILE_PARSED: "%WS1%/Paper/TEPandIntegrity.tex"
+[17:26:55.261][Cacher] Parsing .fls %WS1%/Paper/TEPandIntegrity.fls .
+[17:26:55.263][Cacher] Adding %WS1%/Paper/IEEEtran.cls .
+[17:26:55.263][Cacher][Watcher] Watched %WS1%/Paper/IEEEtran.cls .
+[17:26:55.263][Event] FILE_WATCHED: "%WS1%/Paper/IEEEtran.cls"
+[17:26:55.269][Cacher] Found .aux %WS1%/Paper/TEPandIntegrity.tex from .fls %WS1%/Paper/TEPandIntegrity.fls , parsing.
+[17:26:55.269][Cacher] Parsed .aux %WS1%/Paper/TEPandIntegrity.tex .
+[17:26:55.269][Cacher] Parsed .fls %WS1%/Paper/TEPandIntegrity.fls .
+[17:26:55.270][Structure] Structure force updated with 20 root sections for %WS1%/Paper/TEPandIntegrity.tex .
+[17:26:55.270][Event] STRUCTURE_UPDATED
+[17:26:56.138][Root] Current workspace folders: ["file://%WS1%"]
+[17:26:56.150][Root] Found root file from active editor: %WS1%/Presi/template-pdflatex.tex
+[17:26:56.151][Root] Root file changed: from %WS1%/Presi/template-pdflatex.tex to %WS1%/Presi/template-pdflatex.tex, langID latex . Refresh dependencies
+[17:26:56.151][Event] ROOT_FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[17:26:56.152][Cacher][Watcher] Reset.
+[17:26:56.152][Cacher][Watcher] Reset.
+[17:26:56.153][Cacher][Watcher] Reset.
+[17:26:56.153][Cacher] Adding %WS1%/Presi/template-pdflatex.tex .
+[17:26:56.154][Cacher][Watcher] Watched %WS1%/Presi/template-pdflatex.tex with a new watcher on %WS1%/Presi .
+[17:26:56.154][Event] FILE_WATCHED: "%WS1%/Presi/template-pdflatex.tex"
+[17:26:56.154][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[17:26:56.155][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[17:26:56.155][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[17:26:56.156][Event] ROOT_FILE_SEARCHED
+[17:26:56.157][Event] STRUCTURE_UPDATED
+[17:26:56.222][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[17:26:56.223][File] Calling kpsewhich to resolve beamer.cls .
+[17:26:56.383][Cacher] Updated elements in 160.83 ms: %WS1%/Presi/template-pdflatex.tex .
+[17:26:56.384][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[17:26:56.385][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[17:26:56.407][Cacher] Adding %WS1%/Presi/img/ICodes.png .
+[17:26:56.408][Cacher][Watcher] Watched %WS1%/Presi/img/ICodes.png with a new watcher on %WS1%/Presi/img .
+[17:26:56.408][Event] FILE_WATCHED: "%WS1%/Presi/img/ICodes.png"
+[17:26:56.410][Cacher] Adding %WS1%/Presi/img/TEA.png .
+[17:26:56.410][Cacher][Watcher] Watched %WS1%/Presi/img/TEA.png .
+[17:26:56.410][Event] FILE_WATCHED: "%WS1%/Presi/img/TEA.png"
+[17:26:56.411][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[17:26:56.411][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[17:26:56.411][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[17:26:56.412][Structure] Structure force updated with 13 root sections for %WS1%/Presi/template-pdflatex.tex .
+[17:26:56.412][Event] STRUCTURE_UPDATED
+[17:27:09.329][Root] Current workspace folders: ["file://%WS1%"]
+[17:27:09.340][Root] Found root file from active editor: %WS1%/Paper/TEPandIntegrity.tex
+[17:27:09.341][Root] Root file changed: from %WS1%/Paper/TEPandIntegrity.tex to %WS1%/Paper/TEPandIntegrity.tex, langID latex . Refresh dependencies
+[17:27:09.341][Event] ROOT_FILE_CHANGED: "%WS1%/Paper/TEPandIntegrity.tex"
+[17:27:09.341][Cacher][Watcher] Reset.
+[17:27:09.342][Cacher][Watcher] Reset.
+[17:27:09.342][Cacher][Watcher] Reset.
+[17:27:09.343][Cacher] Adding %WS1%/Paper/TEPandIntegrity.tex .
+[17:27:09.343][Cacher][Watcher] Watched %WS1%/Paper/TEPandIntegrity.tex with a new watcher on %WS1%/Paper .
+[17:27:09.343][Event] FILE_WATCHED: "%WS1%/Paper/TEPandIntegrity.tex"
+[17:27:09.344][Cacher] Caching %WS1%/Paper/TEPandIntegrity.tex .
+[17:27:09.345][Cacher] Updated inputs of %WS1%/Paper/TEPandIntegrity.tex .
+[17:27:09.345][Cacher] Parse LaTeX AST: %WS1%/Paper/TEPandIntegrity.tex .
+[17:27:09.345][Event] ROOT_FILE_SEARCHED
+[17:27:09.346][Event] STRUCTURE_UPDATED
+[17:27:09.489][Cacher] Parsed LaTeX AST: %WS1%/Paper/TEPandIntegrity.tex .
+[17:27:09.490][File] Calling kpsewhich to resolve IEEEtran.cls .
+[17:27:09.645][Cacher] Updated elements in 154.62 ms: %WS1%/Paper/TEPandIntegrity.tex .
+[17:27:09.646][Event] FILE_PARSED: "%WS1%/Paper/TEPandIntegrity.tex"
+[17:27:09.646][Cacher] Parsing .fls %WS1%/Paper/TEPandIntegrity.fls .
+[17:27:09.649][Cacher] Adding %WS1%/Paper/IEEEtran.cls .
+[17:27:09.650][Cacher][Watcher] Watched %WS1%/Paper/IEEEtran.cls .
+[17:27:09.650][Event] FILE_WATCHED: "%WS1%/Paper/IEEEtran.cls"
+[17:27:09.656][Cacher] Found .aux %WS1%/Paper/TEPandIntegrity.tex from .fls %WS1%/Paper/TEPandIntegrity.fls , parsing.
+[17:27:09.656][Cacher] Parsed .aux %WS1%/Paper/TEPandIntegrity.tex .
+[17:27:09.656][Cacher] Parsed .fls %WS1%/Paper/TEPandIntegrity.fls .
+[17:27:09.657][Structure] Structure force updated with 20 root sections for %WS1%/Paper/TEPandIntegrity.tex .
+[17:27:09.657][Event] STRUCTURE_UPDATED
+[17:27:10.079][Root] Current workspace folders: ["file://%WS1%"]
+[17:27:10.093][Root] Found root file from active editor: %WS1%/Presi/template-pdflatex.tex
+[17:27:10.094][Root] Root file changed: from %WS1%/Presi/template-pdflatex.tex to %WS1%/Presi/template-pdflatex.tex, langID latex . Refresh dependencies
+[17:27:10.094][Event] ROOT_FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[17:27:10.094][Cacher][Watcher] Reset.
+[17:27:10.095][Cacher][Watcher] Reset.
+[17:27:10.095][Cacher][Watcher] Reset.
+[17:27:10.096][Cacher] Adding %WS1%/Presi/template-pdflatex.tex .
+[17:27:10.096][Cacher][Watcher] Watched %WS1%/Presi/template-pdflatex.tex with a new watcher on %WS1%/Presi .
+[17:27:10.097][Event] FILE_WATCHED: "%WS1%/Presi/template-pdflatex.tex"
+[17:27:10.097][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[17:27:10.098][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[17:27:10.098][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[17:27:10.099][Event] ROOT_FILE_SEARCHED
+[17:27:10.099][Event] STRUCTURE_UPDATED
+[17:27:10.238][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[17:27:10.239][File] Calling kpsewhich to resolve beamer.cls .
+[17:27:10.395][Cacher] Updated elements in 156.50 ms: %WS1%/Presi/template-pdflatex.tex .
+[17:27:10.396][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[17:27:10.396][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[17:27:10.416][Cacher] Adding %WS1%/Presi/img/ICodes.png .
+[17:27:10.417][Cacher][Watcher] Watched %WS1%/Presi/img/ICodes.png with a new watcher on %WS1%/Presi/img .
+[17:27:10.417][Event] FILE_WATCHED: "%WS1%/Presi/img/ICodes.png"
+[17:27:10.418][Cacher] Adding %WS1%/Presi/img/TEA.png .
+[17:27:10.418][Cacher][Watcher] Watched %WS1%/Presi/img/TEA.png .
+[17:27:10.418][Event] FILE_WATCHED: "%WS1%/Presi/img/TEA.png"
+[17:27:10.419][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[17:27:10.419][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[17:27:10.419][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[17:27:10.420][Structure] Structure force updated with 13 root sections for %WS1%/Presi/template-pdflatex.tex .
+[17:27:10.420][Event] STRUCTURE_UPDATED
+[17:27:13.668][Event] STRUCTURE_UPDATED
+[17:27:31.953][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[17:27:32.014][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[17:27:32.015][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[17:27:32.016][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[17:27:32.017][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[17:27:32.017][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[17:27:32.018][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[17:27:32.018][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[17:27:32.018][Build] The languageId of the document: latex
+[17:27:32.019][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[17:27:32.019][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[17:27:32.019][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[17:27:32.021][Build][Recipe] Preparing to run recipe: latexmk.
+[17:27:32.022][Build][Recipe] Prepared 1 tools.
+[17:27:32.023][Build][Recipe] outDir: %WS1%/Presi .
+[17:27:32.024][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[17:27:32.025][Build] env: {}
+[17:27:32.025][Build] root: %WS1%/Presi/template-pdflatex.tex
+[17:27:32.025][Build] cwd: %WS1%/Presi
+[17:27:32.037][Build] LaTeX build process spawned with PID 2827.
+[17:27:32.104][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[17:27:32.104][File] Calling kpsewhich to resolve beamer.cls .
+[17:27:32.256][Cacher] Updated elements in 152.20 ms: %WS1%/Presi/template-pdflatex.tex .
+[17:27:32.257][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[17:27:32.258][Structure] Structure force updated with 20 root sections for %WS1%/Presi/template-pdflatex.tex .
+[17:27:32.258][Event] STRUCTURE_UPDATED
+[17:27:33.876][Parser][TexLog] Logged 0 messages.
+[17:27:33.877][Build] Finished a step in recipe with PID 2827.
+[17:27:33.877][Build] Successfully built %WS1%/Presi/template-pdflatex.tex .
+[17:27:33.877][Event] BUILD_DONE
+[17:27:33.878][Viewer] Call refreshExistingViewer: "%WS1%/Presi/template-pdflatex.pdf" .
+[17:27:33.878][Viewer] Refresh PDF viewer: %WS1%/Presi/template-pdflatex.pdf
+[17:27:33.879][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[17:27:33.895][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[17:27:33.895][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[17:27:33.896][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[17:27:33.898][Server] Preview PDF file: file://%WS1%/Presi/template-pdflatex.pdf
+[17:27:33.941][Preview][Math][Cursor] Parse LaTeX AST from $e: \mathcal{S}\rightarrow\mathcal{C}$ .
+[17:27:35.712][Preview][Math][Cursor] Use previous AST of $e: \mathcal{S}\rightarrow\mathcal{C}$ .
+[17:27:38.948][Preview][Math][Cursor] Use previous AST of $e: \mathcal{S}\rightarrow\mathcal{C}$ .
+[17:27:40.649][Viewer] Handle data type: loaded
+[17:27:40.649][Event] VIEWER_PAGE_LOADED
+[17:27:44.059][Event] STRUCTURE_UPDATED
+[17:28:52.079][Event] STRUCTURE_UPDATED
+[17:29:56.377][Event] STRUCTURE_UPDATED
+[18:15:39.645][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[18:15:39.703][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[18:15:39.711][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[18:15:39.714][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[18:15:39.715][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[18:15:39.716][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[18:15:39.717][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[18:15:39.718][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[18:15:39.719][Build] The languageId of the document: latex
+[18:15:39.720][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[18:15:39.721][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[18:15:39.722][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[18:15:39.726][Build][Recipe] Preparing to run recipe: latexmk.
+[18:15:39.727][Build][Recipe] Prepared 1 tools.
+[18:15:39.730][Build][Recipe] outDir: %WS1%/Presi .
+[18:15:39.732][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[18:15:39.733][Build] env: {}
+[18:15:39.734][Build] root: %WS1%/Presi/template-pdflatex.tex
+[18:15:39.738][Build] cwd: %WS1%/Presi
+[18:15:39.774][Build] LaTeX build process spawned with PID 31077.
+[18:15:39.911][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[18:15:39.912][File] Calling kpsewhich to resolve beamer.cls .
+[18:15:40.139][Cacher] Updated elements in 227.46 ms: %WS1%/Presi/template-pdflatex.tex .
+[18:15:40.141][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[18:15:40.142][Structure] Structure force updated with 20 root sections for %WS1%/Presi/template-pdflatex.tex .
+[18:15:40.143][Event] STRUCTURE_UPDATED
+[18:15:45.309][Parser][TexLog] Logged 0 messages.
+[18:15:45.309][Build] Finished a step in recipe with PID 31077.
+[18:15:45.310][Build] Successfully built %WS1%/Presi/template-pdflatex.tex .
+[18:15:45.310][Event] BUILD_DONE
+[18:15:45.310][Viewer] Call refreshExistingViewer: "%WS1%/Presi/template-pdflatex.pdf" .
+[18:15:45.311][Viewer] Refresh PDF viewer: %WS1%/Presi/template-pdflatex.pdf
+[18:15:45.312][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[18:15:45.349][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[18:15:45.350][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[18:15:45.350][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[18:15:45.354][Server] Preview PDF file: file://%WS1%/Presi/template-pdflatex.pdf
+[18:15:45.478][Viewer] Handle data type: loaded
+[18:15:45.478][Event] VIEWER_PAGE_LOADED
+[18:16:05.125][Event] STRUCTURE_UPDATED
+[18:16:13.981][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[18:16:14.042][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[18:16:14.045][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[18:16:14.048][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[18:16:14.049][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[18:16:14.050][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[18:16:14.050][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[18:16:14.052][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[18:16:14.052][Build] The languageId of the document: latex
+[18:16:14.053][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[18:16:14.054][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[18:16:14.055][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[18:16:14.063][Build][Recipe] Preparing to run recipe: latexmk.
+[18:16:14.064][Build][Recipe] Prepared 1 tools.
+[18:16:14.066][Build][Recipe] outDir: %WS1%/Presi .
+[18:16:14.069][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[18:16:14.069][Build] env: {}
+[18:16:14.070][Build] root: %WS1%/Presi/template-pdflatex.tex
+[18:16:14.071][Build] cwd: %WS1%/Presi
+[18:16:14.098][Build] LaTeX build process spawned with PID 31413.
+[18:16:14.270][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[18:16:14.271][File] Calling kpsewhich to resolve beamer.cls .
+[18:16:14.499][Cacher] Updated elements in 227.77 ms: %WS1%/Presi/template-pdflatex.tex .
+[18:16:14.500][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[18:16:14.504][Structure] Structure force updated with 22 root sections for %WS1%/Presi/template-pdflatex.tex .
+[18:16:14.505][Event] STRUCTURE_UPDATED
+[18:16:19.529][Parser][TexLog] Logged 0 messages.
+[18:16:19.529][Build] Finished a step in recipe with PID 31413.
+[18:16:19.530][Build] Successfully built %WS1%/Presi/template-pdflatex.tex .
+[18:16:19.530][Event] BUILD_DONE
+[18:16:19.531][Viewer] Call refreshExistingViewer: "%WS1%/Presi/template-pdflatex.pdf" .
+[18:16:19.531][Viewer] Refresh PDF viewer: %WS1%/Presi/template-pdflatex.pdf
+[18:16:19.532][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[18:16:19.560][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[18:16:19.560][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[18:16:19.561][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[18:16:19.620][Server] Preview PDF file: file://%WS1%/Presi/template-pdflatex.pdf
+[18:16:19.730][Viewer] Handle data type: loaded
+[18:16:19.731][Event] VIEWER_PAGE_LOADED
+[18:16:31.162][Event] STRUCTURE_UPDATED
+[18:17:09.073][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[18:17:09.133][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[18:17:09.136][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[18:17:09.138][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[18:17:09.139][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[18:17:09.140][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[18:17:09.141][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[18:17:09.142][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[18:17:09.143][Build] The languageId of the document: latex
+[18:17:09.144][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[18:17:09.145][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[18:17:09.146][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[18:17:09.150][Build][Recipe] Preparing to run recipe: latexmk.
+[18:17:09.151][Build][Recipe] Prepared 1 tools.
+[18:17:09.154][Build][Recipe] outDir: %WS1%/Presi .
+[18:17:09.157][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[18:17:09.158][Build] env: {}
+[18:17:09.159][Build] root: %WS1%/Presi/template-pdflatex.tex
+[18:17:09.160][Build] cwd: %WS1%/Presi
+[18:17:09.181][Build] LaTeX build process spawned with PID 31937.
+[18:17:09.231][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[18:17:09.231][File] Calling kpsewhich to resolve beamer.cls .
+[18:17:09.455][Cacher] Updated elements in 223.53 ms: %WS1%/Presi/template-pdflatex.tex .
+[18:17:09.456][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[18:17:09.458][Structure] Structure force updated with 21 root sections for %WS1%/Presi/template-pdflatex.tex .
+[18:17:09.458][Event] STRUCTURE_UPDATED
+[18:17:11.956][Parser][TexLog] Logged 0 messages.
+[18:17:11.957][Build] Finished a step in recipe with PID 31937.
+[18:17:11.957][Build] Successfully built %WS1%/Presi/template-pdflatex.tex .
+[18:17:11.957][Event] BUILD_DONE
+[18:17:11.958][Viewer] Call refreshExistingViewer: "%WS1%/Presi/template-pdflatex.pdf" .
+[18:17:11.958][Viewer] Refresh PDF viewer: %WS1%/Presi/template-pdflatex.pdf
+[18:17:11.959][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[18:17:11.982][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[18:17:11.983][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[18:17:11.983][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[18:17:12.005][Server] Preview PDF file: file://%WS1%/Presi/template-pdflatex.pdf
+[18:20:36.904][Viewer] Handle data type: loaded
+[18:20:36.906][Event] VIEWER_PAGE_LOADED
+[18:28:57.911][Event] STRUCTURE_UPDATED
+[18:44:42.480][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[18:44:42.540][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[18:44:42.543][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[18:44:42.544][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[18:44:42.545][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[18:44:42.545][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[18:44:42.545][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[18:44:42.546][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[18:44:42.546][Build] The languageId of the document: latex
+[18:44:42.546][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[18:44:42.547][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[18:44:42.547][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[18:44:42.549][Build][Recipe] Preparing to run recipe: latexmk.
+[18:44:42.549][Build][Recipe] Prepared 1 tools.
+[18:44:42.552][Build][Recipe] outDir: %WS1%/Presi .
+[18:44:42.553][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[18:44:42.554][Build] env: {}
+[18:44:42.554][Build] root: %WS1%/Presi/template-pdflatex.tex
+[18:44:42.555][Build] cwd: %WS1%/Presi
+[18:44:42.568][Build] LaTeX build process spawned with PID 15323.
+[18:44:42.641][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[18:44:42.642][File] Calling kpsewhich to resolve beamer.cls .
+[18:44:42.863][Cacher] Updated elements in 221.25 ms: %WS1%/Presi/template-pdflatex.tex .
+[18:44:42.864][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[18:44:42.865][Structure] Structure force updated with 21 root sections for %WS1%/Presi/template-pdflatex.tex .
+[18:44:42.865][Event] STRUCTURE_UPDATED
+[18:44:47.987][Parser][TexLog] Logged 0 messages.
+[18:44:47.987][Build] Finished a step in recipe with PID 15323.
+[18:44:47.988][Build] Successfully built %WS1%/Presi/template-pdflatex.tex .
+[18:44:47.988][Event] BUILD_DONE
+[18:44:47.989][Viewer] Call refreshExistingViewer: "%WS1%/Presi/template-pdflatex.pdf" .
+[18:44:47.989][Viewer] Refresh PDF viewer: %WS1%/Presi/template-pdflatex.pdf
+[18:44:47.990][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[18:44:48.025][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[18:44:48.026][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[18:44:48.026][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[18:44:48.030][Server] Preview PDF file: file://%WS1%/Presi/template-pdflatex.pdf
+[18:48:21.240][Viewer] Handle data type: loaded
+[18:48:21.241][Event] VIEWER_PAGE_LOADED
+[19:02:48.122][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[19:02:48.204][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[19:02:48.213][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[19:02:48.221][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[19:02:48.222][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[19:02:48.224][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[19:02:48.226][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[19:02:48.227][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[19:02:48.229][Build] The languageId of the document: latex
+[19:02:48.231][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[19:02:48.232][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[19:02:48.234][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[19:02:48.258][Build][Recipe] Preparing to run recipe: latexmk.
+[19:02:48.260][Build][Recipe] Prepared 1 tools.
+[19:02:48.274][Build][Recipe] outDir: %WS1%/Presi .
+[19:02:48.282][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[19:02:48.284][Build] env: {}
+[19:02:48.285][Build] root: %WS1%/Presi/template-pdflatex.tex
+[19:02:48.287][Build] cwd: %WS1%/Presi
+[19:02:48.311][Build] LaTeX build process spawned with PID 23744.
+[19:02:48.413][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[19:02:48.414][File] Calling kpsewhich to resolve beamer.cls .
+[19:02:48.641][Cacher] Updated elements in 227.44 ms: %WS1%/Presi/template-pdflatex.tex .
+[19:02:48.643][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[19:02:48.644][Structure] Structure force updated with 22 root sections for %WS1%/Presi/template-pdflatex.tex .
+[19:02:48.645][Event] STRUCTURE_UPDATED
+[19:02:51.124][Parser][TexLog] Logged 0 messages.
+[19:02:51.125][Build] Finished a step in recipe with PID 23744.
+[19:02:51.125][Build] Successfully built %WS1%/Presi/template-pdflatex.tex .
+[19:02:51.126][Event] BUILD_DONE
+[19:02:51.126][Viewer] Call refreshExistingViewer: "%WS1%/Presi/template-pdflatex.pdf" .
+[19:02:51.126][Viewer] Refresh PDF viewer: %WS1%/Presi/template-pdflatex.pdf
+[19:02:51.127][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[19:02:51.150][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[19:02:51.151][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[19:02:51.151][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[19:02:51.154][Server] Preview PDF file: file://%WS1%/Presi/template-pdflatex.pdf
+[19:02:58.859][Viewer] Handle data type: loaded
+[19:02:58.860][Event] VIEWER_PAGE_LOADED
+[19:03:13.156][Event] STRUCTURE_UPDATED
+[19:03:39.456][Event] STRUCTURE_UPDATED
+[19:03:49.008][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[19:03:49.069][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[19:03:49.072][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[19:03:49.075][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[19:03:49.076][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[19:03:49.077][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[19:03:49.078][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[19:03:49.079][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[19:03:49.080][Build] The languageId of the document: latex
+[19:03:49.081][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[19:03:49.081][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[19:03:49.083][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[19:03:49.090][Build][Recipe] Preparing to run recipe: latexmk.
+[19:03:49.091][Build][Recipe] Prepared 1 tools.
+[19:03:49.094][Build][Recipe] outDir: %WS1%/Presi .
+[19:03:49.097][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[19:03:49.097][Build] env: {}
+[19:03:49.099][Build] root: %WS1%/Presi/template-pdflatex.tex
+[19:03:49.100][Build] cwd: %WS1%/Presi
+[19:03:49.129][Build] LaTeX build process spawned with PID 24333.
+[19:03:49.374][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[19:03:49.375][File] Calling kpsewhich to resolve beamer.cls .
+[19:03:49.602][Cacher] Updated elements in 227.14 ms: %WS1%/Presi/template-pdflatex.tex .
+[19:03:49.603][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[19:03:49.605][Structure] Structure force updated with 22 root sections for %WS1%/Presi/template-pdflatex.tex .
+[19:03:49.608][Event] STRUCTURE_UPDATED
+[19:03:52.129][Parser][TexLog] Logged 0 messages.
+[19:03:52.130][Build] Finished a step in recipe with PID 24333.
+[19:03:52.130][Build] Successfully built %WS1%/Presi/template-pdflatex.tex .
+[19:03:52.130][Event] BUILD_DONE
+[19:03:52.131][Viewer] Call refreshExistingViewer: "%WS1%/Presi/template-pdflatex.pdf" .
+[19:03:52.131][Viewer] Refresh PDF viewer: %WS1%/Presi/template-pdflatex.pdf
+[19:03:52.132][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[19:03:52.156][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[19:03:52.156][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[19:03:52.156][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[19:03:52.159][Server] Preview PDF file: file://%WS1%/Presi/template-pdflatex.pdf
+[19:03:54.869][Viewer] Handle data type: loaded
+[19:03:54.871][Event] VIEWER_PAGE_LOADED
+[19:27:11.892][Event] STRUCTURE_UPDATED
+[19:27:45.351][Event] STRUCTURE_UPDATED
+[19:29:08.117][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[19:29:08.176][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[19:29:08.183][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[19:29:08.186][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[19:29:08.187][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[19:29:08.188][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[19:29:08.188][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[19:29:08.189][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[19:29:08.190][Build] The languageId of the document: latex
+[19:29:08.191][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[19:29:08.192][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[19:29:08.193][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[19:29:08.196][Build][Recipe] Preparing to run recipe: latexmk.
+[19:29:08.198][Build][Recipe] Prepared 1 tools.
+[19:29:08.201][Build][Recipe] outDir: %WS1%/Presi .
+[19:29:08.203][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[19:29:08.204][Build] env: {}
+[19:29:08.205][Build] root: %WS1%/Presi/template-pdflatex.tex
+[19:29:08.207][Build] cwd: %WS1%/Presi
+[19:29:08.236][Build] LaTeX build process spawned with PID 6589.
+[19:29:08.372][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[19:29:08.373][File] Calling kpsewhich to resolve beamer.cls .
+[19:29:08.670][Cacher] Updated elements in 296.71 ms: %WS1%/Presi/template-pdflatex.tex .
+[19:29:08.670][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[19:29:08.671][Structure] Structure force updated with 22 root sections for %WS1%/Presi/template-pdflatex.tex .
+[19:29:08.672][Event] STRUCTURE_UPDATED
+[19:29:09.734][Root] Current workspace folders: ["file://%WS1%"]
+[19:29:09.748][Root] Found root file from active editor: %WS1%/Paper/TEPandIntegrity.tex
+[19:29:09.749][Root] Root file changed: from %WS1%/Paper/TEPandIntegrity.tex to %WS1%/Paper/TEPandIntegrity.tex, langID latex . Refresh dependencies
+[19:29:09.749][Event] ROOT_FILE_CHANGED: "%WS1%/Paper/TEPandIntegrity.tex"
+[19:29:09.750][Cacher][Watcher] Reset.
+[19:29:09.751][Cacher][Watcher] Reset.
+[19:29:09.751][Cacher][Watcher] Reset.
+[19:29:09.753][Cacher] Adding %WS1%/Paper/TEPandIntegrity.tex .
+[19:29:09.754][Cacher][Watcher] Watched %WS1%/Paper/TEPandIntegrity.tex with a new watcher on %WS1%/Paper .
+[19:29:09.755][Event] FILE_WATCHED: "%WS1%/Paper/TEPandIntegrity.tex"
+[19:29:09.756][Cacher] Caching %WS1%/Paper/TEPandIntegrity.tex .
+[19:29:09.757][Cacher] Updated inputs of %WS1%/Paper/TEPandIntegrity.tex .
+[19:29:09.757][Cacher] Parse LaTeX AST: %WS1%/Paper/TEPandIntegrity.tex .
+[19:29:09.758][Event] ROOT_FILE_SEARCHED
+[19:29:09.759][Event] STRUCTURE_UPDATED
+[19:29:10.073][Cacher] Parsed LaTeX AST: %WS1%/Paper/TEPandIntegrity.tex .
+[19:29:10.074][File] Calling kpsewhich to resolve IEEEtran.cls .
+[19:29:10.300][Cacher] Updated elements in 226.57 ms: %WS1%/Paper/TEPandIntegrity.tex .
+[19:29:10.301][Event] FILE_PARSED: "%WS1%/Paper/TEPandIntegrity.tex"
+[19:29:10.302][Cacher] Parsing .fls %WS1%/Paper/TEPandIntegrity.fls .
+[19:29:10.305][Cacher] Adding %WS1%/Paper/IEEEtran.cls .
+[19:29:10.306][Cacher][Watcher] Watched %WS1%/Paper/IEEEtran.cls .
+[19:29:10.306][Event] FILE_WATCHED: "%WS1%/Paper/IEEEtran.cls"
+[19:29:10.314][Cacher] Found .aux %WS1%/Paper/TEPandIntegrity.tex from .fls %WS1%/Paper/TEPandIntegrity.fls , parsing.
+[19:29:10.315][Cacher] Parsed .aux %WS1%/Paper/TEPandIntegrity.tex .
+[19:29:10.315][Cacher] Parsed .fls %WS1%/Paper/TEPandIntegrity.fls .
+[19:29:10.343][Structure] Structure force updated with 23 root sections for %WS1%/Paper/TEPandIntegrity.tex .
+[19:29:10.344][Event] STRUCTURE_UPDATED
+[19:29:14.321][Parser][TexLog] Logged 1 messages.
+[19:29:14.322][Build] Finished a step in recipe with PID 6589.
+[19:29:14.323][Build] Successfully built %WS1%/Presi/template-pdflatex.tex .
+[19:29:14.323][Event] BUILD_DONE
+[19:29:14.324][Viewer] Call refreshExistingViewer: "%WS1%/Presi/template-pdflatex.pdf" .
+[19:29:14.324][Viewer] Refresh PDF viewer: %WS1%/Presi/template-pdflatex.pdf
+[19:29:14.325][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[19:29:14.354][Cacher] Adding %WS1%/Presi/img/ICodes.png .
+[19:29:14.354][Cacher][Watcher] Watched %WS1%/Presi/img/ICodes.png with a new watcher on %WS1%/Presi/img .
+[19:29:14.355][Event] FILE_WATCHED: "%WS1%/Presi/img/ICodes.png"
+[19:29:14.356][Cacher] Adding %WS1%/Presi/img/TEA.png .
+[19:29:14.356][Cacher][Watcher] Watched %WS1%/Presi/img/TEA.png .
+[19:29:14.356][Event] FILE_WATCHED: "%WS1%/Presi/img/TEA.png"
+[19:29:14.357][Cacher] Adding %WS1%/Presi/img/HELP.png .
+[19:29:14.357][Cacher][Watcher] Watched %WS1%/Presi/img/HELP.png .
+[19:29:14.358][Event] FILE_WATCHED: "%WS1%/Presi/img/HELP.png"
+[19:29:14.359][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[19:29:14.359][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[19:29:14.359][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[19:29:14.370][Server] Preview PDF file: file://%WS1%/Presi/template-pdflatex.pdf
+[19:29:14.482][Viewer] Handle data type: loaded
+[19:29:14.482][Event] VIEWER_PAGE_LOADED
+[19:29:27.218][Event] STRUCTURE_UPDATED
+[19:29:32.523][Root] Current workspace folders: ["file://%WS1%"]
+[19:29:32.565][Root] Found root file from active editor: %WS1%/Presi/template-pdflatex.tex
+[19:29:32.569][Root] Root file changed: from %WS1%/Presi/template-pdflatex.tex to %WS1%/Presi/template-pdflatex.tex, langID latex . Refresh dependencies
+[19:29:32.570][Event] ROOT_FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[19:29:32.573][Cacher][Watcher] Reset.
+[19:29:32.574][Cacher][Watcher] Reset.
+[19:29:32.576][Cacher][Watcher] Reset.
+[19:29:32.580][Cacher] Adding %WS1%/Presi/template-pdflatex.tex .
+[19:29:32.582][Cacher][Watcher] Watched %WS1%/Presi/template-pdflatex.tex with a new watcher on %WS1%/Presi .
+[19:29:32.584][Event] FILE_WATCHED: "%WS1%/Presi/template-pdflatex.tex"
+[19:29:32.587][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[19:29:32.591][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[19:29:32.592][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[19:29:32.594][Event] ROOT_FILE_SEARCHED
+[19:29:32.598][Event] STRUCTURE_UPDATED
+[19:29:32.726][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[19:29:32.727][File] Calling kpsewhich to resolve beamer.cls .
+[19:29:32.969][Cacher] Updated elements in 241.76 ms: %WS1%/Presi/template-pdflatex.tex .
+[19:29:32.970][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[19:29:32.970][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[19:29:33.003][Cacher] Adding %WS1%/Presi/img/ICodes.png .
+[19:29:33.003][Cacher][Watcher] Watched %WS1%/Presi/img/ICodes.png with a new watcher on %WS1%/Presi/img .
+[19:29:33.003][Event] FILE_WATCHED: "%WS1%/Presi/img/ICodes.png"
+[19:29:33.004][Cacher] Adding %WS1%/Presi/img/TEA.png .
+[19:29:33.005][Cacher][Watcher] Watched %WS1%/Presi/img/TEA.png .
+[19:29:33.005][Event] FILE_WATCHED: "%WS1%/Presi/img/TEA.png"
+[19:29:33.006][Cacher] Adding %WS1%/Presi/img/HELP.png .
+[19:29:33.007][Cacher][Watcher] Watched %WS1%/Presi/img/HELP.png .
+[19:29:33.007][Event] FILE_WATCHED: "%WS1%/Presi/img/HELP.png"
+[19:29:33.008][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[19:29:33.008][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[19:29:33.008][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[19:29:33.009][Structure] Structure force updated with 13 root sections for %WS1%/Presi/template-pdflatex.tex .
+[19:29:33.009][Event] STRUCTURE_UPDATED
+[19:29:38.067][Extension] onDidSaveTextDocument triggered: file://%WS1%/Presi/template-pdflatex.tex
+[19:29:38.134][Cacher][Watcher] "change" emitted on %WS1%/Presi/template-pdflatex.tex.
+[19:29:38.135][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[19:29:38.136][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[19:29:38.137][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[19:29:38.137][Build] Auto build starteddetecting the change of a file: %WS1%/Presi/template-pdflatex.tex .
+[19:29:38.138][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/Presi/template-pdflatex.tex"}
+[19:29:38.139][Build] The document of the active editor: file://%WS1%/Presi/template-pdflatex.tex
+[19:29:38.139][Build] The languageId of the document: latex
+[19:29:38.140][Build] Building root file: %WS1%/Presi/template-pdflatex.tex
+[19:29:38.140][Build][Recipe] Build root file %WS1%/Presi/template-pdflatex.tex
+[19:29:38.141][Event] FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[19:29:38.142][Build][Recipe] Preparing to run recipe: latexmk.
+[19:29:38.143][Build][Recipe] Prepared 1 tools.
+[19:29:38.145][Build][Recipe] outDir: %WS1%/Presi .
+[19:29:38.147][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/Presi","%WS1%/Presi/template-pdflatex"].
+[19:29:38.147][Build] env: {}
+[19:29:38.148][Build] root: %WS1%/Presi/template-pdflatex.tex
+[19:29:38.149][Build] cwd: %WS1%/Presi
+[19:29:38.166][Build] LaTeX build process spawned with PID 6937.
+[19:29:38.283][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[19:29:38.284][File] Calling kpsewhich to resolve beamer.cls .
+[19:29:38.508][Cacher] Updated elements in 223.73 ms: %WS1%/Presi/template-pdflatex.tex .
+[19:29:38.509][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[19:29:38.510][Structure] Structure force updated with 23 root sections for %WS1%/Presi/template-pdflatex.tex .
+[19:29:38.510][Event] STRUCTURE_UPDATED
+[19:29:41.157][Parser][TexLog] Logged 0 messages.
+[19:29:41.158][Build] Finished a step in recipe with PID 6937.
+[19:29:41.158][Build] Successfully built %WS1%/Presi/template-pdflatex.tex .
+[19:29:41.159][Event] BUILD_DONE
+[19:29:41.159][Viewer] Call refreshExistingViewer: "%WS1%/Presi/template-pdflatex.pdf" .
+[19:29:41.160][Viewer] Refresh PDF viewer: %WS1%/Presi/template-pdflatex.pdf
+[19:29:41.161][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[19:29:41.191][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[19:29:41.192][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[19:29:41.192][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[19:29:41.196][Server] Preview PDF file: file://%WS1%/Presi/template-pdflatex.pdf
+[19:29:41.311][Viewer] Handle data type: loaded
+[19:29:41.312][Event] VIEWER_PAGE_LOADED
+[19:36:30.545][Event] STRUCTURE_UPDATED
+[19:36:42.826][Event] STRUCTURE_UPDATED
+[19:36:44.129][Root] Current workspace folders: ["file://%WS1%"]
+[19:36:44.147][Root] Found root file from active editor: %WS1%/Paper/TEPandIntegrity.tex
+[19:36:44.148][Root] Root file changed: from %WS1%/Paper/TEPandIntegrity.tex to %WS1%/Paper/TEPandIntegrity.tex, langID latex . Refresh dependencies
+[19:36:44.149][Event] ROOT_FILE_CHANGED: "%WS1%/Paper/TEPandIntegrity.tex"
+[19:36:44.150][Cacher][Watcher] Reset.
+[19:36:44.150][Cacher][Watcher] Reset.
+[19:36:44.151][Cacher][Watcher] Reset.
+[19:36:44.152][Cacher] Adding %WS1%/Paper/TEPandIntegrity.tex .
+[19:36:44.153][Cacher][Watcher] Watched %WS1%/Paper/TEPandIntegrity.tex with a new watcher on %WS1%/Paper .
+[19:36:44.154][Event] FILE_WATCHED: "%WS1%/Paper/TEPandIntegrity.tex"
+[19:36:44.155][Cacher] Caching %WS1%/Paper/TEPandIntegrity.tex .
+[19:36:44.156][Cacher] Updated inputs of %WS1%/Paper/TEPandIntegrity.tex .
+[19:36:44.157][Cacher] Parse LaTeX AST: %WS1%/Paper/TEPandIntegrity.tex .
+[19:36:44.157][Event] ROOT_FILE_SEARCHED
+[19:36:44.159][Event] STRUCTURE_UPDATED
+[19:36:44.402][Cacher] Parsed LaTeX AST: %WS1%/Paper/TEPandIntegrity.tex .
+[19:36:44.403][File] Calling kpsewhich to resolve IEEEtran.cls .
+[19:36:44.663][Cacher] Updated elements in 260.99 ms: %WS1%/Paper/TEPandIntegrity.tex .
+[19:36:44.664][Event] FILE_PARSED: "%WS1%/Paper/TEPandIntegrity.tex"
+[19:36:44.665][Cacher] Parsing .fls %WS1%/Paper/TEPandIntegrity.fls .
+[19:36:44.670][Cacher] Adding %WS1%/Paper/IEEEtran.cls .
+[19:36:44.671][Cacher][Watcher] Watched %WS1%/Paper/IEEEtran.cls .
+[19:36:44.671][Event] FILE_WATCHED: "%WS1%/Paper/IEEEtran.cls"
+[19:36:44.682][Cacher] Found .aux %WS1%/Paper/TEPandIntegrity.tex from .fls %WS1%/Paper/TEPandIntegrity.fls , parsing.
+[19:36:44.683][Cacher] Parsed .aux %WS1%/Paper/TEPandIntegrity.tex .
+[19:36:44.683][Cacher] Parsed .fls %WS1%/Paper/TEPandIntegrity.fls .
+[19:36:44.684][Structure] Structure force updated with 23 root sections for %WS1%/Paper/TEPandIntegrity.tex .
+[19:36:44.685][Event] STRUCTURE_UPDATED
+[19:39:21.556][Cacher][Watcher] Reset.
+[19:39:21.557][Cacher][Watcher] Reset.
+[19:39:21.557][Cacher][Watcher] Reset.

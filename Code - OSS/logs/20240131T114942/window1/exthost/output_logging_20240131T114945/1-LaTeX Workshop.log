@@ -1,0 +1,80 @@
+[11:50:12.119][Logger] New log placeholder %WS1% registered for /home/void/Documents/TEP-and-Integrity-Codes .
+[11:50:12.119][Extension] Initializing LaTeX Workshop.
+[11:50:12.478][Build][Recipe] Set $LATEXWORKSHOP_DOCKER_LATEX: ""
+[11:50:12.542][Server] Creating LaTeX Workshop http and websocket server.
+[11:50:12.704][Format][Bib] Bibtex format config: {"tab":"  ","case":"lowercase","left":"{","right":"}","trailingComma":false,"sort":["key"],"alignOnEqual":true,"sortFields":false,"fieldsOrder":[],"firstEntries":["string","xdata"]}
+[11:50:12.759][Server] Server successfully started: {"address":"127.0.0.1","family":"IPv4","port":40079} .
+[11:50:12.763][Extension] Extension root: /home/void/.vscode-oss/extensions/james-yu.latex-workshop-9.18.0
+[11:50:12.764][Extension] $PATH: /home/void/.local/bin:/home/void/.opam/5.0.0/bin:/opt/texlive/2023/bin/x86_64-linux:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin
+[11:50:12.765][Extension] $SHELL: /bin/fish
+[11:50:12.765][Extension] $LANG: en_GB.UTF-8
+[11:50:12.766][Extension] $LC_ALL: undefined
+[11:50:12.767][Extension] process.platform: linux
+[11:50:12.767][Extension] process.arch: x64
+[11:50:12.768][Extension] vscode.env.appName: Code - OSS
+[11:50:12.769][Extension] vscode.env.remoteName: undefined
+[11:50:12.769][Extension] vscode.env.uiKind: 1
+[11:50:12.875][Extension] Trigger characters for intellisense of LaTeX documents: ["\\",",","{"]
+[11:50:12.879][Root] Current workspace folders: ["file://%WS1%"]
+[11:50:12.880][Extension] LaTeX Workshop initialized.
+[11:50:12.881][Root] Current workspaceRootDir: file://%WS1% .
+[11:50:12.885][Server] valdOrigin is http://127.0.0.1:40079
+[11:50:12.976][Root] Found files that might be root, choose the first one: %WS1%/Presi/template-lualatex.tex,%WS1%/Presi/template-pdflatex.tex,%WS1%/Paper/TEPandIntegrity.tex .
+[11:50:12.977][Root] Root file changed: from %WS1%/Presi/template-lualatex.tex to %WS1%/Presi/template-lualatex.tex, langID latex . Refresh dependencies
+[11:50:12.977][Event] ROOT_FILE_CHANGED: "%WS1%/Presi/template-lualatex.tex"
+[11:50:12.979][Cacher][Watcher] Reset.
+[11:50:12.979][Cacher][Watcher] Reset.
+[11:50:12.980][Cacher][Watcher] Reset.
+[11:50:12.993][Cacher] Adding %WS1%/Presi/template-lualatex.tex .
+[11:50:12.994][Cacher][Watcher] Watched %WS1%/Presi/template-lualatex.tex with a new watcher on %WS1%/Presi .
+[11:50:12.995][Event] FILE_WATCHED: "%WS1%/Presi/template-lualatex.tex"
+[11:50:13.000][Cacher] Caching %WS1%/Presi/template-lualatex.tex .
+[11:50:13.002][Cacher] Updated inputs of %WS1%/Presi/template-lualatex.tex .
+[11:50:13.003][Cacher] Parse LaTeX AST: %WS1%/Presi/template-lualatex.tex .
+[11:50:13.003][Event] ROOT_FILE_SEARCHED
+[11:50:13.072][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-lualatex.tex .
+[11:50:13.074][File] Calling kpsewhich to resolve beamer.cls .
+[11:50:13.330][Cacher] Updated elements in 257.00 ms: %WS1%/Presi/template-lualatex.tex .
+[11:50:13.332][Event] FILE_PARSED: "%WS1%/Presi/template-lualatex.tex"
+[11:50:13.337][Structure] Structure force updated with 0 root sections for %WS1%/Presi/template-lualatex.tex .
+[11:50:13.338][Event] STRUCTURE_UPDATED
+[11:50:18.235][Viewer][Panel] Internal PDF viewer at http://127.0.0.1:40079/viewer.html?file=pdf..ZmlsZSUzQSUyRiUyRiUyRmhvbWUlMkZ2b2lkJTJGRG9jdW1lbnRzJTJGVEVQLWFuZC1JbnRlZ3JpdHktQ29kZXMlMkZQcmVzaSUyRnRlbXBsYXRlLXBkZmxhdGV4LnBkZg .
+[11:50:18.239][Cacher][Watcher] Watched %WS1%/Presi/template-pdflatex.pdf with a new watcher on %WS1%/Presi .
+[11:50:18.240][Event] FILE_WATCHED: "%WS1%/Presi/template-pdflatex.pdf"
+[11:50:18.613][Viewer] Handle data type: open
+[11:50:18.777][Server] Preview PDF file: file://%WS1%/Presi/template-pdflatex.pdf
+[11:50:19.176][Viewer] Handle data type: loaded
+[11:50:19.177][Event] VIEWER_PAGE_LOADED
+[11:50:22.122][Root] Current workspace folders: ["file://%WS1%"]
+[11:50:22.126][Root] Found root file from active editor: %WS1%/Presi/template-pdflatex.tex
+[11:50:22.134][Root] Root file changed: from %WS1%/Presi/template-pdflatex.tex to %WS1%/Presi/template-pdflatex.tex, langID latex . Refresh dependencies
+[11:50:22.134][Event] ROOT_FILE_CHANGED: "%WS1%/Presi/template-pdflatex.tex"
+[11:50:22.135][Cacher][Watcher] Reset.
+[11:50:22.136][Cacher][Watcher] Reset.
+[11:50:22.136][Cacher][Watcher] Reset.
+[11:50:22.141][Cacher] Adding %WS1%/Presi/template-pdflatex.tex .
+[11:50:22.142][Cacher][Watcher] Watched %WS1%/Presi/template-pdflatex.tex with a new watcher on %WS1%/Presi .
+[11:50:22.142][Event] FILE_WATCHED: "%WS1%/Presi/template-pdflatex.tex"
+[11:50:22.145][Cacher] Caching %WS1%/Presi/template-pdflatex.tex .
+[11:50:22.147][Cacher] Updated inputs of %WS1%/Presi/template-pdflatex.tex .
+[11:50:22.147][Cacher] Parse LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[11:50:22.148][Event] ROOT_FILE_SEARCHED
+[11:50:22.150][Event] STRUCTURE_UPDATED
+[11:50:22.264][Cacher] Parsed LaTeX AST: %WS1%/Presi/template-pdflatex.tex .
+[11:50:22.265][File] Calling kpsewhich to resolve beamer.cls .
+[11:50:22.545][Cacher] Updated elements in 280.27 ms: %WS1%/Presi/template-pdflatex.tex .
+[11:50:22.546][Event] FILE_PARSED: "%WS1%/Presi/template-pdflatex.tex"
+[11:50:22.547][Cacher] Parsing .fls %WS1%/Presi/template-pdflatex.fls .
+[11:50:22.594][Cacher] Found .aux %WS1%/Presi/template-pdflatex.tex from .fls %WS1%/Presi/template-pdflatex.fls , parsing.
+[11:50:22.595][Cacher] Parsed .aux %WS1%/Presi/template-pdflatex.tex .
+[11:50:22.596][Cacher] Parsed .fls %WS1%/Presi/template-pdflatex.fls .
+[11:50:22.597][Structure] Structure force updated with 2 root sections for %WS1%/Presi/template-pdflatex.tex .
+[11:50:22.597][Event] STRUCTURE_UPDATED
+[11:50:23.820][Viewer][Panel] Internal PDF viewer at http://127.0.0.1:40079/viewer.html?file=pdf..ZmlsZSUzQSUyRiUyRiUyRmhvbWUlMkZ2b2lkJTJGRG9jdW1lbnRzJTJGVEVQLWFuZC1JbnRlZ3JpdHktQ29kZXMlMkZQcmVzaSUyRnRlbXBsYXRlLXBkZmxhdGV4LnBkZg .
+[11:50:23.822][Cacher][Watcher] Watched %WS1%/Presi/template-pdflatex.pdf with a new watcher on %WS1%/Presi .
+[11:50:23.823][Event] FILE_WATCHED: "%WS1%/Presi/template-pdflatex.pdf"
+[11:50:24.124][Viewer] Handle data type: open
+[11:50:24.304][Server] Preview PDF file: file://%WS1%/Presi/template-pdflatex.pdf
+[11:50:24.525][Viewer] Handle data type: loaded
+[11:50:24.526][Event] VIEWER_PAGE_LOADED
+[11:50:25.614][Event] STRUCTURE_UPDATED

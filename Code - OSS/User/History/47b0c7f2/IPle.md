@@ -1,0 +1,272 @@
+Ki Stuff
+
+# Intelligent Agents
+
+- Perceives env. through sensors
+- Acts on env. through actuators
+- paar beispiele in slides
+
+`Agent Function`
+- maps any percept sequence to an action
+
+`Percept Sequence`
+- complete history of agents perception
+
+## Rational Agent
+
+- rational => does the right thing, has ideal performance
+- rationality depends on performance measure, prior knowledge of env., performable actions, percept seq. up to now
+
+--> for each percept seq. agent selects action with maximal perf. measure
+
+`omniscient agent`
+ - knows the outcome of its actions - impossible irl
+ - rational agent maximizes expected performance
+
+`Learning`
+ - rat. agents are able to learn from perception
+
+`Autonomy`
+ - more autonomous if less dependent on prior knowledge and uses newly learned stuff instead
+
+## Task Environment
+ - **P**erformance **E**nvironment **A**ctuators **S**ensors
+ - fully vs partially observable -- if state of env completely detectable or not
+ - single vs multi agent -- one or several agents
+ - deterministic vs stochastic -- next state fully determined by current state
+ - episodic vs sequential -- actions taken in one episode don't affect later ones
+ - discrete vs continous -- apply to state and time
+ - static vs dynamic -- static if only actions of agents change env
+ - known vs unknown -- known if the agent knows outcome of actions
+
+## Agent Types
+ `Simple Reflex`
+   - e.g. vacuum-cleaner
+
+  `Model-Based Reflex`
+   - internal state: agent keeps prev. situation
+
+  `Goal Based`
+   - knows current state and considers a goal
+
+   `Utility Based`
+   - reaches the goal state with maximum utility
+
+   `Learning`
+   - Performance Element
+   - learning Element
+   - Critic: tells learning element how well agent is doing with respect to a fixed performance measure
+   - Problem Generator
+
+---
+
+# Uninformed Search
+A search problem can be formaly defined as follows:
+ - State Space: set of states
+ - Initial Space: starting state
+ - Actions
+ - Transition Model Result (s,a): returns result after action *a* in state *s*
+ - Goal Test Is-Goal(s): true if *s* is a goal state
+ - Action Cost c (s,a,s'): cost of applying *a* in *s* to reach *s'*
+
+## Search tree
+ - Root - init. state
+ - Branches - actions 
+ - Nodes - reached states
+ - Leaves - unexpanded nodes
+
+
+## Measuring Problem-Solving Performance
+
+ - Completeness: soluition is foundt if it exists
+ - Optimality
+ - Time Complexity: How long?
+ - Space Complexity: How much memory?
+
+## Uninformed vs. Informed Search
+
+ `Uninformed Search`
+  - Only Info provided is problem statement
+  - Can only produce next states and check it it's a goal state
+
+ `Informed Search`
+  - Know if a state is more promising
+  - Uses measurs to indicate goal distance
+
+## Uninformed Search Strategies
+
+**Breadth-First Search**
+ - Expand all children of parent nodes in one layer before continuing to next
+ - *Completeness:* Yes, if depth d and branching factor b are finite
+ - *Optimality:* Yes, if cost is equal per step; not optimal in general
+ - *Time Complexity:* Worst case if every node has b successors. Number of explored nodes sums up to BigO(b^d)
+ - *Space Complexity:* All explored nodes are BigO(b^{d-1}) and all nodes in the frontier are BigO(b^d)
+
+**Dijkstra (Uniform-Cost Search)**
+ - Priority queue for the frontier, ordered by some parametrized eval function f(n): node with minmal value for f(n) is expanded first
+ - Different functions f result in different algortihms
+ - Uniform-Cost Search is Best-First Search with f(n)=g(n)
+ - *Completeness:* Yes, if costs are greater than 0
+ - *Optimality:* Yes, if cost >= epsiolon for positive epsilon
+ - *Time Complexity:* BigO(b^{1+[C^*/epsilon]})
+ - *Space Complexity:* Equals time complexity since all nodes are stored
+
+**Depth-First Search**
+ - Expand the deepest node in the frontier
+ - goal test on expansion
+ - doesn't terminate for infinite state spaces
+ - *Completeness:* No, but can be achieved by checking for cycles
+ - *Optimality:* No
+ - *Time Complexity:* BigO(b^m) iff goal path is tested last
+ - *Space Complexity:* advantage of depth first, for m nodes on a leaf and b nodes branching BigO(bm)
+
+**Depth-Limited Search**
+ - limit the depth by limit l
+ - LIFO Queue for frontier
+ - *Completeness:* No, if l < d
+ - *Optimality:* No, if l > d
+ - *Time Complexity:* BigO(b^l)
+ - *Space Complexity:* BigO(bl)
+
+**Iterative Deepening Search**
+ - one usualy doesn't know the depth of the goal state -> iteratively increase limit l
+ - *Completeness:* Yes if d of goal state is finite
+ - *Optimality:* Yes if cost = 1 per step, not in general
+ - *Time Complexity:* BigO(b^d)
+ - *Space Complexity:* BigO(bd)
+
+**Bidirectional Search**
+ - run two searches; one from the initial state and one from the goal
+ - requires to "search backwards"
+   - easy: if all actions are reversible and there is only one goal
+   - difficult: goal state is an abstract description, many goal states exist
+
+---
+
+# Informed Search
+
+ - uses heuristic function *h(n)* to find solutions more effectively
+ - *h(n)* gives estimated cost of cheapest path from n.State to goal state
+ - *h(n)* is problem-specific with only constraints: beeing nonnegative and h(n^) = 0, where n^ is goal node
+ - strategies are best-first but f(n) = h(n)
+
+## Informed Search Strategies
+
+**Greedy Best-First Search**
+ - simple best first but f(n) = h(n)
+ - *Completeness:* Yes if graph search is used
+ - *Optimality:* No
+ - *Time Complexity:* BigO(b^m), but improvable by using a good heuristic
+ - *Space Complexity:* All nodes are stored so BigO(b^m)
+
+**A*** **Search**
+ - f(n) = g(n) + h(n): h(n) has to be admissible
+ - heuristic steers search towards goal
+ - A* expands nodes in order of increasing f value
+ - enormous time savings by pruning - eliminating possibilities without having to examine them
+ - *Completeness:* Yes, if costs are greater than 0
+ - *Optimality:* Yes, if complete and heuristic is admissible
+ - *Time Complexity:* If state space has single goal -> BigO(b^{epsilon d})
+ - *Space Complexity:* Equals Time Complexity since all nodes are stored
+ - Extensions: 
+   - Iterative-deepening A*
+   - Recursice best-first search
+   - Memory-bounded A*
+
+
+## Consistent Heuristics
+ - a heuristic is consistent if h(n) <= c(n,a,n') + h(n')
+ - slightly stronger condition than admissibility
+ - every consistent heuristic is admissible
+ - a form of general triangle inequality
+
+**Admissibility vs Consistency**
+ - Admissible heuristic: Any *goal node* is only expanded if it's on an optimal path
+ - Consistent heuristic: Any *node* is only expanded if it's located on an optimal path
+ 
+---
+
+# Constraint Satisfaction Problems
+
+
+## Difference to standard Search Problems
+ - standard: each state is atomic, invisible, has no internal structure
+ - CSP: factored representation(set of var, each has a val), goal test is wther each var has val that satisfies all constraints
+
+## Setup
+ - tuple(X,D,C)
+   - X = {X_1,...,X_n} set of var
+   - D = {D_1,...,D_n} set of respective domain vals
+   - C = {C_1,...,C_n} set of constraints
+ - each D consists of a set of allowed vaues for var X
+ - each C consists of a pair <scope,rel> (scope is a touple of vars that participate in C, rel defines possible values as relation)
+ - constraint graph as visualization (Node is var, edge connects vars participating in constraint)
+
+## Varieties of Constraints
+ - **Unary:** involves sigle var
+ - **Binary:** involves pairs of vars
+ - **Higher-order:** involves 3 or more
+ - **Preferences:** soft constraints -> constraint optimization problem
+
+## Standard Search Formulation
+ States are defined as:
+  - Initial state
+  - Successor function
+  - Goal test
+
+## Backtracking Search
+ - Depth-first search for CSPs with single-variable assignments
+ - basic uninformed algorithm for CSPs
+## Variable Selection
+ - Minimum Remaining Values - choosing var with fewest possible vals first
+ - Degree Heuristic - select var that is involved in the largest number of constraints on other unassigned vars
+ - Choosing vars with the minimum number of remeaining vals helps to prune the search tree
+## Value Selection
+ - Least Constrainig Value - select the value that rules out the fewest coices for neighboring values in the constraint graph
+ - We only need one solution; therefore, it makes sense to look at the most likely values first
+## Inference
+ - Act or process of deriving logical conclusions from known premises
+ - can be applied after each assignment or as pre-processing
+ - Considered inference techniques:
+   - Forward checking (after each assignment): inconsistent values of neighboring vars are removed
+   - Arc consistency algorithm (after each assignment or as pre-processing): inconsistent vals of all vars are removed
+## Arc Consistency
+ - Var X_i is arc-consistent with var X_j, if for every val in the domain D_i exists a value D_j satisfying the binary constraint of the arc(X_i,X_j)
+ - A constraint graph is arc-consistent if every var is arc-consistent with every other var
+ - Visualization: SLIDES
+## Inference
+ - Forward Checking
+ - Arc Consistency Algorithm
+
+## Tree-Structured CSPs
+ - If the constraint graph has no loops, the CSP can be solved in BigO(n d^2) time (n: nr of vars, d: domain size)
+ - Compare to general CSPs, where worst-case time is BigO(d^n)
+ - This property also applies to logical and probabilistic reasoning
+
+## Nearly tree-structured CSPs
+  - Conditioning: instanciate a variable, prune its neighbors domains
+  - The value chosen for SA could be wrong, requiring us to try all vals:
+    1. Choose a subset of vars S sub X such that the constraint graph becomes a tree after removing S
+    2. For each possible constraint-satisfying assignment to variables in S
+       1. remove vals from other domains inconsistent with S
+       2. if the remaining CSP has a sol, return it with the one of S
+  - Size of S isc: runtime BigO(d^c dot (n-c)d^2)
+  - For small c, the approach is very fast. Worst case: c >>> n-2
+  
+
+# Logical Agents
+## Knowledge Base
+ - A knowledge base is a set of sentences in a formal language
+ - possibilities to gain knowledge:
+   - Inference
+   - Declarative approach
+   - perception
+ - Agents can be viewed at the
+   - knowledge level
+   - implementation level 
+
+## Basics of Logic
+- Syntax: Specifies how correct sentences are formed
+- Semantics: defines the meaning of sentences, i.e., when a sentence is true
+- Model: differently defined depending on the discipline. Here, models are instances which evaluate sentences to true or false
+- Satisfaction: if a sentence Alpha is true in a model m, we say that m satisfies Alpha. We use the notation M(Alpha) to describe the set of all models of Alpha

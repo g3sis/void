@@ -1,0 +1,6 @@
+2024-01-29 14:55:29.545 [info] Started local extension host with pid 4533.
+2024-01-29 14:55:30.766 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, saveEditor, terminalDataWriteEvent, terminalExecuteCommandEvent'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-01-29 14:55:30.892 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2024-01-29 14:55:33.945 [info] [perf] Render performance baseline is 70ms
+2024-01-31 11:40:21.246 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2024-01-31 11:43:31.786 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

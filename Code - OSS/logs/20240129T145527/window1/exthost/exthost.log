@@ -1,0 +1,303 @@
+2024-01-29 14:55:30.890 [info] Extension host with pid 4533 started
+2024-01-29 14:55:30.890 [info] Skipping acquiring lock for /home/void/.config/Code - OSS/User/workspaceStorage/b150083f5db6176932f9fb100551e147.
+2024-01-29 14:55:31.526 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-01-29 14:55:31.569 [info] ExtensionService#_doActivateExtension James-Yu.latex-workshop, startup: false, activationEvent: 'onLanguage:latex'
+2024-01-29 14:55:32.355 [warning] DiagnosticCollection with name 'BibTeX' does already exist.
+2024-01-29 14:55:32.400 [info] ExtensionService#_doActivateExtension mathematic.vscode-latex, startup: false, activationEvent: 'onLanguage:latex'
+2024-01-29 14:55:32.408 [info] ExtensionService#_doActivateExtension tecosaur.latex-utilities, startup: false, activationEvent: 'onLanguage:latex'
+2024-01-29 14:55:33.051 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-01-29 14:55:33.058 [info] ExtensionService#_doActivateExtension yzhang.markdown-all-in-one, startup: true, activationEvent: 'workspaceContains:README.md'
+2024-01-29 14:55:33.726 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: yzhang.markdown-all-in-one
+2024-01-29 14:55:33.748 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-01-29 14:55:33.873 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-29 14:55:34.317 [info] Eager extensions activated
+2024-01-29 14:55:34.352 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-29 14:55:34.356 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-29 14:55:34.384 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-01-29 14:55:34.405 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2024-01-29 14:55:34.830 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-01-31 11:40:31.485 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:40:32.490 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:33.576 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:33.576 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:33.576 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:33.576 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:33.576 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:33.576 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:33.576 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:33.576 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:33.576 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:33.576 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:33.576 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:33.576 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:33.576 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:33.576 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:33.576 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:33.576 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:33.576 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:33.576 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:33.576 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:33.576 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:33.576 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:33.576 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:33.577 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:33.577 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:34.579 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:34.580 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:34.581 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:34.582 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:34.583 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:34.584 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:34.585 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:34.586 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:34.588 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:34.589 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:34.590 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:34.591 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:34.592 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:34.593 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:34.594 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:34.595 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:34.596 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:34.597 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:34.598 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:34.599 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:34.599 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:34.600 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:34.601 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:43:34.602 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:990935)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2024-01-31 11:48:39.632 [info] Extension host terminating: renderer closed the MessagePort
+2024-01-31 11:48:39.691 [error] TypeError: r.some is not a function
+	at d.saveToDisk (/home/void/.vscode-oss/extensions/vscodevim.vim-1.27.2/out/extension.js:2:675367)
+	at t.deactivate (/home/void/.vscode-oss/extensions/vscodevim.vim-1.27.2/out/extension.js:2:213749)
+	at f.cb (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:9678)
+	at /usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:7808
+	at Array.map (<anonymous>)
+	at f.Y (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:7795)
+	at f.terminate (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:8068)
+	at s.terminate (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:1513)
+	at a (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:9802)
+	at MessagePortMain.<anonymous> (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:6227)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2024-01-31 11:48:39.692 [error] Canceled: Canceled
+	at new g (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:110274)
+	at l.U (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:10866)
+	at P.<computed>.j.charCodeAt.P.<computed> (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:8317)
+	at d.g (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:139555)
+	at d.executeCommand (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:138993)
+	at p.registerCommand.description (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:138317)
+	at d.h (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:140094)
+	at d.g (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:139086)
+	at d.executeCommand (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:138993)
+	at Object.executeCommand (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:21333)
+	at f.I [as value] (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:924696)
+	at n.y (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.z (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at n.fire (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:940613)
+	at /usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:945566
+	at Array.forEach (<anonymous>)
+	at p.dispose (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:945552)
+	at u.<anonymous> (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:3620)
+	at u.dispose (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:3717)
+	at u.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:926708)
+	at u.dispose (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:3717)
+	at s (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at f.cb (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:9873)
+	at /usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:7808
+	at Array.map (<anonymous>)
+	at f.Y (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:7795)
+	at f.terminate (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:8068)
+	at s.terminate (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:1513)
+	at a (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:9802)
+	at MessagePortMain.<anonymous> (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:6227)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2024-01-31 11:48:39.694 [error] Canceled: Canceled
+	at new g (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:110274)
+	at l.U (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:10866)
+	at P.<computed>.j.charCodeAt.P.<computed> (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:8317)
+	at d.g (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:139555)
+	at d.executeCommand (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:138993)
+	at p.registerCommand.description (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:138317)
+	at d.h (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:140094)
+	at d.g (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:139086)
+	at d.executeCommand (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:138993)
+	at Object.executeCommand (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:21333)
+	at set b [as b] (/usr/lib/code-oss/resources/app/extensions/github/dist/extension.js:2:322364)
+	at /usr/lib/code-oss/resources/app/extensions/github/dist/extension.js:2:323005
+	at f.value (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:1016450)
+	at n.y (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.z (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at n.fire (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:940613)
+	at /usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:945566
+	at Array.forEach (<anonymous>)
+	at p.dispose (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:945552)
+	at u.<anonymous> (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:3620)
+	at u.dispose (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:3717)
+	at u.<anonymous> (/usr/lib/code-oss/resources/app/extensions/git/dist/main.js:2:926708)
+	at u.dispose (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:137:3717)
+	at s (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at f.cb (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:9873)
+	at /usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:7808
+	at Array.map (<anonymous>)
+	at f.Y (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:7795)
+	at f.terminate (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:8068)
+	at s.terminate (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:1513)
+	at a (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:9802)
+	at MessagePortMain.<anonymous> (/usr/lib/code-oss/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:6227)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2024-01-31 11:48:39.694 [info] Extension host with pid 4533 exiting with code 0

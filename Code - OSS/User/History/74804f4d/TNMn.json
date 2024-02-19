@@ -1,0 +1,10 @@
+{
+    "window.menuBarVisibility": "toggle",
+    "workbench.colorTheme": "IBM Carbon Color Theme",
+    "window.zoomLevel": 1,
+    "[latex]": {
+        "editor.defaultFormatter": "James-Yu.latex-workshop"
+    },
+    "editor.fontLigatures": false,
+    "editor.wordWrap": "on"
+}

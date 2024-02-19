@@ -1,0 +1,20 @@
+[22:53:33] Initializing LaTeX Utilities.
+[22:53:33] Live Snippets Loaded
+[22:53:33] Completion Watcher Initialised
+[22:53:33] TexCount args: -merge,-brief
+[22:53:33] LaTeX Utilities Started
+[22:53:33] LaTeX Utilities version: 0.4.11
+[22:53:33] TeXCount output for word: 2995+30+29 (15/7/62/0) File: TEPandIntegrity.tex
+
+[22:53:33] TexCount args: -merge,-brief,-char
+[22:53:34] TeXCount output for char: 15369+214+164 (15/7/62/0) File: TEPandIntegrity.tex
+
+[22:53:35] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[22:53:35] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[22:53:35] TexCount args: -merge,-brief
+[22:53:35] TeXCount output for word: 2995+30+29 (15/7/62/0) File: TEPandIntegrity.tex
+
+[22:53:35] TexCount args: -merge,-brief,-char
+[22:53:35] TeXCount output for char: 15369+214+164 (15/7/62/0) File: TEPandIntegrity.tex
+
+[22:53:37] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter

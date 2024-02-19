@@ -1,0 +1,1744 @@
+[14:55:33] Initializing LaTeX Utilities.
+[14:55:33] Live Snippets Loaded
+[14:55:33] Completion Watcher Initialised
+[14:55:33] TexCount args: -merge,-brief
+[14:55:33] LaTeX Utilities Started
+[14:55:33] TeXCount output for word: 1939+28+0 (16/0/54/0) File: TEPandIntegrity.tex
+
+[14:55:33] TexCount args: -merge,-brief,-char
+[14:55:33] LaTeX Utilities version: 0.4.11
+[14:55:33] TeXCount output for char: 9895+204+0 (16/0/54/0) File: TEPandIntegrity.tex
+
+[14:57:24] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[14:57:24] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[14:57:24] TexCount args: -merge,-brief
+[14:57:25] TeXCount output for word: 21+1+0 (1/0/0/0) File: template-pdflatex.tex
+
+[14:57:25] TexCount args: -merge,-brief,-char
+[14:57:25] TeXCount output for char: 82+5+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:02:31] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:02:31] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:02:31] TexCount args: -merge,-brief
+[15:02:31] TeXCount output for word: 1939+28+0 (16/0/54/0) File: TEPandIntegrity.tex
+
+[15:02:31] TexCount args: -merge,-brief,-char
+[15:02:31] TeXCount output for char: 9895+204+0 (16/0/54/0) File: TEPandIntegrity.tex
+
+[15:02:32] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:02:32] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:02:32] TexCount args: -merge,-brief
+[15:02:32] TeXCount output for word: 21+1+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:02:32] TexCount args: -merge,-brief,-char
+[15:02:33] TeXCount output for char: 82+5+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:02:34] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:02:45] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:02:45] TexCount args: -merge,-brief
+[15:02:45] TeXCount output for word: 21+1+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:02:45] TexCount args: -merge,-brief,-char
+[15:02:45] TeXCount output for char: 82+5+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:02:53] withTelemetry: onDidChangeTextDocument
+[15:02:53] withTelemetry: onDidChangeTextDocument
+[15:02:53] withTelemetry: onDidChangeTextDocument
+[15:02:53] withTelemetry: onDidChangeTextDocument
+[15:02:54] withTelemetry: onDidChangeTextDocument
+[15:02:54] withTelemetry: onDidChangeTextDocument
+[15:02:55] withTelemetry: onDidChangeTextDocument
+[15:02:55] withTelemetry: onDidChangeTextDocument
+[15:02:56] withTelemetry: onDidChangeTextDocument
+[15:02:56] withTelemetry: onDidChangeTextDocument
+[15:02:57] withTelemetry: onDidChangeTextDocument
+[15:03:05] withTelemetry: onDidChangeTextDocument
+[15:03:05] withTelemetry: onDidChangeTextDocument
+[15:03:05] withTelemetry: onDidChangeTextDocument
+[15:03:05] withTelemetry: onDidChangeTextDocument
+[15:03:06] withTelemetry: onDidChangeTextDocument
+[15:03:06] withTelemetry: onDidChangeTextDocument
+[15:03:06] withTelemetry: onDidChangeTextDocument
+[15:03:06] withTelemetry: onDidChangeTextDocument
+[15:03:07] withTelemetry: onDidChangeTextDocument
+[15:03:07] withTelemetry: onDidChangeTextDocument
+[15:03:07] withTelemetry: onDidChangeTextDocument
+[15:03:07] withTelemetry: onDidChangeTextDocument
+[15:03:08] withTelemetry: onDidChangeTextDocument
+[15:03:19] withTelemetry: onDidChangeTextDocument
+[15:03:20] withTelemetry: onDidChangeTextDocument
+[15:03:20] withTelemetry: onDidChangeTextDocument
+[15:03:20] withTelemetry: onDidChangeTextDocument
+[15:03:20] withTelemetry: onDidChangeTextDocument
+[15:03:25] withTelemetry: onDidChangeTextDocument
+[15:03:25] withTelemetry: onDidChangeTextDocument
+[15:03:25] withTelemetry: onDidChangeTextDocument
+[15:03:26] withTelemetry: onDidChangeTextDocument
+[15:03:26] withTelemetry: onDidChangeTextDocument
+[15:03:27] withTelemetry: onDidChangeTextDocument
+[15:03:27] withTelemetry: onDidChangeTextDocument
+[15:03:27] withTelemetry: onDidChangeTextDocument
+[15:03:27] withTelemetry: onDidChangeTextDocument
+[15:03:27] withTelemetry: onDidChangeTextDocument
+[15:03:27] withTelemetry: onDidChangeTextDocument
+[15:03:29] withTelemetry: onDidChangeTextDocument
+[15:03:29] withTelemetry: onDidChangeTextDocument
+[15:03:29] withTelemetry: onDidChangeTextDocument
+[15:03:29] withTelemetry: onDidChangeTextDocument
+[15:03:29] withTelemetry: onDidChangeTextDocument
+[15:03:30] withTelemetry: onDidChangeTextDocument
+[15:03:30] withTelemetry: onDidChangeTextDocument
+[15:03:30] withTelemetry: onDidChangeTextDocument
+[15:03:30] withTelemetry: onDidChangeTextDocument
+[15:03:30] withTelemetry: onDidChangeTextDocument
+[15:03:30] withTelemetry: onDidChangeTextDocument
+[15:03:31] withTelemetry: onDidChangeTextDocument
+[15:03:31] withTelemetry: onDidChangeTextDocument
+[15:03:31] withTelemetry: onDidChangeTextDocument
+[15:03:35] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:03:35] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:03:35] TexCount args: -merge,-brief
+[15:03:36] TeXCount output for word: 1939+28+0 (16/0/54/0) File: TEPandIntegrity.tex
+
+[15:03:36] TexCount args: -merge,-brief,-char
+[15:03:36] TeXCount output for char: 9895+204+0 (16/0/54/0) File: TEPandIntegrity.tex
+
+[15:03:48] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:03:48] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:03:48] TexCount args: -merge,-brief
+[15:03:49] TeXCount output for word: 21+1+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:03:49] TexCount args: -merge,-brief,-char
+[15:03:49] TeXCount output for char: 82+5+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:03:50] withTelemetry: onDidChangeTextDocument
+[15:03:51] withTelemetry: onDidChangeTextDocument
+[15:03:52] withTelemetry: onDidChangeTextDocument
+[15:03:52] withTelemetry: onDidChangeTextDocument
+[15:03:52] withTelemetry: onDidChangeTextDocument
+[15:03:52] withTelemetry: onDidChangeTextDocument
+[15:03:52] withTelemetry: onDidChangeTextDocument
+[15:03:52] withTelemetry: onDidChangeTextDocument
+[15:03:52] withTelemetry: onDidChangeTextDocument
+[15:03:52] withTelemetry: onDidChangeTextDocument
+[15:03:52] withTelemetry: onDidChangeTextDocument
+[15:03:52] withTelemetry: onDidChangeTextDocument
+[15:03:52] withTelemetry: onDidChangeTextDocument
+[15:03:53] withTelemetry: onDidChangeTextDocument
+[15:03:53] withTelemetry: onDidChangeTextDocument
+[15:03:53] withTelemetry: onDidChangeTextDocument
+[15:03:54] withTelemetry: onDidChangeTextDocument
+[15:04:00] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:04:00] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:04:00] TexCount args: -merge,-brief
+[15:04:00] TeXCount output for word: 1939+28+0 (16/0/54/0) File: TEPandIntegrity.tex
+
+[15:04:00] TexCount args: -merge,-brief,-char
+[15:04:00] TeXCount output for char: 9895+204+0 (16/0/54/0) File: TEPandIntegrity.tex
+
+[15:04:11] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:04:11] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:04:11] TexCount args: -merge,-brief
+[15:04:12] TeXCount output for word: 21+1+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:04:12] TexCount args: -merge,-brief,-char
+[15:04:12] TeXCount output for char: 82+5+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:04:15] withTelemetry: onDidChangeTextDocument
+[15:04:16] withTelemetry: onDidChangeTextDocument
+[15:04:16] withTelemetry: onDidChangeTextDocument
+[15:04:16] withTelemetry: onDidChangeTextDocument
+[15:04:16] withTelemetry: onDidChangeTextDocument
+[15:04:16] withTelemetry: onDidChangeTextDocument
+[15:04:16] withTelemetry: onDidChangeTextDocument
+[15:04:17] withTelemetry: onDidChangeTextDocument
+[15:04:17] withTelemetry: onDidChangeTextDocument
+[15:04:18] withTelemetry: onDidChangeTextDocument
+[15:04:20] withTelemetry: onDidChangeTextDocument
+[15:04:20] withTelemetry: onDidChangeTextDocument
+[15:04:20] withTelemetry: onDidSaveTextDocument_tex_wordcounter
+[15:04:20] TexCount args: -merge,-brief
+[15:04:20] withTelemetry: onDidChangeTextDocument
+[15:04:20] withTelemetry: onDidChangeTextDocument
+[15:04:20] withTelemetry: onDidSaveTextDocument_tex_wordcounter
+[15:04:20] TexCount args: -merge,-brief
+[15:04:20] TeXCount output for word: 21+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:04:20] TexCount args: -merge,-brief,-char
+[15:04:20] TeXCount output for word: 21+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:04:20] TexCount args: -merge,-brief,-char
+[15:04:21] TeXCount output for char: 82+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:04:21] TeXCount output for char: 82+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:04:25] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:04:34] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:04:34] TexCount args: -merge,-brief
+[15:04:34] TeXCount output for word: 21+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:04:34] TexCount args: -merge,-brief,-char
+[15:04:34] TeXCount output for char: 82+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:04:37] withTelemetry: onDidChangeTextDocument
+[15:04:37] withTelemetry: onDidChangeTextDocument
+[15:04:39] withTelemetry: onDidChangeTextDocument
+[15:04:41] withTelemetry: onDidChangeTextDocument
+[15:04:41] withTelemetry: onDidChangeTextDocument
+[15:04:41] withTelemetry: onDidSaveTextDocument_tex_wordcounter
+[15:04:41] TexCount args: -merge,-brief
+[15:04:41] TeXCount output for word: 21+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:04:41] TexCount args: -merge,-brief,-char
+[15:04:41] TeXCount output for char: 82+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:04:44] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:04:46] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:04:46] TexCount args: -merge,-brief
+[15:04:46] TeXCount output for word: 21+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:04:46] TexCount args: -merge,-brief,-char
+[15:04:46] TeXCount output for char: 82+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:05:17] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:05:20] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:05:20] TexCount args: -merge,-brief
+[15:05:21] TeXCount output for word: 21+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:05:21] TexCount args: -merge,-brief,-char
+[15:05:21] TeXCount output for char: 82+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:05:24] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:05:25] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:05:25] TexCount args: -merge,-brief
+[15:05:26] TeXCount output for word: 21+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:05:26] TexCount args: -merge,-brief,-char
+[15:05:26] TeXCount output for char: 82+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:05:28] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:05:28] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:05:28] TexCount args: -merge,-brief
+[15:05:28] TeXCount output for word: 1941+28+0 (16/0/54/0) File: TEPandIntegrity.tex
+
+[15:05:28] TexCount args: -merge,-brief,-char
+[15:05:29] TeXCount output for char: 9901+204+0 (16/0/54/0) File: TEPandIntegrity.tex
+
+[15:05:30] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:05:30] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:05:30] TexCount args: -merge,-brief
+[15:05:31] TeXCount output for word: 21+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:05:31] TexCount args: -merge,-brief,-char
+[15:05:31] TeXCount output for char: 82+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:05:33] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:11:27] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:11:27] TexCount args: -merge,-brief
+[15:11:27] TeXCount output for word: 21+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:11:27] TexCount args: -merge,-brief,-char
+[15:11:27] TeXCount output for char: 82+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:13:43] withTelemetry: onDidChangeTextDocument
+[15:13:43] withTelemetry: onDidChangeTextDocument
+[15:13:43] withTelemetry: onDidChangeTextDocument
+[15:13:44] withTelemetry: onDidChangeTextDocument
+[15:13:44] withTelemetry: onDidChangeTextDocument
+[15:13:44] withTelemetry: onDidChangeTextDocument
+[15:13:44] withTelemetry: onDidChangeTextDocument
+[15:13:44] withTelemetry: onDidChangeTextDocument
+[15:13:44] withTelemetry: onDidChangeTextDocument
+[15:13:45] withTelemetry: onDidChangeTextDocument
+[15:13:45] withTelemetry: onDidChangeTextDocument
+[15:13:45] withTelemetry: onDidChangeTextDocument
+[15:13:45] withTelemetry: onDidChangeTextDocument
+[15:13:46] withTelemetry: onDidChangeTextDocument
+[15:13:46] withTelemetry: onDidChangeTextDocument
+[15:13:46] withTelemetry: onDidChangeTextDocument
+[15:13:46] withTelemetry: onDidChangeTextDocument
+[15:13:46] withTelemetry: onDidChangeTextDocument
+[15:13:50] withTelemetry: onDidChangeTextDocument
+[15:13:54] withTelemetry: onDidChangeTextDocument
+[15:13:55] withTelemetry: onDidChangeTextDocument
+[15:13:55] withTelemetry: onDidChangeTextDocument
+[15:13:55] withTelemetry: onDidChangeTextDocument
+[15:13:55] withTelemetry: onDidChangeTextDocument
+[15:13:55] withTelemetry: onDidChangeTextDocument
+[15:13:56] withTelemetry: onDidChangeTextDocument
+[15:13:56] withTelemetry: onDidChangeTextDocument
+[15:13:56] withTelemetry: onDidChangeTextDocument
+[15:13:56] withTelemetry: onDidChangeTextDocument
+[15:13:57] withTelemetry: onDidChangeTextDocument
+[15:13:58] withTelemetry: onDidChangeTextDocument
+[15:13:58] withTelemetry: onDidChangeTextDocument
+[15:13:58] withTelemetry: onDidChangeTextDocument
+[15:13:59] withTelemetry: onDidChangeTextDocument
+[15:13:59] withTelemetry: onDidChangeTextDocument
+[15:13:59] withTelemetry: onDidChangeTextDocument
+[15:14:47] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:15:20] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:15:20] TexCount args: -merge,-brief
+[15:15:20] TeXCount output for word: 21+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:15:20] TexCount args: -merge,-brief,-char
+[15:15:20] TeXCount output for char: 82+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:15:26] withTelemetry: onDidChangeTextDocument
+[15:15:26] withTelemetry: onDidChangeTextDocument
+[15:15:26] withTelemetry: onDidChangeTextDocument
+[15:15:26] withTelemetry: onDidChangeTextDocument
+[15:15:27] withTelemetry: onDidChangeTextDocument
+[15:15:27] withTelemetry: onDidChangeTextDocument
+[15:15:28] withTelemetry: onDidChangeTextDocument
+[15:15:30] withTelemetry: onDidChangeTextDocument
+[15:15:30] withTelemetry: onDidChangeTextDocument
+[15:15:30] withTelemetry: onDidChangeTextDocument
+[15:15:30] withTelemetry: onDidChangeTextDocument
+[15:15:30] withTelemetry: onDidChangeTextDocument
+[15:15:30] withTelemetry: onDidChangeTextDocument
+[15:15:31] withTelemetry: onDidChangeTextDocument
+[15:15:32] withTelemetry: onDidChangeTextDocument
+[15:15:32] withTelemetry: onDidChangeTextDocument
+[15:15:32] withTelemetry: onDidChangeTextDocument
+[15:15:32] withTelemetry: onDidChangeTextDocument
+[15:15:32] withTelemetry: onDidChangeTextDocument
+[15:15:33] withTelemetry: onDidChangeTextDocument
+[15:15:33] withTelemetry: onDidChangeTextDocument
+[15:15:33] withTelemetry: onDidChangeTextDocument
+[15:15:34] withTelemetry: onDidChangeTextDocument
+[15:15:34] withTelemetry: onDidChangeTextDocument
+[15:15:34] withTelemetry: onDidChangeTextDocument
+[15:15:34] withTelemetry: onDidChangeTextDocument
+[15:15:34] withTelemetry: onDidChangeTextDocument
+[15:15:35] withTelemetry: onDidChangeTextDocument
+[15:15:35] withTelemetry: onDidChangeTextDocument
+[15:15:35] withTelemetry: onDidChangeTextDocument
+[15:15:35] withTelemetry: onDidChangeTextDocument
+[15:15:35] withTelemetry: onDidChangeTextDocument
+[15:15:36] withTelemetry: onDidChangeTextDocument
+[15:15:36] withTelemetry: onDidChangeTextDocument
+[15:15:36] withTelemetry: onDidChangeTextDocument
+[15:15:37] withTelemetry: onDidChangeTextDocument
+[15:15:37] withTelemetry: onDidChangeTextDocument
+[15:15:38] withTelemetry: onDidChangeTextDocument
+[15:15:38] withTelemetry: onDidChangeTextDocument
+[15:15:38] withTelemetry: onDidChangeTextDocument
+[15:15:38] withTelemetry: onDidChangeTextDocument
+[15:15:47] withTelemetry: onDidChangeTextDocument
+[15:15:59] withTelemetry: onDidChangeTextDocument
+[15:16:00] withTelemetry: onDidChangeTextDocument
+[15:16:00] withTelemetry: onDidChangeTextDocument
+[15:16:00] withTelemetry: onDidSaveTextDocument_tex_wordcounter
+[15:16:00] TexCount args: -merge,-brief
+[15:16:01] TeXCount output for word: 4+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:16:01] TexCount args: -merge,-brief,-char
+[15:16:01] TeXCount output for char: 37+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:16:03] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:16:07] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:16:07] TexCount args: -merge,-brief
+[15:16:07] TeXCount output for word: 4+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:16:07] TexCount args: -merge,-brief,-char
+[15:16:07] TeXCount output for char: 37+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:16:09] withTelemetry: onDidChangeTextDocument
+[15:16:09] withTelemetry: onDidChangeTextDocument
+[15:16:10] withTelemetry: onDidChangeTextDocument
+[15:16:11] withTelemetry: onDidChangeTextDocument
+[15:16:11] withTelemetry: onDidChangeTextDocument
+[15:16:11] withTelemetry: onDidChangeTextDocument
+[15:16:11] withTelemetry: onDidChangeTextDocument
+[15:16:12] withTelemetry: onDidChangeTextDocument
+[15:16:12] withTelemetry: onDidChangeTextDocument
+[15:16:13] withTelemetry: onDidChangeTextDocument
+[15:16:14] withTelemetry: onDidChangeTextDocument
+[15:16:14] withTelemetry: onDidChangeTextDocument
+[15:16:14] withTelemetry: onDidChangeTextDocument
+[15:16:14] withTelemetry: onDidChangeTextDocument
+[15:16:16] withTelemetry: onDidChangeTextDocument
+[15:16:19] withTelemetry: onDidChangeTextDocument
+[15:16:20] withTelemetry: onDidChangeTextDocument
+[15:16:20] withTelemetry: onDidChangeTextDocument
+[15:16:20] withTelemetry: onDidChangeTextDocument
+[15:16:21] withTelemetry: onDidChangeTextDocument
+[15:16:21] withTelemetry: onDidChangeTextDocument
+[15:16:21] withTelemetry: onDidChangeTextDocument
+[15:16:21] withTelemetry: onDidChangeTextDocument
+[15:16:22] withTelemetry: onDidChangeTextDocument
+[15:16:22] withTelemetry: onDidChangeTextDocument
+[15:16:22] withTelemetry: onDidChangeTextDocument
+[15:16:22] withTelemetry: onDidChangeTextDocument
+[15:16:22] withTelemetry: onDidChangeTextDocument
+[15:16:23] withTelemetry: onDidChangeTextDocument
+[15:16:23] withTelemetry: onDidChangeTextDocument
+[15:16:23] withTelemetry: onDidChangeTextDocument
+[15:16:23] withTelemetry: onDidChangeTextDocument
+[15:16:24] withTelemetry: onDidChangeTextDocument
+[15:16:24] withTelemetry: onDidChangeTextDocument
+[15:16:24] withTelemetry: onDidChangeTextDocument
+[15:16:25] withTelemetry: onDidChangeTextDocument
+[15:16:29] withTelemetry: onDidChangeTextDocument
+[15:16:29] withTelemetry: onDidChangeTextDocument
+[15:16:30] withTelemetry: onDidChangeTextDocument
+[15:16:30] withTelemetry: onDidChangeTextDocument
+[15:16:30] withTelemetry: onDidChangeTextDocument
+[15:16:30] withTelemetry: onDidChangeTextDocument
+[15:16:30] withTelemetry: onDidChangeTextDocument
+[15:16:30] withTelemetry: onDidChangeTextDocument
+[15:16:31] withTelemetry: onDidChangeTextDocument
+[15:16:31] withTelemetry: onDidChangeTextDocument
+[15:16:31] withTelemetry: onDidChangeTextDocument
+[15:16:31] withTelemetry: onDidChangeTextDocument
+[15:16:31] withTelemetry: onDidChangeTextDocument
+[15:16:31] withTelemetry: onDidChangeTextDocument
+[15:16:31] withTelemetry: onDidChangeTextDocument
+[15:16:31] withTelemetry: onDidChangeTextDocument
+[15:16:31] withTelemetry: onDidChangeTextDocument
+[15:16:31] withTelemetry: onDidChangeTextDocument
+[15:16:31] withTelemetry: onDidChangeTextDocument
+[15:16:31] withTelemetry: onDidChangeTextDocument
+[15:16:31] withTelemetry: onDidChangeTextDocument
+[15:16:31] withTelemetry: onDidChangeTextDocument
+[15:16:31] withTelemetry: onDidChangeTextDocument
+[15:16:31] withTelemetry: onDidChangeTextDocument
+[15:16:31] withTelemetry: onDidChangeTextDocument
+[15:16:31] withTelemetry: onDidChangeTextDocument
+[15:16:31] withTelemetry: onDidChangeTextDocument
+[15:16:31] withTelemetry: onDidChangeTextDocument
+[15:16:31] withTelemetry: onDidChangeTextDocument
+[15:16:31] withTelemetry: onDidChangeTextDocument
+[15:16:31] withTelemetry: onDidChangeTextDocument
+[15:16:31] withTelemetry: onDidChangeTextDocument
+[15:16:31] withTelemetry: onDidChangeTextDocument
+[15:16:32] withTelemetry: onDidChangeTextDocument
+[15:16:32] withTelemetry: onDidChangeTextDocument
+[15:16:32] withTelemetry: onDidChangeTextDocument
+[15:16:32] withTelemetry: onDidChangeTextDocument
+[15:16:32] withTelemetry: onDidChangeTextDocument
+[15:16:33] withTelemetry: onDidChangeTextDocument
+[15:16:35] withTelemetry: onDidChangeTextDocument
+[15:16:36] withTelemetry: onDidChangeTextDocument
+[15:16:36] withTelemetry: onDidChangeTextDocument
+[15:16:36] withTelemetry: onDidChangeTextDocument
+[15:16:37] withTelemetry: onDidChangeTextDocument
+[15:16:38] withTelemetry: onDidChangeTextDocument
+[15:16:39] withTelemetry: onDidChangeTextDocument
+[15:16:41] withTelemetry: onDidChangeTextDocument
+[15:16:41] withTelemetry: onDidChangeTextDocument
+[15:16:41] withTelemetry: onDidChangeTextDocument
+[15:16:41] withTelemetry: onDidChangeTextDocument
+[15:16:41] withTelemetry: onDidChangeTextDocument
+[15:16:42] withTelemetry: onDidChangeTextDocument
+[15:16:42] withTelemetry: onDidChangeTextDocument
+[15:16:42] withTelemetry: onDidChangeTextDocument
+[15:16:43] withTelemetry: onDidChangeTextDocument
+[15:16:52] withTelemetry: onDidChangeTextDocument
+[15:16:52] withTelemetry: onDidChangeTextDocument
+[15:16:53] withTelemetry: onDidChangeTextDocument
+[15:16:53] withTelemetry: onDidChangeTextDocument
+[15:16:53] withTelemetry: onDidChangeTextDocument
+[15:16:53] withTelemetry: onDidChangeTextDocument
+[15:16:53] withTelemetry: onDidChangeTextDocument
+[15:16:53] withTelemetry: onDidChangeTextDocument
+[15:16:53] withTelemetry: onDidChangeTextDocument
+[15:16:54] withTelemetry: onDidChangeTextDocument
+[15:16:55] withTelemetry: onDidChangeTextDocument
+[15:16:59] withTelemetry: onDidChangeTextDocument
+[15:17:00] withTelemetry: onDidChangeTextDocument
+[15:17:01] withTelemetry: onDidChangeTextDocument
+[15:17:01] withTelemetry: onDidChangeTextDocument
+[15:17:01] withTelemetry: onDidChangeTextDocument
+[15:17:01] withTelemetry: onDidChangeTextDocument
+[15:17:01] withTelemetry: onDidChangeTextDocument
+[15:17:02] withTelemetry: onDidChangeTextDocument
+[15:17:03] withTelemetry: onDidChangeTextDocument
+[15:17:03] withTelemetry: onDidChangeTextDocument
+[15:17:03] withTelemetry: onDidChangeTextDocument
+[15:17:03] withTelemetry: onDidChangeTextDocument
+[15:17:03] withTelemetry: onDidChangeTextDocument
+[15:17:04] withTelemetry: onDidChangeTextDocument
+[15:17:09] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:17:10] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:17:10] TexCount args: -merge,-brief
+[15:17:10] TeXCount output for word: 4+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:17:10] TexCount args: -merge,-brief,-char
+[15:17:10] TeXCount output for char: 37+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:17:11] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:17:16] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:17:16] TexCount args: -merge,-brief
+[15:17:16] TeXCount output for word: 4+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:17:16] TexCount args: -merge,-brief,-char
+[15:17:16] TeXCount output for char: 37+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:17:21] withTelemetry: onDidChangeTextDocument
+[15:17:25] withTelemetry: onDidChangeTextDocument
+[15:17:25] withTelemetry: onDidChangeTextDocument
+[15:17:25] withTelemetry: onDidChangeTextDocument
+[15:17:25] withTelemetry: onDidChangeTextDocument
+[15:17:26] withTelemetry: onDidChangeTextDocument
+[15:17:26] withTelemetry: onDidChangeTextDocument
+[15:17:26] withTelemetry: onDidChangeTextDocument
+[15:17:26] withTelemetry: onDidChangeTextDocument
+[15:17:26] withTelemetry: onDidChangeTextDocument
+[15:17:27] withTelemetry: onDidChangeTextDocument
+[15:17:27] withTelemetry: onDidChangeTextDocument
+[15:17:28] withTelemetry: onDidChangeTextDocument
+[15:17:28] withTelemetry: onDidChangeTextDocument
+[15:17:28] withTelemetry: onDidChangeTextDocument
+[15:17:28] withTelemetry: onDidChangeTextDocument
+[15:17:29] withTelemetry: onDidChangeTextDocument
+[15:17:30] withTelemetry: onDidChangeTextDocument
+[15:17:32] withTelemetry: onDidChangeTextDocument
+[15:17:32] withTelemetry: onDidChangeTextDocument
+[15:17:33] withTelemetry: onDidChangeTextDocument
+[15:17:33] withTelemetry: onDidChangeTextDocument
+[15:17:33] withTelemetry: onDidChangeTextDocument
+[15:17:33] withTelemetry: onDidChangeTextDocument
+[15:17:34] withTelemetry: onDidChangeTextDocument
+[15:17:34] withTelemetry: onDidChangeTextDocument
+[15:17:34] withTelemetry: onDidChangeTextDocument
+[15:17:34] withTelemetry: onDidChangeTextDocument
+[15:17:35] withTelemetry: onDidChangeTextDocument
+[15:17:35] withTelemetry: onDidChangeTextDocument
+[15:17:35] withTelemetry: onDidChangeTextDocument
+[15:17:35] withTelemetry: onDidChangeTextDocument
+[15:17:35] withTelemetry: onDidChangeTextDocument
+[15:17:36] withTelemetry: onDidChangeTextDocument
+[15:17:36] withTelemetry: onDidChangeTextDocument
+[15:17:40] withTelemetry: onDidChangeTextDocument
+[15:17:40] withTelemetry: onDidChangeTextDocument
+[15:17:40] withTelemetry: onDidChangeTextDocument
+[15:17:40] withTelemetry: onDidChangeTextDocument
+[15:17:40] withTelemetry: onDidChangeTextDocument
+[15:17:40] withTelemetry: onDidChangeTextDocument
+[15:17:41] withTelemetry: onDidChangeTextDocument
+[15:17:41] withTelemetry: onDidChangeTextDocument
+[15:17:41] withTelemetry: onDidChangeTextDocument
+[15:17:51] withTelemetry: onDidChangeTextDocument
+[15:17:55] withTelemetry: onDidChangeTextDocument
+[15:17:55] withTelemetry: onDidChangeTextDocument
+[15:17:55] withTelemetry: onDidChangeTextDocument
+[15:17:56] withTelemetry: onDidChangeTextDocument
+[15:17:56] withTelemetry: onDidChangeTextDocument
+[15:17:56] withTelemetry: onDidChangeTextDocument
+[15:17:56] withTelemetry: onDidChangeTextDocument
+[15:17:56] withTelemetry: onDidChangeTextDocument
+[15:17:56] withTelemetry: onDidChangeTextDocument
+[15:17:57] withTelemetry: onDidChangeTextDocument
+[15:17:57] withTelemetry: onDidChangeTextDocument
+[15:17:57] withTelemetry: onDidChangeTextDocument
+[15:17:58] withTelemetry: onDidChangeTextDocument
+[15:17:58] withTelemetry: onDidChangeTextDocument
+[15:17:58] withTelemetry: onDidChangeTextDocument
+[15:17:58] withTelemetry: onDidChangeTextDocument
+[15:18:02] withTelemetry: onDidChangeTextDocument
+[15:18:02] withTelemetry: onDidChangeTextDocument
+[15:18:02] withTelemetry: onDidChangeTextDocument
+[15:18:03] withTelemetry: onDidChangeTextDocument
+[15:18:03] withTelemetry: onDidChangeTextDocument
+[15:18:03] withTelemetry: onDidChangeTextDocument
+[15:18:03] withTelemetry: onDidChangeTextDocument
+[15:18:03] withTelemetry: onDidChangeTextDocument
+[15:18:03] withTelemetry: onDidChangeTextDocument
+[15:18:12] withTelemetry: onDidChangeTextDocument
+[15:18:14] withTelemetry: onDidChangeTextDocument
+[15:18:14] withTelemetry: onDidChangeTextDocument
+[15:18:14] withTelemetry: onDidSaveTextDocument_tex_wordcounter
+[15:18:14] TexCount args: -merge,-brief
+[15:18:15] TeXCount output for word: 15+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:18:15] TexCount args: -merge,-brief,-char
+[15:18:15] TeXCount output for char: 114+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:18:15] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:18:16] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:18:16] TexCount args: -merge,-brief
+[15:18:16] TeXCount output for word: 15+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:18:16] TexCount args: -merge,-brief,-char
+[15:18:16] TeXCount output for char: 114+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:18:17] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:18:33] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:18:33] TexCount args: -merge,-brief
+[15:18:33] TeXCount output for word: 15+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:18:33] TexCount args: -merge,-brief,-char
+[15:18:33] TeXCount output for char: 114+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:18:42] withTelemetry: onDidChangeTextDocument
+[15:18:42] withTelemetry: onDidChangeTextDocument
+[15:18:43] withTelemetry: onDidChangeTextDocument
+[15:18:45] withTelemetry: onDidChangeTextDocument
+[15:18:52] withTelemetry: onDidChangeTextDocument
+[15:18:55] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:18:57] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:18:57] TexCount args: -merge,-brief
+[15:18:58] TeXCount output for word: 15+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:18:58] TexCount args: -merge,-brief,-char
+[15:18:58] TeXCount output for char: 114+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:19:02] withTelemetry: onDidChangeTextDocument
+[15:19:02] withTelemetry: onDidChangeTextDocument
+[15:19:02] withTelemetry: onDidChangeTextDocument
+[15:19:02] withTelemetry: onDidChangeTextDocument
+[15:19:02] withTelemetry: onDidChangeTextDocument
+[15:19:03] withTelemetry: onDidChangeTextDocument
+[15:19:03] withTelemetry: onDidChangeTextDocument
+[15:19:03] withTelemetry: onDidChangeTextDocument
+[15:19:03] withTelemetry: onDidChangeTextDocument
+[15:19:03] withTelemetry: onDidChangeTextDocument
+[15:19:03] withTelemetry: onDidChangeTextDocument
+[15:19:04] withTelemetry: onDidChangeTextDocument
+[15:19:04] withTelemetry: onDidChangeTextDocument
+[15:19:04] withTelemetry: onDidChangeTextDocument
+[15:19:04] withTelemetry: onDidChangeTextDocument
+[15:19:04] withTelemetry: onDidChangeTextDocument
+[15:19:05] withTelemetry: onDidChangeTextDocument
+[15:19:05] withTelemetry: onDidChangeTextDocument
+[15:19:05] withTelemetry: onDidChangeTextDocument
+[15:19:05] withTelemetry: onDidChangeTextDocument
+[15:19:06] withTelemetry: onDidChangeTextDocument
+[15:19:06] withTelemetry: onDidChangeTextDocument
+[15:19:06] withTelemetry: onDidChangeTextDocument
+[15:19:07] withTelemetry: onDidChangeTextDocument
+[15:19:07] withTelemetry: onDidChangeTextDocument
+[15:19:07] withTelemetry: onDidChangeTextDocument
+[15:19:07] withTelemetry: onDidChangeTextDocument
+[15:19:07] withTelemetry: onDidChangeTextDocument
+[15:19:08] withTelemetry: onDidChangeTextDocument
+[15:19:14] withTelemetry: onDidChangeTextDocument
+[15:19:15] withTelemetry: onDidChangeTextDocument
+[15:19:15] withTelemetry: onDidChangeTextDocument
+[15:19:15] withTelemetry: onDidChangeTextDocument
+[15:19:15] withTelemetry: onDidChangeTextDocument
+[15:19:15] withTelemetry: onDidChangeTextDocument
+[15:19:15] withTelemetry: onDidChangeTextDocument
+[15:19:15] withTelemetry: onDidChangeTextDocument
+[15:19:15] withTelemetry: onDidChangeTextDocument
+[15:19:15] withTelemetry: onDidChangeTextDocument
+[15:19:16] withTelemetry: onDidChangeTextDocument
+[15:19:17] withTelemetry: onDidChangeTextDocument
+[15:19:17] withTelemetry: onDidChangeTextDocument
+[15:19:17] withTelemetry: onDidSaveTextDocument_tex_wordcounter
+[15:19:17] TexCount args: -merge,-brief
+[15:19:18] TeXCount output for word: 18+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:19:18] TexCount args: -merge,-brief,-char
+[15:19:18] TeXCount output for char: 138+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:19:19] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:19:20] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:19:20] TexCount args: -merge,-brief
+[15:19:20] TeXCount output for word: 18+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:19:20] TexCount args: -merge,-brief,-char
+[15:19:20] TeXCount output for char: 138+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:19:21] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:19:24] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:19:24] TexCount args: -merge,-brief
+[15:19:24] TeXCount output for word: 18+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:19:24] TexCount args: -merge,-brief,-char
+[15:19:24] TeXCount output for char: 138+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:20:30] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:20:34] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:20:34] TexCount args: -merge,-brief
+[15:20:34] TeXCount output for word: 18+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:20:34] TexCount args: -merge,-brief,-char
+[15:20:34] TeXCount output for char: 138+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:20:36] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:20:54] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:20:54] TexCount args: -merge,-brief
+[15:20:54] TeXCount output for word: 1941+28+0 (16/0/54/0) File: TEPandIntegrity.tex
+
+[15:20:54] TexCount args: -merge,-brief,-char
+[15:20:55] TeXCount output for char: 9901+204+0 (16/0/54/0) File: TEPandIntegrity.tex
+
+[15:20:56] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:20:56] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:20:56] TexCount args: -merge,-brief
+[15:20:56] TeXCount output for word: 18+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:20:56] TexCount args: -merge,-brief,-char
+[15:20:56] TeXCount output for char: 138+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:21:00] withTelemetry: onDidChangeTextDocument
+[15:21:00] withTelemetry: onDidChangeTextDocument
+[15:21:01] withTelemetry: onDidChangeTextDocument
+[15:21:01] withTelemetry: onDidChangeTextDocument
+[15:21:01] withTelemetry: onDidChangeTextDocument
+[15:21:01] withTelemetry: onDidChangeTextDocument
+[15:21:01] withTelemetry: onDidChangeTextDocument
+[15:21:01] withTelemetry: onDidChangeTextDocument
+[15:21:02] withTelemetry: onDidChangeTextDocument
+[15:21:02] withTelemetry: onDidChangeTextDocument
+[15:21:02] withTelemetry: onDidChangeTextDocument
+[15:21:02] withTelemetry: onDidChangeTextDocument
+[15:21:03] withTelemetry: onDidChangeTextDocument
+[15:21:03] withTelemetry: onDidChangeTextDocument
+[15:21:03] withTelemetry: onDidChangeTextDocument
+[15:21:03] withTelemetry: onDidChangeTextDocument
+[15:21:03] withTelemetry: onDidChangeTextDocument
+[15:21:08] withTelemetry: onDidChangeTextDocument
+[15:21:08] withTelemetry: onDidChangeTextDocument
+[15:21:09] withTelemetry: onDidChangeTextDocument
+[15:21:09] withTelemetry: onDidChangeTextDocument
+[15:21:09] withTelemetry: onDidChangeTextDocument
+[15:21:09] withTelemetry: onDidChangeTextDocument
+[15:21:09] withTelemetry: onDidChangeTextDocument
+[15:21:10] withTelemetry: onDidChangeTextDocument
+[15:21:10] withTelemetry: onDidChangeTextDocument
+[15:21:10] withTelemetry: onDidChangeTextDocument
+[15:21:12] withTelemetry: onDidChangeTextDocument
+[15:21:12] withTelemetry: onDidChangeTextDocument
+[15:21:12] withTelemetry: onDidSaveTextDocument_tex_wordcounter
+[15:21:12] TexCount args: -merge,-brief
+[15:21:12] TeXCount output for word: 19+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:21:12] TexCount args: -merge,-brief,-char
+[15:21:12] TeXCount output for char: 149+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:21:21] withTelemetry: onDidChangeTextDocument
+[15:21:21] withTelemetry: onDidChangeTextDocument
+[15:21:23] withTelemetry: onDidChangeTextDocument
+[15:21:25] withTelemetry: onDidChangeTextDocument
+[15:21:26] withTelemetry: onDidChangeTextDocument
+[15:21:26] withTelemetry: onDidChangeTextDocument
+[15:21:26] withTelemetry: onDidChangeTextDocument
+[15:21:26] withTelemetry: onDidChangeTextDocument
+[15:21:26] withTelemetry: onDidChangeTextDocument
+[15:21:26] withTelemetry: onDidChangeTextDocument
+[15:21:26] withTelemetry: onDidChangeTextDocument
+[15:21:26] withTelemetry: onDidChangeTextDocument
+[15:21:26] withTelemetry: onDidChangeTextDocument
+[15:21:27] withTelemetry: onDidChangeTextDocument
+[15:21:27] withTelemetry: onDidChangeTextDocument
+[15:21:27] withTelemetry: onDidChangeTextDocument
+[15:21:27] withTelemetry: onDidChangeTextDocument
+[15:21:28] withTelemetry: onDidChangeTextDocument
+[15:21:28] withTelemetry: onDidChangeTextDocument
+[15:21:28] withTelemetry: onDidChangeTextDocument
+[15:21:28] withTelemetry: onDidChangeTextDocument
+[15:21:28] withTelemetry: onDidChangeTextDocument
+[15:21:28] withTelemetry: onDidChangeTextDocument
+[15:21:29] withTelemetry: onDidChangeTextDocument
+[15:21:29] withTelemetry: onDidChangeTextDocument
+[15:21:31] withTelemetry: onDidChangeTextDocument
+[15:21:33] withTelemetry: onDidChangeTextDocument
+[15:21:34] withTelemetry: onDidChangeTextDocument
+[15:21:34] withTelemetry: onDidChangeTextDocument
+[15:21:34] withTelemetry: onDidChangeTextDocument
+[15:21:34] withTelemetry: onDidChangeTextDocument
+[15:21:34] withTelemetry: onDidChangeTextDocument
+[15:21:34] withTelemetry: onDidChangeTextDocument
+[15:21:34] withTelemetry: onDidChangeTextDocument
+[15:21:34] withTelemetry: onDidChangeTextDocument
+[15:21:34] withTelemetry: onDidChangeTextDocument
+[15:21:34] withTelemetry: onDidChangeTextDocument
+[15:21:34] withTelemetry: onDidChangeTextDocument
+[15:21:35] withTelemetry: onDidChangeTextDocument
+[15:21:35] withTelemetry: onDidChangeTextDocument
+[15:21:35] withTelemetry: onDidChangeTextDocument
+[15:21:36] withTelemetry: onDidChangeTextDocument
+[15:21:36] withTelemetry: onDidChangeTextDocument
+[15:21:36] withTelemetry: onDidChangeTextDocument
+[15:21:36] withTelemetry: onDidChangeTextDocument
+[15:21:36] withTelemetry: onDidChangeTextDocument
+[15:21:37] withTelemetry: onDidChangeTextDocument
+[15:21:40] withTelemetry: onDidChangeTextDocument
+[15:21:41] withTelemetry: onDidChangeTextDocument
+[15:21:41] withTelemetry: onDidChangeTextDocument
+[15:21:41] withTelemetry: onDidChangeTextDocument
+[15:21:41] withTelemetry: onDidChangeTextDocument
+[15:21:41] withTelemetry: onDidChangeTextDocument
+[15:21:41] withTelemetry: onDidChangeTextDocument
+[15:21:41] withTelemetry: onDidChangeTextDocument
+[15:21:41] withTelemetry: onDidChangeTextDocument
+[15:21:41] withTelemetry: onDidChangeTextDocument
+[15:21:41] withTelemetry: onDidChangeTextDocument
+[15:21:42] withTelemetry: onDidChangeTextDocument
+[15:21:42] withTelemetry: onDidChangeTextDocument
+[15:21:43] withTelemetry: onDidChangeTextDocument
+[15:21:43] withTelemetry: onDidChangeTextDocument
+[15:21:43] withTelemetry: onDidChangeTextDocument
+[15:21:43] withTelemetry: onDidChangeTextDocument
+[15:21:43] withTelemetry: onDidChangeTextDocument
+[15:21:44] withTelemetry: onDidChangeTextDocument
+[15:21:44] withTelemetry: onDidChangeTextDocument
+[15:21:44] withTelemetry: onDidChangeTextDocument
+[15:21:44] withTelemetry: onDidChangeTextDocument
+[15:21:45] withTelemetry: onDidChangeTextDocument
+[15:21:45] withTelemetry: onDidChangeTextDocument
+[15:21:45] withTelemetry: onDidChangeTextDocument
+[15:21:45] withTelemetry: onDidChangeTextDocument
+[15:21:45] withTelemetry: onDidChangeTextDocument
+[15:21:46] withTelemetry: onDidChangeTextDocument
+[15:21:46] withTelemetry: onDidChangeTextDocument
+[15:21:46] withTelemetry: onDidChangeTextDocument
+[15:21:46] withTelemetry: onDidChangeTextDocument
+[15:21:46] withTelemetry: onDidChangeTextDocument
+[15:21:46] withTelemetry: onDidChangeTextDocument
+[15:21:47] withTelemetry: onDidChangeTextDocument
+[15:21:47] withTelemetry: onDidChangeTextDocument
+[15:21:48] withTelemetry: onDidChangeTextDocument
+[15:21:48] withTelemetry: onDidChangeTextDocument
+[15:21:48] withTelemetry: onDidChangeTextDocument
+[15:21:48] withTelemetry: onDidChangeTextDocument
+[15:21:48] withTelemetry: onDidChangeTextDocument
+[15:21:48] withTelemetry: onDidChangeTextDocument
+[15:21:49] withTelemetry: onDidChangeTextDocument
+[15:21:50] withTelemetry: onDidChangeTextDocument
+[15:21:53] withTelemetry: onDidChangeTextDocument
+[15:21:53] withTelemetry: onDidChangeTextDocument
+[15:21:53] withTelemetry: onDidChangeTextDocument
+[15:21:53] withTelemetry: onDidChangeTextDocument
+[15:21:54] withTelemetry: onDidChangeTextDocument
+[15:21:54] withTelemetry: onDidChangeTextDocument
+[15:21:54] withTelemetry: onDidChangeTextDocument
+[15:21:55] withTelemetry: onDidChangeTextDocument
+[15:21:55] withTelemetry: onDidChangeTextDocument
+[15:21:57] withTelemetry: onDidChangeTextDocument
+[15:21:57] withTelemetry: onDidChangeTextDocument
+[15:21:57] withTelemetry: onDidChangeTextDocument
+[15:21:58] withTelemetry: onDidChangeTextDocument
+[15:21:58] withTelemetry: onDidChangeTextDocument
+[15:22:02] withTelemetry: onDidChangeTextDocument
+[15:22:02] withTelemetry: onDidChangeTextDocument
+[15:22:02] withTelemetry: onDidChangeTextDocument
+[15:22:02] withTelemetry: onDidChangeTextDocument
+[15:22:02] withTelemetry: onDidChangeTextDocument
+[15:22:03] withTelemetry: onDidChangeTextDocument
+[15:22:03] withTelemetry: onDidChangeTextDocument
+[15:22:04] withTelemetry: onDidChangeTextDocument
+[15:22:05] withTelemetry: onDidChangeTextDocument
+[15:22:05] withTelemetry: onDidChangeTextDocument
+[15:22:06] withTelemetry: onDidChangeTextDocument
+[15:22:06] withTelemetry: onDidChangeTextDocument
+[15:22:06] withTelemetry: onDidChangeTextDocument
+[15:22:12] withTelemetry: onDidChangeTextDocument
+[15:22:12] withTelemetry: onDidChangeTextDocument
+[15:22:12] withTelemetry: onDidSaveTextDocument_tex_wordcounter
+[15:22:12] TexCount args: -merge,-brief
+[15:22:13] TeXCount output for word: 29+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:22:13] TexCount args: -merge,-brief,-char
+[15:22:13] TeXCount output for char: 216+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:22:16] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:22:16] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:22:16] TexCount args: -merge,-brief
+[15:22:17] TeXCount output for word: 1941+28+0 (16/0/54/0) File: TEPandIntegrity.tex
+
+[15:22:17] TexCount args: -merge,-brief,-char
+[15:22:17] TeXCount output for char: 9901+204+0 (16/0/54/0) File: TEPandIntegrity.tex
+
+[15:22:17] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:22:17] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:22:17] TexCount args: -merge,-brief
+[15:22:18] TeXCount output for word: 29+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:22:18] TexCount args: -merge,-brief,-char
+[15:22:18] TeXCount output for char: 216+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:22:20] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:22:30] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:22:30] TexCount args: -merge,-brief
+[15:22:30] TeXCount output for word: 29+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:22:30] TexCount args: -merge,-brief,-char
+[15:22:30] TeXCount output for char: 216+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:22:39] withTelemetry: onDidChangeTextDocument
+[15:22:39] withTelemetry: onDidChangeTextDocument
+[15:22:40] withTelemetry: onDidChangeTextDocument
+[15:22:42] withTelemetry: onDidChangeTextDocument
+[15:22:48] withTelemetry: onDidChangeTextDocument
+[15:22:48] withTelemetry: onDidChangeTextDocument
+[15:22:48] withTelemetry: onDidChangeTextDocument
+[15:22:48] withTelemetry: onDidChangeTextDocument
+[15:22:48] withTelemetry: onDidChangeTextDocument
+[15:22:49] withTelemetry: onDidChangeTextDocument
+[15:22:49] withTelemetry: onDidChangeTextDocument
+[15:22:49] withTelemetry: onDidChangeTextDocument
+[15:22:49] withTelemetry: onDidChangeTextDocument
+[15:22:49] withTelemetry: onDidChangeTextDocument
+[15:22:50] withTelemetry: onDidChangeTextDocument
+[15:22:50] withTelemetry: onDidChangeTextDocument
+[15:22:50] withTelemetry: onDidChangeTextDocument
+[15:22:50] withTelemetry: onDidChangeTextDocument
+[15:22:51] withTelemetry: onDidChangeTextDocument
+[15:22:51] withTelemetry: onDidChangeTextDocument
+[15:22:51] withTelemetry: onDidChangeTextDocument
+[15:22:51] withTelemetry: onDidChangeTextDocument
+[15:22:52] withTelemetry: onDidChangeTextDocument
+[15:22:52] withTelemetry: onDidChangeTextDocument
+[15:22:52] withTelemetry: onDidChangeTextDocument
+[15:22:52] withTelemetry: onDidChangeTextDocument
+[15:22:52] withTelemetry: onDidChangeTextDocument
+[15:22:52] withTelemetry: onDidChangeTextDocument
+[15:22:52] withTelemetry: onDidChangeTextDocument
+[15:22:53] withTelemetry: onDidChangeTextDocument
+[15:22:53] withTelemetry: onDidChangeTextDocument
+[15:22:53] withTelemetry: onDidChangeTextDocument
+[15:22:53] withTelemetry: onDidChangeTextDocument
+[15:22:53] withTelemetry: onDidChangeTextDocument
+[15:22:53] withTelemetry: onDidChangeTextDocument
+[15:22:54] withTelemetry: onDidChangeTextDocument
+[15:22:56] withTelemetry: onDidChangeTextDocument
+[15:22:57] withTelemetry: onDidChangeTextDocument
+[15:22:57] withTelemetry: onDidChangeTextDocument
+[15:22:57] withTelemetry: onDidChangeTextDocument
+[15:22:57] withTelemetry: onDidChangeTextDocument
+[15:22:57] withTelemetry: onDidChangeTextDocument
+[15:22:57] withTelemetry: onDidChangeTextDocument
+[15:22:57] withTelemetry: onDidChangeTextDocument
+[15:22:57] withTelemetry: onDidChangeTextDocument
+[15:22:57] withTelemetry: onDidChangeTextDocument
+[15:22:58] withTelemetry: onDidChangeTextDocument
+[15:22:58] withTelemetry: onDidChangeTextDocument
+[15:22:58] withTelemetry: onDidChangeTextDocument
+[15:23:08] withTelemetry: onDidChangeTextDocument
+[15:23:09] withTelemetry: onDidChangeTextDocument
+[15:23:09] withTelemetry: onDidChangeTextDocument
+[15:23:09] withTelemetry: onDidChangeTextDocument
+[15:23:09] withTelemetry: onDidChangeTextDocument
+[15:23:09] withTelemetry: onDidChangeTextDocument
+[15:23:09] withTelemetry: onDidChangeTextDocument
+[15:23:09] withTelemetry: onDidChangeTextDocument
+[15:23:09] withTelemetry: onDidChangeTextDocument
+[15:23:09] withTelemetry: onDidChangeTextDocument
+[15:23:10] withTelemetry: onDidChangeTextDocument
+[15:23:22] withTelemetry: onDidChangeTextDocument
+[15:23:26] withTelemetry: onDidChangeTextDocument
+[15:23:26] withTelemetry: onDidChangeTextDocument
+[15:23:27] withTelemetry: onDidChangeTextDocument
+[15:23:28] withTelemetry: onDidChangeTextDocument
+[15:23:29] withTelemetry: onDidChangeTextDocument
+[15:23:29] withTelemetry: onDidChangeTextDocument
+[15:23:29] withTelemetry: onDidChangeTextDocument
+[15:23:29] withTelemetry: onDidChangeTextDocument
+[15:23:29] withTelemetry: onDidChangeTextDocument
+[15:23:29] withTelemetry: onDidChangeTextDocument
+[15:23:29] withTelemetry: onDidChangeTextDocument
+[15:23:29] withTelemetry: onDidChangeTextDocument
+[15:23:29] withTelemetry: onDidChangeTextDocument
+[15:23:29] withTelemetry: onDidChangeTextDocument
+[15:23:29] withTelemetry: onDidChangeTextDocument
+[15:23:29] withTelemetry: onDidChangeTextDocument
+[15:23:29] withTelemetry: onDidChangeTextDocument
+[15:23:29] withTelemetry: onDidChangeTextDocument
+[15:23:29] withTelemetry: onDidChangeTextDocument
+[15:23:29] withTelemetry: onDidChangeTextDocument
+[15:23:30] withTelemetry: onDidChangeTextDocument
+[15:23:30] withTelemetry: onDidChangeTextDocument
+[15:23:30] withTelemetry: onDidChangeTextDocument
+[15:23:30] withTelemetry: onDidChangeTextDocument
+[15:23:30] withTelemetry: onDidChangeTextDocument
+[15:23:31] withTelemetry: onDidChangeTextDocument
+[15:23:31] withTelemetry: onDidChangeTextDocument
+[15:23:31] withTelemetry: onDidChangeTextDocument
+[15:23:31] withTelemetry: onDidChangeTextDocument
+[15:23:31] withTelemetry: onDidChangeTextDocument
+[15:23:31] withTelemetry: onDidChangeTextDocument
+[15:23:35] withTelemetry: onDidChangeTextDocument
+[15:23:37] withTelemetry: onDidChangeTextDocument
+[15:23:37] withTelemetry: onDidChangeTextDocument
+[15:23:37] withTelemetry: onDidChangeTextDocument
+[15:23:38] withTelemetry: onDidChangeTextDocument
+[15:23:38] withTelemetry: onDidChangeTextDocument
+[15:23:38] withTelemetry: onDidChangeTextDocument
+[15:23:38] withTelemetry: onDidChangeTextDocument
+[15:23:38] withTelemetry: onDidChangeTextDocument
+[15:23:38] withTelemetry: onDidChangeTextDocument
+[15:23:38] withTelemetry: onDidChangeTextDocument
+[15:23:38] withTelemetry: onDidChangeTextDocument
+[15:23:38] withTelemetry: onDidChangeTextDocument
+[15:23:39] withTelemetry: onDidChangeTextDocument
+[15:23:39] withTelemetry: onDidChangeTextDocument
+[15:23:39] withTelemetry: onDidChangeTextDocument
+[15:23:39] withTelemetry: onDidChangeTextDocument
+[15:23:39] withTelemetry: onDidChangeTextDocument
+[15:23:39] withTelemetry: onDidChangeTextDocument
+[15:23:40] withTelemetry: onDidChangeTextDocument
+[15:23:40] withTelemetry: onDidChangeTextDocument
+[15:23:40] withTelemetry: onDidChangeTextDocument
+[15:23:40] withTelemetry: onDidChangeTextDocument
+[15:23:41] withTelemetry: onDidChangeTextDocument
+[15:23:41] withTelemetry: onDidChangeTextDocument
+[15:23:41] withTelemetry: onDidChangeTextDocument
+[15:23:41] withTelemetry: onDidChangeTextDocument
+[15:23:46] withTelemetry: onDidChangeTextDocument
+[15:23:48] withTelemetry: onDidChangeTextDocument
+[15:23:49] withTelemetry: onDidChangeTextDocument
+[15:23:49] withTelemetry: onDidChangeTextDocument
+[15:23:49] withTelemetry: onDidChangeTextDocument
+[15:23:49] withTelemetry: onDidChangeTextDocument
+[15:23:49] withTelemetry: onDidChangeTextDocument
+[15:23:50] withTelemetry: onDidChangeTextDocument
+[15:23:50] withTelemetry: onDidChangeTextDocument
+[15:23:50] withTelemetry: onDidChangeTextDocument
+[15:23:50] withTelemetry: onDidChangeTextDocument
+[15:23:50] withTelemetry: onDidChangeTextDocument
+[15:23:50] withTelemetry: onDidChangeTextDocument
+[15:23:50] withTelemetry: onDidChangeTextDocument
+[15:23:50] withTelemetry: onDidChangeTextDocument
+[15:23:50] withTelemetry: onDidChangeTextDocument
+[15:23:50] withTelemetry: onDidChangeTextDocument
+[15:23:50] withTelemetry: onDidChangeTextDocument
+[15:23:50] withTelemetry: onDidChangeTextDocument
+[15:23:50] withTelemetry: onDidChangeTextDocument
+[15:23:50] withTelemetry: onDidChangeTextDocument
+[15:23:51] withTelemetry: onDidChangeTextDocument
+[15:23:51] withTelemetry: onDidChangeTextDocument
+[15:23:51] withTelemetry: onDidChangeTextDocument
+[15:23:51] withTelemetry: onDidChangeTextDocument
+[15:23:52] withTelemetry: onDidChangeTextDocument
+[15:23:52] withTelemetry: onDidChangeTextDocument
+[15:23:52] withTelemetry: onDidChangeTextDocument
+[15:23:54] withTelemetry: onDidChangeTextDocument
+[15:23:55] withTelemetry: onDidChangeTextDocument
+[15:23:55] withTelemetry: onDidChangeTextDocument
+[15:24:01] withTelemetry: onDidChangeTextDocument
+[15:24:07] withTelemetry: onDidChangeTextDocument
+[15:24:08] withTelemetry: onDidChangeTextDocument
+[15:24:08] withTelemetry: onDidChangeTextDocument
+[15:24:08] withTelemetry: onDidChangeTextDocument
+[15:24:08] withTelemetry: onDidChangeTextDocument
+[15:24:08] withTelemetry: onDidChangeTextDocument
+[15:24:08] withTelemetry: onDidChangeTextDocument
+[15:24:08] withTelemetry: onDidChangeTextDocument
+[15:24:08] withTelemetry: onDidChangeTextDocument
+[15:24:08] withTelemetry: onDidChangeTextDocument
+[15:24:08] withTelemetry: onDidChangeTextDocument
+[15:24:08] withTelemetry: onDidChangeTextDocument
+[15:24:08] withTelemetry: onDidChangeTextDocument
+[15:24:08] withTelemetry: onDidChangeTextDocument
+[15:24:08] withTelemetry: onDidChangeTextDocument
+[15:24:08] withTelemetry: onDidChangeTextDocument
+[15:24:08] withTelemetry: onDidChangeTextDocument
+[15:24:08] withTelemetry: onDidChangeTextDocument
+[15:24:09] withTelemetry: onDidChangeTextDocument
+[15:24:09] withTelemetry: onDidChangeTextDocument
+[15:24:09] withTelemetry: onDidChangeTextDocument
+[15:24:09] withTelemetry: onDidChangeTextDocument
+[15:24:10] withTelemetry: onDidChangeTextDocument
+[15:24:10] withTelemetry: onDidChangeTextDocument
+[15:24:11] withTelemetry: onDidChangeTextDocument
+[15:24:11] withTelemetry: onDidChangeTextDocument
+[15:24:11] withTelemetry: onDidChangeTextDocument
+[15:24:12] withTelemetry: onDidChangeTextDocument
+[15:24:12] withTelemetry: onDidChangeTextDocument
+[15:24:12] withTelemetry: onDidSaveTextDocument_tex_wordcounter
+[15:24:12] TexCount args: -merge,-brief
+[15:24:13] TeXCount output for word: 36+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:24:13] TexCount args: -merge,-brief,-char
+[15:24:13] TeXCount output for char: 256+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:24:16] withTelemetry: onDidChangeTextDocument
+[15:24:16] withTelemetry: onDidChangeTextDocument
+[15:24:17] withTelemetry: onDidChangeTextDocument
+[15:24:18] withTelemetry: onDidChangeTextDocument
+[15:24:19] withTelemetry: onDidChangeTextDocument
+[15:24:20] withTelemetry: onDidChangeTextDocument
+[15:24:23] withTelemetry: onDidChangeTextDocument
+[15:24:23] withTelemetry: onDidChangeTextDocument
+[15:24:23] withTelemetry: onDidChangeTextDocument
+[15:24:23] withTelemetry: onDidChangeTextDocument
+[15:24:24] withTelemetry: onDidChangeTextDocument
+[15:24:24] withTelemetry: onDidChangeTextDocument
+[15:24:24] withTelemetry: onDidChangeTextDocument
+[15:24:24] withTelemetry: onDidChangeTextDocument
+[15:24:24] withTelemetry: onDidChangeTextDocument
+[15:24:24] withTelemetry: onDidChangeTextDocument
+[15:24:24] withTelemetry: onDidChangeTextDocument
+[15:24:24] withTelemetry: onDidChangeTextDocument
+[15:24:24] withTelemetry: onDidChangeTextDocument
+[15:24:24] withTelemetry: onDidChangeTextDocument
+[15:24:24] withTelemetry: onDidChangeTextDocument
+[15:24:24] withTelemetry: onDidChangeTextDocument
+[15:24:24] withTelemetry: onDidChangeTextDocument
+[15:24:24] withTelemetry: onDidChangeTextDocument
+[15:24:24] withTelemetry: onDidChangeTextDocument
+[15:24:24] withTelemetry: onDidChangeTextDocument
+[15:24:24] withTelemetry: onDidChangeTextDocument
+[15:24:25] withTelemetry: onDidChangeTextDocument
+[15:24:25] withTelemetry: onDidChangeTextDocument
+[15:24:25] withTelemetry: onDidChangeTextDocument
+[15:24:25] withTelemetry: onDidChangeTextDocument
+[15:24:26] withTelemetry: onDidChangeTextDocument
+[15:24:26] withTelemetry: onDidChangeTextDocument
+[15:24:26] withTelemetry: onDidChangeTextDocument
+[15:24:26] withTelemetry: onDidChangeTextDocument
+[15:24:26] withTelemetry: onDidChangeTextDocument
+[15:24:26] withTelemetry: onDidChangeTextDocument
+[15:24:27] withTelemetry: onDidChangeTextDocument
+[15:24:28] withTelemetry: onDidChangeTextDocument
+[15:24:28] withTelemetry: onDidChangeTextDocument
+[15:24:28] withTelemetry: onDidSaveTextDocument_tex_wordcounter
+[15:24:28] TexCount args: -merge,-brief
+[15:24:28] TeXCount output for word: 37+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:24:28] TexCount args: -merge,-brief,-char
+[15:24:28] TeXCount output for char: 266+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:24:42] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:29:16] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:29:16] TexCount args: -merge,-brief
+[15:29:17] TeXCount output for word: 37+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:29:17] TexCount args: -merge,-brief,-char
+[15:29:17] TeXCount output for char: 266+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:29:29] withTelemetry: onDidChangeTextDocument
+[15:29:29] withTelemetry: onDidChangeTextDocument
+[15:29:31] withTelemetry: onDidChangeTextDocument
+[15:29:31] withTelemetry: onDidChangeTextDocument
+[15:29:31] withTelemetry: onDidChangeTextDocument
+[15:29:32] withTelemetry: onDidChangeTextDocument
+[15:29:32] withTelemetry: onDidChangeTextDocument
+[15:29:33] withTelemetry: onDidChangeTextDocument
+[15:29:33] withTelemetry: onDidChangeTextDocument
+[15:29:33] withTelemetry: onDidChangeTextDocument
+[15:29:34] withTelemetry: onDidChangeTextDocument
+[15:29:34] withTelemetry: onDidChangeTextDocument
+[15:29:34] withTelemetry: onDidChangeTextDocument
+[15:29:34] withTelemetry: onDidChangeTextDocument
+[15:29:34] withTelemetry: onDidChangeTextDocument
+[15:29:35] withTelemetry: onDidChangeTextDocument
+[15:29:36] withTelemetry: onDidChangeTextDocument
+[15:29:36] withTelemetry: onDidChangeTextDocument
+[15:29:36] withTelemetry: onDidChangeTextDocument
+[15:29:36] withTelemetry: onDidChangeTextDocument
+[15:29:37] withTelemetry: onDidChangeTextDocument
+[15:29:37] withTelemetry: onDidChangeTextDocument
+[15:29:38] withTelemetry: onDidChangeTextDocument
+[15:29:38] withTelemetry: onDidChangeTextDocument
+[15:29:38] withTelemetry: onDidChangeTextDocument
+[15:29:38] withTelemetry: onDidChangeTextDocument
+[15:29:38] withTelemetry: onDidChangeTextDocument
+[15:29:39] withTelemetry: onDidChangeTextDocument
+[15:29:39] withTelemetry: onDidChangeTextDocument
+[15:29:41] withTelemetry: onDidChangeTextDocument
+[15:29:41] withTelemetry: onDidChangeTextDocument
+[15:29:41] withTelemetry: onDidSaveTextDocument_tex_wordcounter
+[15:29:41] TexCount args: -merge,-brief
+[15:29:41] TeXCount output for word: 39+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:29:41] TexCount args: -merge,-brief,-char
+[15:29:42] TeXCount output for char: 278+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:35:52] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:35:53] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:35:53] TexCount args: -merge,-brief
+[15:35:54] TeXCount output for word: 39+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:35:54] TexCount args: -merge,-brief,-char
+[15:35:54] TeXCount output for char: 278+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:36:00] withTelemetry: onDidChangeTextDocument
+[15:36:00] withTelemetry: onDidChangeTextDocument
+[15:36:00] withTelemetry: onDidChangeTextDocument
+[15:36:00] withTelemetry: onDidChangeTextDocument
+[15:36:00] withTelemetry: onDidChangeTextDocument
+[15:36:01] withTelemetry: onDidChangeTextDocument
+[15:36:01] withTelemetry: onDidChangeTextDocument
+[15:36:01] withTelemetry: onDidChangeTextDocument
+[15:36:01] withTelemetry: onDidChangeTextDocument
+[15:36:01] withTelemetry: onDidChangeTextDocument
+[15:36:01] withTelemetry: onDidChangeTextDocument
+[15:36:02] withTelemetry: onDidChangeTextDocument
+[15:36:02] withTelemetry: onDidChangeTextDocument
+[15:36:03] withTelemetry: onDidChangeTextDocument
+[15:36:03] withTelemetry: onDidChangeTextDocument
+[15:36:03] withTelemetry: onDidChangeTextDocument
+[15:36:03] withTelemetry: onDidChangeTextDocument
+[15:36:04] withTelemetry: onDidChangeTextDocument
+[15:36:04] withTelemetry: onDidChangeTextDocument
+[15:36:04] withTelemetry: onDidChangeTextDocument
+[15:36:04] withTelemetry: onDidChangeTextDocument
+[15:36:04] withTelemetry: onDidChangeTextDocument
+[15:36:05] withTelemetry: onDidChangeTextDocument
+[15:36:05] withTelemetry: onDidChangeTextDocument
+[15:36:05] withTelemetry: onDidChangeTextDocument
+[15:36:07] withTelemetry: onDidChangeTextDocument
+[15:37:24] withTelemetry: onDidChangeTextDocument
+[15:37:26] withTelemetry: onDidChangeTextDocument
+[15:37:27] withTelemetry: onDidChangeTextDocument
+[15:37:27] withTelemetry: onDidChangeTextDocument
+[15:37:27] withTelemetry: onDidChangeTextDocument
+[15:37:29] withTelemetry: onDidChangeTextDocument
+[15:37:29] withTelemetry: onDidChangeTextDocument
+[15:37:29] withTelemetry: onDidChangeTextDocument
+[15:37:29] withTelemetry: onDidChangeTextDocument
+[15:37:29] withTelemetry: onDidChangeTextDocument
+[15:37:30] withTelemetry: onDidChangeTextDocument
+[15:37:30] withTelemetry: onDidChangeTextDocument
+[15:37:31] withTelemetry: onDidChangeTextDocument
+[15:37:31] withTelemetry: onDidChangeTextDocument
+[15:37:31] withTelemetry: onDidChangeTextDocument
+[15:37:31] withTelemetry: onDidChangeTextDocument
+[15:37:32] withTelemetry: onDidChangeTextDocument
+[15:37:32] withTelemetry: onDidChangeTextDocument
+[15:37:32] withTelemetry: onDidChangeTextDocument
+[15:37:32] withTelemetry: onDidChangeTextDocument
+[15:37:32] withTelemetry: onDidChangeTextDocument
+[15:37:32] withTelemetry: onDidChangeTextDocument
+[15:37:53] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:37:54] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:37:54] TexCount args: -merge,-brief
+[15:37:54] TeXCount output for word: 39+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:37:54] TexCount args: -merge,-brief,-char
+[15:37:55] TeXCount output for char: 278+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:37:56] withTelemetry: onDidChangeTextDocument
+[15:37:56] withTelemetry: onDidChangeTextDocument
+[15:37:56] withTelemetry: onDidSaveTextDocument_tex_wordcounter
+[15:37:56] TexCount args: -merge,-brief
+[15:37:56] TeXCount output for word: 41+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:37:56] TexCount args: -merge,-brief,-char
+[15:37:56] TeXCount output for char: 305+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:37:56] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:38:14] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:38:14] TexCount args: -merge,-brief
+[15:38:14] TeXCount output for word: 1941+28+0 (16/0/54/0) File: TEPandIntegrity.tex
+
+[15:38:14] TexCount args: -merge,-brief,-char
+[15:38:15] TeXCount output for char: 9901+204+0 (16/0/54/0) File: TEPandIntegrity.tex
+
+[15:38:34] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:40:49] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[15:40:49] TexCount args: -merge,-brief
+[15:40:50] TeXCount output for word: 41+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[15:40:50] TexCount args: -merge,-brief,-char
+[15:40:50] TeXCount output for char: 305+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[16:02:42] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[16:10:07] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[16:10:07] TexCount args: -merge,-brief
+[16:10:08] TeXCount output for word: 41+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[16:10:08] TexCount args: -merge,-brief,-char
+[16:10:08] TeXCount output for char: 305+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[16:47:00] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[16:51:24] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[16:51:24] TexCount args: -merge,-brief
+[16:51:25] TeXCount output for word: 41+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[16:51:25] TexCount args: -merge,-brief,-char
+[16:51:25] TeXCount output for char: 305+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[16:53:13] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[17:17:24] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[17:17:24] TexCount args: -merge,-brief
+[17:17:25] TeXCount output for word: 41+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[17:17:25] TexCount args: -merge,-brief,-char
+[17:17:25] TeXCount output for char: 305+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[20:26:22] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[16:36:48] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[16:36:48] TexCount args: -merge,-brief
+[16:36:48] TeXCount output for word: 41+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[16:36:48] TexCount args: -merge,-brief,-char
+[16:36:48] TeXCount output for char: 305+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[16:39:45] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[16:39:51] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[16:39:51] TexCount args: -merge,-brief
+[16:39:51] TeXCount output for word: 41+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[16:39:51] TexCount args: -merge,-brief,-char
+[16:39:51] TeXCount output for char: 305+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[16:40:10] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[16:40:13] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[16:40:13] TexCount args: -merge,-brief
+[16:40:13] TeXCount output for word: 41+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[16:40:13] TexCount args: -merge,-brief,-char
+[16:40:13] TeXCount output for char: 305+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[16:40:50] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[16:55:09] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[16:55:09] TexCount args: -merge,-brief
+[16:55:09] TeXCount output for word: 41+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[16:55:09] TexCount args: -merge,-brief,-char
+[16:55:10] TeXCount output for char: 305+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[16:55:15] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[16:55:15] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[16:55:15] TexCount args: -merge,-brief
+[16:55:15] TeXCount output for word: 1941+28+0 (16/0/54/0) File: TEPandIntegrity.tex
+
+[16:55:15] TexCount args: -merge,-brief,-char
+[16:55:16] TeXCount output for char: 9901+204+0 (16/0/54/0) File: TEPandIntegrity.tex
+
+[10:24:51] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[10:24:56] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[10:24:56] TexCount args: -merge,-brief
+[10:24:57] TeXCount output for word: 41+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[10:24:57] TexCount args: -merge,-brief,-char
+[10:24:57] TeXCount output for char: 305+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[10:25:17] withTelemetry: onDidChangeTextDocument
+[10:25:17] withTelemetry: onDidChangeTextDocument
+[10:25:17] withTelemetry: onDidChangeTextDocument
+[10:25:18] withTelemetry: onDidChangeTextDocument
+[10:25:18] withTelemetry: onDidChangeTextDocument
+[10:25:18] withTelemetry: onDidChangeTextDocument
+[10:25:18] withTelemetry: onDidChangeTextDocument
+[10:25:19] withTelemetry: onDidChangeTextDocument
+[10:25:19] withTelemetry: onDidChangeTextDocument
+[10:25:22] withTelemetry: onDidChangeTextDocument
+[10:25:23] withTelemetry: onDidChangeTextDocument
+[10:25:23] withTelemetry: onDidChangeTextDocument
+[10:25:23] withTelemetry: onDidChangeTextDocument
+[10:25:23] withTelemetry: onDidChangeTextDocument
+[10:25:23] withTelemetry: onDidChangeTextDocument
+[10:25:23] withTelemetry: onDidChangeTextDocument
+[10:25:25] withTelemetry: onDidChangeTextDocument
+[10:28:22] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[10:28:31] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[10:28:31] TexCount args: -merge,-brief
+[10:28:31] TeXCount output for word: 41+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[10:28:31] TexCount args: -merge,-brief,-char
+[10:28:31] TeXCount output for char: 305+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[10:28:36] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[10:28:37] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[10:28:37] TexCount args: -merge,-brief
+[10:28:37] TeXCount output for word: 41+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[10:28:37] TexCount args: -merge,-brief,-char
+[10:28:37] TeXCount output for char: 305+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[10:28:39] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[10:30:06] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[10:30:06] TexCount args: -merge,-brief
+[10:30:06] TeXCount output for word: 41+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[10:30:06] TexCount args: -merge,-brief,-char
+[10:30:06] TeXCount output for char: 305+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[11:27:27] withTelemetry: onDidChangeTextDocument
+[11:27:29] withTelemetry: onDidChangeTextDocument
+[11:27:29] withTelemetry: onDidChangeTextDocument
+[11:27:29] withTelemetry: onDidChangeTextDocument
+[11:27:30] withTelemetry: onDidChangeTextDocument
+[11:27:30] withTelemetry: onDidChangeTextDocument
+[11:27:30] withTelemetry: onDidChangeTextDocument
+[11:27:30] withTelemetry: onDidChangeTextDocument
+[11:27:30] withTelemetry: onDidChangeTextDocument
+[11:27:31] withTelemetry: onDidChangeTextDocument
+[11:27:31] withTelemetry: onDidChangeTextDocument
+[11:27:31] withTelemetry: onDidChangeTextDocument
+[11:27:31] withTelemetry: onDidChangeTextDocument
+[11:27:31] withTelemetry: onDidChangeTextDocument
+[11:27:32] withTelemetry: onDidChangeTextDocument
+[11:27:32] withTelemetry: onDidChangeTextDocument
+[11:27:32] withTelemetry: onDidChangeTextDocument
+[11:27:32] withTelemetry: onDidChangeTextDocument
+[11:27:32] withTelemetry: onDidChangeTextDocument
+[11:27:32] withTelemetry: onDidChangeTextDocument
+[11:27:32] withTelemetry: onDidChangeTextDocument
+[11:27:32] withTelemetry: onDidChangeTextDocument
+[11:27:33] withTelemetry: onDidChangeTextDocument
+[11:27:35] withTelemetry: onDidChangeTextDocument
+[11:27:35] withTelemetry: onDidChangeTextDocument
+[11:27:36] withTelemetry: onDidChangeTextDocument
+[11:28:35] withTelemetry: onDidChangeTextDocument
+[11:28:35] withTelemetry: onDidChangeTextDocument
+[11:28:36] withTelemetry: onDidChangeTextDocument
+[11:28:36] withTelemetry: onDidChangeTextDocument
+[11:28:36] withTelemetry: onDidChangeTextDocument
+[11:28:36] withTelemetry: onDidChangeTextDocument
+[11:28:36] withTelemetry: onDidChangeTextDocument
+[11:28:36] withTelemetry: onDidChangeTextDocument
+[11:28:36] withTelemetry: onDidChangeTextDocument
+[11:28:37] withTelemetry: onDidChangeTextDocument
+[11:28:43] withTelemetry: onDidChangeTextDocument
+[11:28:43] withTelemetry: onDidChangeTextDocument
+[11:28:44] withTelemetry: onDidChangeTextDocument
+[11:28:44] withTelemetry: onDidChangeTextDocument
+[11:28:44] withTelemetry: onDidChangeTextDocument
+[11:28:45] withTelemetry: onDidChangeTextDocument
+[11:28:45] withTelemetry: onDidChangeTextDocument
+[11:28:46] withTelemetry: onDidChangeTextDocument
+[11:28:48] withTelemetry: onDidChangeTextDocument
+[11:28:48] withTelemetry: onDidChangeTextDocument
+[11:28:49] withTelemetry: onDidChangeTextDocument
+[11:28:50] withTelemetry: onDidChangeTextDocument
+[11:30:07] withTelemetry: onDidChangeTextDocument
+[11:30:08] withTelemetry: onDidChangeTextDocument
+[11:30:08] withTelemetry: onDidChangeTextDocument
+[11:30:08] withTelemetry: onDidChangeTextDocument
+[11:30:09] withTelemetry: onDidChangeTextDocument
+[11:30:09] withTelemetry: onDidChangeTextDocument
+[11:30:09] withTelemetry: onDidChangeTextDocument
+[11:30:09] withTelemetry: onDidChangeTextDocument
+[11:30:09] withTelemetry: onDidChangeTextDocument
+[11:30:09] withTelemetry: onDidChangeTextDocument
+[11:30:10] withTelemetry: onDidChangeTextDocument
+[11:30:10] withTelemetry: onDidChangeTextDocument
+[11:30:11] withTelemetry: onDidChangeTextDocument
+[11:30:11] withTelemetry: onDidChangeTextDocument
+[11:30:11] withTelemetry: onDidChangeTextDocument
+[11:30:11] withTelemetry: onDidChangeTextDocument
+[11:30:12] withTelemetry: onDidChangeTextDocument
+[11:30:12] withTelemetry: onDidChangeTextDocument
+[11:30:12] withTelemetry: onDidChangeTextDocument
+[11:30:12] withTelemetry: onDidChangeTextDocument
+[11:30:12] withTelemetry: onDidChangeTextDocument
+[11:30:13] withTelemetry: onDidChangeTextDocument
+[11:30:15] withTelemetry: onDidChangeTextDocument
+[11:30:15] withTelemetry: onDidChangeTextDocument
+[11:30:15] withTelemetry: onDidChangeTextDocument
+[11:30:15] withTelemetry: onDidChangeTextDocument
+[11:30:15] withTelemetry: onDidChangeTextDocument
+[11:30:15] withTelemetry: onDidChangeTextDocument
+[11:30:16] withTelemetry: onDidChangeTextDocument
+[11:30:16] withTelemetry: onDidChangeTextDocument
+[11:30:16] withTelemetry: onDidChangeTextDocument
+[11:30:29] withTelemetry: onDidChangeTextDocument
+[11:30:30] withTelemetry: onDidChangeTextDocument
+[11:30:30] withTelemetry: onDidChangeTextDocument
+[11:30:30] withTelemetry: onDidChangeTextDocument
+[11:30:30] withTelemetry: onDidChangeTextDocument
+[11:30:30] withTelemetry: onDidChangeTextDocument
+[11:30:30] withTelemetry: onDidChangeTextDocument
+[11:30:31] withTelemetry: onDidChangeTextDocument
+[11:30:31] withTelemetry: onDidChangeTextDocument
+[11:30:39] withTelemetry: onDidChangeTextDocument
+[11:30:39] withTelemetry: onDidChangeTextDocument
+[11:30:39] withTelemetry: onDidChangeTextDocument
+[11:30:39] withTelemetry: onDidChangeTextDocument
+[11:30:39] withTelemetry: onDidChangeTextDocument
+[11:30:39] withTelemetry: onDidChangeTextDocument
+[11:30:39] withTelemetry: onDidChangeTextDocument
+[11:30:42] withTelemetry: onDidChangeTextDocument
+[11:31:37] withTelemetry: onDidChangeTextDocument
+[11:31:37] withTelemetry: onDidChangeTextDocument
+[11:31:37] withTelemetry: onDidChangeTextDocument
+[11:31:37] withTelemetry: onDidChangeTextDocument
+[11:31:37] withTelemetry: onDidChangeTextDocument
+[11:31:37] withTelemetry: onDidChangeTextDocument
+[11:31:37] withTelemetry: onDidChangeTextDocument
+[11:31:38] withTelemetry: onDidChangeTextDocument
+[11:31:38] withTelemetry: onDidChangeTextDocument
+[11:31:38] withTelemetry: onDidChangeTextDocument
+[11:31:38] withTelemetry: onDidChangeTextDocument
+[11:31:38] withTelemetry: onDidChangeTextDocument
+[11:31:39] withTelemetry: onDidChangeTextDocument
+[11:31:39] withTelemetry: onDidChangeTextDocument
+[11:31:39] withTelemetry: onDidChangeTextDocument
+[11:31:39] withTelemetry: onDidChangeTextDocument
+[11:31:39] withTelemetry: onDidChangeTextDocument
+[11:31:39] withTelemetry: onDidChangeTextDocument
+[11:31:41] withTelemetry: onDidChangeTextDocument
+[11:31:41] withTelemetry: onDidChangeTextDocument
+[11:31:41] withTelemetry: onDidChangeTextDocument
+[11:31:41] withTelemetry: onDidChangeTextDocument
+[11:31:42] withTelemetry: onDidChangeTextDocument
+[11:31:42] withTelemetry: onDidChangeTextDocument
+[11:31:42] withTelemetry: onDidChangeTextDocument
+[11:31:42] withTelemetry: onDidChangeTextDocument
+[11:31:42] withTelemetry: onDidChangeTextDocument
+[11:31:42] withTelemetry: onDidChangeTextDocument
+[11:31:42] withTelemetry: onDidChangeTextDocument
+[11:31:43] withTelemetry: onDidChangeTextDocument
+[11:31:44] withTelemetry: onDidChangeTextDocument
+[11:33:00] withTelemetry: onDidChangeTextDocument
+[11:33:00] withTelemetry: onDidChangeTextDocument
+[11:33:01] withTelemetry: onDidChangeTextDocument
+[11:33:01] withTelemetry: onDidChangeTextDocument
+[11:33:04] withTelemetry: onDidChangeTextDocument
+[11:33:04] withTelemetry: onDidChangeTextDocument
+[11:33:04] withTelemetry: onDidChangeTextDocument
+[11:33:04] withTelemetry: onDidChangeTextDocument
+[11:33:05] withTelemetry: onDidChangeTextDocument
+[11:33:05] withTelemetry: onDidChangeTextDocument
+[11:33:05] withTelemetry: onDidChangeTextDocument
+[11:33:05] withTelemetry: onDidChangeTextDocument
+[11:33:06] withTelemetry: onDidChangeTextDocument
+[11:33:06] withTelemetry: onDidChangeTextDocument
+[11:33:06] withTelemetry: onDidChangeTextDocument
+[11:33:06] withTelemetry: onDidChangeTextDocument
+[11:33:06] withTelemetry: onDidChangeTextDocument
+[11:33:07] withTelemetry: onDidChangeTextDocument
+[11:33:07] withTelemetry: onDidChangeTextDocument
+[11:33:07] withTelemetry: onDidChangeTextDocument
+[11:33:07] withTelemetry: onDidChangeTextDocument
+[11:33:08] withTelemetry: onDidChangeTextDocument
+[11:33:08] withTelemetry: onDidChangeTextDocument
+[11:33:08] withTelemetry: onDidChangeTextDocument
+[11:33:08] withTelemetry: onDidChangeTextDocument
+[11:33:09] withTelemetry: onDidChangeTextDocument
+[11:33:11] withTelemetry: onDidChangeTextDocument
+[11:33:11] withTelemetry: onDidChangeTextDocument
+[11:33:11] withTelemetry: onDidChangeTextDocument
+[11:33:12] withTelemetry: onDidChangeTextDocument
+[11:33:12] withTelemetry: onDidChangeTextDocument
+[11:33:12] withTelemetry: onDidChangeTextDocument
+[11:33:12] withTelemetry: onDidChangeTextDocument
+[11:33:12] withTelemetry: onDidChangeTextDocument
+[11:33:13] withTelemetry: onDidChangeTextDocument
+[11:33:13] withTelemetry: onDidChangeTextDocument
+[11:33:13] withTelemetry: onDidChangeTextDocument
+[11:33:13] withTelemetry: onDidChangeTextDocument
+[11:33:13] withTelemetry: onDidChangeTextDocument
+[11:33:13] withTelemetry: onDidChangeTextDocument
+[11:33:14] withTelemetry: onDidChangeTextDocument
+[11:33:14] withTelemetry: onDidChangeTextDocument
+[11:33:15] withTelemetry: onDidChangeTextDocument
+[11:33:15] withTelemetry: onDidChangeTextDocument
+[11:33:15] withTelemetry: onDidChangeTextDocument
+[11:33:15] withTelemetry: onDidChangeTextDocument
+[11:33:15] withTelemetry: onDidChangeTextDocument
+[11:33:16] withTelemetry: onDidChangeTextDocument
+[11:33:16] withTelemetry: onDidChangeTextDocument
+[11:33:16] withTelemetry: onDidChangeTextDocument
+[11:33:16] withTelemetry: onDidChangeTextDocument
+[11:33:16] withTelemetry: onDidChangeTextDocument
+[11:33:16] withTelemetry: onDidChangeTextDocument
+[11:33:16] withTelemetry: onDidChangeTextDocument
+[11:33:17] withTelemetry: onDidChangeTextDocument
+[11:33:17] withTelemetry: onDidChangeTextDocument
+[11:33:17] withTelemetry: onDidChangeTextDocument
+[11:33:17] withTelemetry: onDidChangeTextDocument
+[11:33:17] withTelemetry: onDidChangeTextDocument
+[11:33:17] withTelemetry: onDidChangeTextDocument
+[11:33:17] withTelemetry: onDidChangeTextDocument
+[11:33:18] withTelemetry: onDidChangeTextDocument
+[11:33:18] withTelemetry: onDidChangeTextDocument
+[11:33:18] withTelemetry: onDidChangeTextDocument
+[11:33:18] withTelemetry: onDidChangeTextDocument
+[11:33:18] withTelemetry: onDidChangeTextDocument
+[11:33:18] withTelemetry: onDidChangeTextDocument
+[11:33:20] withTelemetry: onDidChangeTextDocument
+[11:33:20] withTelemetry: onDidChangeTextDocument
+[11:33:20] withTelemetry: onDidSaveTextDocument_tex_wordcounter
+[11:33:20] TexCount args: -merge,-brief
+[11:33:21] TeXCount output for word: 58+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[11:33:21] TexCount args: -merge,-brief,-char
+[11:33:21] TeXCount output for char: 421+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[11:33:23] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[11:33:44] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[11:33:44] TexCount args: -merge,-brief
+[11:33:44] TeXCount output for word: 58+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[11:33:44] TexCount args: -merge,-brief,-char
+[11:33:44] TeXCount output for char: 421+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[11:33:50] withTelemetry: onDidChangeTextDocument
+[11:33:50] withTelemetry: onDidChangeTextDocument
+[11:33:50] withTelemetry: onDidChangeTextDocument
+[11:33:51] withTelemetry: onDidChangeTextDocument
+[11:33:51] withTelemetry: onDidChangeTextDocument
+[11:33:51] withTelemetry: onDidChangeTextDocument
+[11:33:52] withTelemetry: onDidChangeTextDocument
+[11:33:52] withTelemetry: onDidChangeTextDocument
+[11:33:53] withTelemetry: onDidChangeTextDocument
+[11:33:53] withTelemetry: onDidChangeTextDocument
+[11:33:55] withTelemetry: onDidChangeTextDocument
+[11:33:57] withTelemetry: onDidChangeTextDocument
+[11:33:58] withTelemetry: onDidChangeTextDocument
+[11:34:01] withTelemetry: onDidChangeTextDocument
+[11:34:01] withTelemetry: onDidChangeTextDocument
+[11:34:01] withTelemetry: onDidSaveTextDocument_tex_wordcounter
+[11:34:01] TexCount args: -merge,-brief
+[11:34:01] TeXCount output for word: 58+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[11:34:01] TexCount args: -merge,-brief,-char
+[11:34:01] TeXCount output for char: 420+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[11:34:02] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[11:34:05] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[11:34:05] TexCount args: -merge,-brief
+[11:34:05] TeXCount output for word: 58+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[11:34:05] TexCount args: -merge,-brief,-char
+[11:34:05] TeXCount output for char: 420+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[11:34:16] withTelemetry: onDidChangeTextDocument
+[11:34:16] withTelemetry: onDidChangeTextDocument
+[11:34:17] withTelemetry: onDidChangeTextDocument
+[11:34:17] withTelemetry: onDidChangeTextDocument
+[11:34:18] withTelemetry: onDidChangeTextDocument
+[11:34:18] withTelemetry: onDidChangeTextDocument
+[11:34:18] withTelemetry: onDidChangeTextDocument
+[11:34:18] withTelemetry: onDidChangeTextDocument
+[11:34:18] withTelemetry: onDidChangeTextDocument
+[11:34:19] withTelemetry: onDidChangeTextDocument
+[11:34:19] withTelemetry: onDidChangeTextDocument
+[11:34:19] withTelemetry: onDidChangeTextDocument
+[11:34:20] withTelemetry: onDidChangeTextDocument
+[11:34:20] withTelemetry: onDidChangeTextDocument
+[11:34:21] withTelemetry: onDidChangeTextDocument
+[11:34:21] withTelemetry: onDidChangeTextDocument
+[11:34:21] withTelemetry: onDidChangeTextDocument
+[11:34:21] withTelemetry: onDidChangeTextDocument
+[11:34:21] withTelemetry: onDidChangeTextDocument
+[11:34:22] withTelemetry: onDidChangeTextDocument
+[11:34:27] withTelemetry: onDidChangeTextDocument
+[11:34:28] withTelemetry: onDidChangeTextDocument
+[11:34:28] withTelemetry: onDidChangeTextDocument
+[11:34:28] withTelemetry: onDidChangeTextDocument
+[11:34:28] withTelemetry: onDidChangeTextDocument
+[11:34:28] withTelemetry: onDidChangeTextDocument
+[11:34:29] withTelemetry: onDidChangeTextDocument
+[11:34:29] withTelemetry: onDidChangeTextDocument
+[11:34:29] withTelemetry: onDidChangeTextDocument
+[11:34:29] withTelemetry: onDidChangeTextDocument
+[11:34:30] withTelemetry: onDidChangeTextDocument
+[11:34:31] withTelemetry: onDidChangeTextDocument
+[11:34:32] withTelemetry: onDidChangeTextDocument
+[11:34:32] withTelemetry: onDidChangeTextDocument
+[11:34:33] withTelemetry: onDidChangeTextDocument
+[11:34:33] withTelemetry: onDidChangeTextDocument
+[11:34:33] withTelemetry: onDidChangeTextDocument
+[11:34:33] withTelemetry: onDidChangeTextDocument
+[11:34:33] withTelemetry: onDidChangeTextDocument
+[11:34:33] withTelemetry: onDidChangeTextDocument
+[11:34:33] withTelemetry: onDidChangeTextDocument
+[11:34:33] withTelemetry: onDidChangeTextDocument
+[11:34:33] withTelemetry: onDidChangeTextDocument
+[11:34:33] withTelemetry: onDidChangeTextDocument
+[11:34:33] withTelemetry: onDidChangeTextDocument
+[11:34:33] withTelemetry: onDidChangeTextDocument
+[11:34:33] withTelemetry: onDidChangeTextDocument
+[11:34:33] withTelemetry: onDidChangeTextDocument
+[11:34:34] withTelemetry: onDidChangeTextDocument
+[11:34:34] withTelemetry: onDidChangeTextDocument
+[11:34:34] withTelemetry: onDidChangeTextDocument
+[11:34:34] withTelemetry: onDidChangeTextDocument
+[11:34:34] withTelemetry: onDidChangeTextDocument
+[11:34:34] withTelemetry: onDidChangeTextDocument
+[11:34:34] withTelemetry: onDidChangeTextDocument
+[11:34:34] withTelemetry: onDidChangeTextDocument
+[11:34:34] withTelemetry: onDidChangeTextDocument
+[11:34:34] withTelemetry: onDidChangeTextDocument
+[11:34:34] withTelemetry: onDidChangeTextDocument
+[11:34:34] withTelemetry: onDidChangeTextDocument
+[11:34:34] withTelemetry: onDidChangeTextDocument
+[11:34:34] withTelemetry: onDidChangeTextDocument
+[11:34:34] withTelemetry: onDidChangeTextDocument
+[11:34:34] withTelemetry: onDidChangeTextDocument
+[11:34:34] withTelemetry: onDidChangeTextDocument
+[11:34:34] withTelemetry: onDidChangeTextDocument
+[11:34:34] withTelemetry: onDidChangeTextDocument
+[11:34:35] withTelemetry: onDidChangeTextDocument
+[11:34:35] withTelemetry: onDidChangeTextDocument
+[11:34:36] withTelemetry: onDidChangeTextDocument
+[11:34:37] withTelemetry: onDidChangeTextDocument
+[11:34:37] withTelemetry: onDidChangeTextDocument
+[11:34:38] withTelemetry: onDidChangeTextDocument
+[11:34:38] withTelemetry: onDidChangeTextDocument
+[11:34:38] withTelemetry: onDidChangeTextDocument
+[11:34:38] withTelemetry: onDidChangeTextDocument
+[11:34:39] withTelemetry: onDidChangeTextDocument
+[11:34:39] withTelemetry: onDidChangeTextDocument
+[11:34:39] withTelemetry: onDidChangeTextDocument
+[11:34:40] withTelemetry: onDidChangeTextDocument
+[11:34:40] withTelemetry: onDidChangeTextDocument
+[11:34:40] withTelemetry: onDidChangeTextDocument
+[11:34:40] withTelemetry: onDidChangeTextDocument
+[11:34:40] withTelemetry: onDidChangeTextDocument
+[11:34:40] withTelemetry: onDidChangeTextDocument
+[11:34:41] withTelemetry: onDidChangeTextDocument
+[11:34:41] withTelemetry: onDidChangeTextDocument
+[11:34:41] withTelemetry: onDidChangeTextDocument
+[11:34:41] withTelemetry: onDidChangeTextDocument
+[11:34:41] withTelemetry: onDidChangeTextDocument
+[11:34:42] withTelemetry: onDidChangeTextDocument
+[11:34:42] withTelemetry: onDidChangeTextDocument
+[11:34:43] withTelemetry: onDidChangeTextDocument
+[11:34:44] withTelemetry: onDidChangeTextDocument
+[11:34:45] withTelemetry: onDidChangeTextDocument
+[11:34:45] withTelemetry: onDidChangeTextDocument
+[11:34:45] withTelemetry: onDidChangeTextDocument
+[11:34:45] withTelemetry: onDidChangeTextDocument
+[11:34:45] withTelemetry: onDidChangeTextDocument
+[11:34:45] withTelemetry: onDidChangeTextDocument
+[11:34:46] withTelemetry: onDidChangeTextDocument
+[11:34:46] withTelemetry: onDidChangeTextDocument
+[11:34:47] withTelemetry: onDidChangeTextDocument
+[11:34:47] withTelemetry: onDidChangeTextDocument
+[11:34:51] withTelemetry: onDidChangeTextDocument
+[11:34:51] withTelemetry: onDidChangeTextDocument
+[11:34:51] withTelemetry: onDidChangeTextDocument
+[11:34:51] withTelemetry: onDidChangeTextDocument
+[11:35:08] withTelemetry: onDidChangeTextDocument
+[11:35:08] withTelemetry: onDidChangeTextDocument
+[11:35:13] withTelemetry: onDidChangeTextDocument
+[11:35:13] withTelemetry: onDidChangeTextDocument
+[11:35:16] withTelemetry: onDidChangeTextDocument
+[11:35:16] withTelemetry: onDidChangeTextDocument
+[11:35:18] withTelemetry: onDidChangeTextDocument
+[11:35:18] withTelemetry: onDidChangeTextDocument
+[11:35:18] withTelemetry: onDidChangeTextDocument
+[11:35:19] withTelemetry: onDidChangeTextDocument
+[11:35:19] withTelemetry: onDidChangeTextDocument
+[11:35:19] withTelemetry: onDidChangeTextDocument
+[11:35:19] withTelemetry: onDidChangeTextDocument
+[11:35:19] withTelemetry: onDidChangeTextDocument
+[11:35:19] withTelemetry: onDidChangeTextDocument
+[11:35:19] withTelemetry: onDidChangeTextDocument
+[11:35:20] withTelemetry: onDidChangeTextDocument
+[11:35:20] withTelemetry: onDidChangeTextDocument
+[11:35:20] withTelemetry: onDidChangeTextDocument
+[11:35:21] withTelemetry: onDidChangeTextDocument
+[11:35:24] withTelemetry: onDidChangeTextDocument
+[11:35:59] withTelemetry: onDidChangeTextDocument
+[11:36:03] withTelemetry: onDidChangeTextDocument
+[11:36:03] withTelemetry: onDidChangeTextDocument
+[11:36:03] withTelemetry: onDidChangeTextDocument
+[11:36:07] withTelemetry: onDidChangeTextDocument
+[11:38:25] withTelemetry: onDidChangeTextDocument
+[11:38:26] withTelemetry: onDidChangeTextDocument
+[11:38:26] withTelemetry: onDidChangeTextDocument
+[11:38:26] withTelemetry: onDidChangeTextDocument
+[11:38:26] withTelemetry: onDidChangeTextDocument
+[11:38:26] withTelemetry: onDidChangeTextDocument
+[11:38:26] withTelemetry: onDidChangeTextDocument
+[11:38:26] withTelemetry: onDidChangeTextDocument
+[11:38:30] withTelemetry: onDidChangeTextDocument
+[11:38:30] withTelemetry: onDidChangeTextDocument
+[11:38:30] withTelemetry: onDidSaveTextDocument_tex_wordcounter
+[11:38:30] TexCount args: -merge,-brief
+[11:38:30] TeXCount output for word: 64+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[11:38:30] TexCount args: -merge,-brief,-char
+[11:38:30] TeXCount output for char: 465+47+0 (1/0/0/0) File: template-pdflatex.tex
+
+[11:38:33] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[11:38:43] withTelemetry: onDidChangeActiveTextEditor_tex_wordcounter
+[11:38:43] TexCount args: -merge,-brief
+[11:38:43] TeXCount output for word: 64+7+0 (1/0/0/0) File: template-pdflatex.tex
+
+[11:38:43] TexCount args: -merge,-brief,-char
+[11:38:43] TeXCount output for char: 465+47+0 (1/0/0/0) File: template-pdflatex.tex
+

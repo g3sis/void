@@ -1,0 +1,29 @@
+2024-02-05 09:48:42.055 [info] Getting Manifest... ms-python.python
+2024-02-05 09:48:42.184 [info] Installing extension: ms-python.python
+2024-02-05 09:48:42.559 [info] Getting Manifest... ms-python.debugpy
+2024-02-05 09:48:42.778 [info] Installing extension: ms-python.debugpy ms-python.python
+2024-02-05 09:48:43.777 [info] Extension signature verification is not done: ms-python.debugpy
+2024-02-05 09:48:44.683 [info] Extracted extension to file:///home/void/.vscode-oss/extensions/ms-python.debugpy-2024.0.0-linux-x64: ms-python.debugpy
+2024-02-05 09:48:44.689 [info] Renamed to /home/void/.vscode-oss/extensions/ms-python.debugpy-2024.0.0-linux-x64
+2024-02-05 09:48:44.692 [info] Extracting extension completed. ms-python.debugpy
+2024-02-05 09:48:44.801 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/void/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/void/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code-oss/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/lib/code-oss/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/lib/code-oss/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/lib/code-oss/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/lib/code-oss/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/lib/code-oss/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2024-02-05 09:48:45.738 [info] Extension signature verification is not done: ms-python.python
+2024-02-05 09:48:48.949 [info] Extracted extension to file:///home/void/.vscode-oss/extensions/ms-python.python-2024.0.0: ms-python.python
+2024-02-05 09:48:48.968 [info] Renamed to /home/void/.vscode-oss/extensions/ms-python.python-2024.0.0
+2024-02-05 09:48:48.975 [info] Extracting extension completed. ms-python.python
+2024-02-05 09:48:48.992 [info] Extension installed successfully: ms-python.debugpy
+2024-02-05 09:48:48.992 [info] Extension installed successfully: ms-python.python
+2024-02-05 09:48:49.003 [info] Marked extension as uninstalled ms-python.python-2023.22.1
+2024-02-05 09:48:49.070 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/void/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/void/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code-oss/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/lib/code-oss/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/lib/code-oss/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/lib/code-oss/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/lib/code-oss/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/lib/code-oss/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)

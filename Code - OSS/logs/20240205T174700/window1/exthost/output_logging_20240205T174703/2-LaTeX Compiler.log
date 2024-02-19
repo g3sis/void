@@ -1,0 +1,1581 @@
+ReadyRc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 6 Nov. 2023. Version 4.81.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  /home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+  TEPandIntegrity.tex
+Category 'changed_user':
+  /home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+  TEPandIntegrity.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+(./IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+(/opt/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ptm.fd)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+-- This is a 10 point document.
+)
+** ATTENTION: Overriding command lockouts (line 2).
+(/opt/texlive/2023/texmf-dist/tex/latex/cite/cite.sty) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/algorithms/algorithmic.sty (/opt/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty) (/opt/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/opt/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/opt/texlive/2023/texmf-dist/tex/latex/base/textcomp.sty) (/opt/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/opt/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def) (./TEPandIntegrity.aux)
+-- Lines per column: 56 (exact).
+(/opt/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/opt/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/opt/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd)
+Underfull \hbox (badness 1584) in paragraph at lines 52--64
+\OT1/ptm/m/n/10 de-signed bit strings known as ``de-lim-iters''. The sender
+
+Underfull \hbox (badness 1371) in paragraph at lines 52--64
+\OT1/ptm/m/n/10 a new con-cept called ``Au-then-ti-ca-tion through pres-ence''
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--64
+
+[1{/opt/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/opt/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}] (/opt/texlive/2023/texmf-dist/tex/latex/psnfss/ot1pcr.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+[]\OT1/pcr/m/n/10 TODO: "Authentication through presence",
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+\OT1/pcr/m/n/10 access points, key establishment over
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+\OT1/pcr/m/n/10 insecure channel, DH-KeyAgreement mit
+
+Underfull \hbox (badness 1552) in paragraph at lines 83--98
+\OT1/ptm/m/n/10 Equal-ity Com-par-i-son'' or short AEC is used to achive
+
+Underfull \hbox (badness 1424) in paragraph at lines 83--98
+\OT1/ptm/m/n/10 con-tain-ing a counter over ev-ery chan-nel while hop-ping
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--98
+\OT1/pcr/m/n/10 TODO: technicalities and security + alles
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 101--109
+[]\OT1/pcr/m/n/10 TODO: klarheit schaffen wie die
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--109
+\OT1/pcr/m/n/10 uebertragungen funktionieren, graphics
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--109
+\OT1/pcr/m/n/10 depth, security analysis of phy-primitive
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--109
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+[]\OT1/pcr/m/n/10 vermutlich mit zu Help als erweiterung
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+[]\OT1/pcr/m/n/10 Aus presentation und paper zusammenbauen
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--120
+[]\OT1/pcr/m/n/10 TODO: vermutlich streichen und lieber
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[3] (./TEPandIntegrity.aux) )
+(see the transcript file for additional information)</opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on TEPandIntegrity.pdf (3 pages, 147429 bytes).
+SyncTeX written on TEPandIntegrity.synctex.gz.
+Transcript written on TEPandIntegrity.log.
+Latexmk: Getting log file 'TEPandIntegrity.log'
+Latexmk: Examining 'TEPandIntegrity.fls'
+Latexmk: Examining 'TEPandIntegrity.log'
+Latexmk: Log file says output to 'TEPandIntegrity.pdf'
+Latexmk: All targets () are up-to-date
+
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 6 Nov. 2023. Version 4.81.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  /home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+  TEPandIntegrity.tex
+Category 'changed_user':
+  /home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+  TEPandIntegrity.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+(./IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+(/opt/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ptm.fd)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+-- This is a 10 point document.
+)
+** ATTENTION: Overriding command lockouts (line 2).
+(/opt/texlive/2023/texmf-dist/tex/latex/cite/cite.sty) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/algorithms/algorithmic.sty (/opt/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty) (/opt/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/opt/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/opt/texlive/2023/texmf-dist/tex/latex/base/textcomp.sty) (/opt/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/opt/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def) (./TEPandIntegrity.aux)
+-- Lines per column: 56 (exact).
+(/opt/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/opt/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/opt/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd)
+Underfull \hbox (badness 1584) in paragraph at lines 51--63
+\OT1/ptm/m/n/10 de-signed bit strings known as ``de-lim-iters''. The sender
+
+Underfull \hbox (badness 1371) in paragraph at lines 51--63
+\OT1/ptm/m/n/10 a new con-cept called ``Au-then-ti-ca-tion through pres-ence''
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--63
+
+[1{/opt/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/opt/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}] (/opt/texlive/2023/texmf-dist/tex/latex/psnfss/ot1pcr.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+[]\OT1/pcr/m/n/10 TODO: "Authentication through presence",
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+\OT1/pcr/m/n/10 access points, key establishment over
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+\OT1/pcr/m/n/10 insecure channel, DH-KeyAgreement mit
+
+Underfull \hbox (badness 1552) in paragraph at lines 82--97
+\OT1/ptm/m/n/10 Equal-ity Com-par-i-son'' or short AEC is used to achive
+
+Underfull \hbox (badness 1424) in paragraph at lines 82--97
+\OT1/ptm/m/n/10 con-tain-ing a counter over ev-ery chan-nel while hop-ping
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--97
+\OT1/pcr/m/n/10 TODO: technicalities and security + alles
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 100--108
+[]\OT1/pcr/m/n/10 TODO: klarheit schaffen wie die
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--108
+\OT1/pcr/m/n/10 uebertragungen funktionieren, graphics
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--108
+\OT1/pcr/m/n/10 depth, security analysis of phy-primitive
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--108
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+[]\OT1/pcr/m/n/10 vermutlich mit zu Help als erweiterung
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+[]\OT1/pcr/m/n/10 Aus presentation und paper zusammenbauen
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--119
+[]\OT1/pcr/m/n/10 TODO: vermutlich streichen und lieber
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[3] (./TEPandIntegrity.aux) )
+(see the transcript file for additional information)</opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on TEPandIntegrity.pdf (3 pages, 147514 bytes).
+SyncTeX written on TEPandIntegrity.synctex.gz.
+Transcript written on TEPandIntegrity.log.
+Latexmk: Getting log file 'TEPandIntegrity.log'
+Latexmk: Examining 'TEPandIntegrity.fls'
+Latexmk: Examining 'TEPandIntegrity.log'
+Latexmk: Log file says output to 'TEPandIntegrity.pdf'
+Latexmk: All targets () are up-to-date
+
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 6 Nov. 2023. Version 4.81.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  /home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+  TEPandIntegrity.tex
+Category 'changed_user':
+  /home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+  TEPandIntegrity.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+(./IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+(/opt/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ptm.fd)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+-- This is a 10 point document.
+)
+** ATTENTION: Overriding command lockouts (line 2).
+(/opt/texlive/2023/texmf-dist/tex/latex/cite/cite.sty) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/algorithms/algorithmic.sty (/opt/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty) (/opt/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/opt/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/opt/texlive/2023/texmf-dist/tex/latex/base/textcomp.sty) (/opt/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/opt/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def) (./TEPandIntegrity.aux)
+-- Lines per column: 56 (exact).
+(/opt/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/opt/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/opt/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd)
+Underfull \hbox (badness 1584) in paragraph at lines 47--59
+\OT1/ptm/m/n/10 de-signed bit strings known as ``de-lim-iters''. The sender
+
+Underfull \hbox (badness 1371) in paragraph at lines 47--59
+\OT1/ptm/m/n/10 a new con-cept called ``Au-then-ti-ca-tion through pres-ence''
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--59
+
+[1{/opt/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/opt/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}] (/opt/texlive/2023/texmf-dist/tex/latex/psnfss/ot1pcr.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+[]\OT1/pcr/m/n/10 TODO: "Authentication through presence",
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+\OT1/pcr/m/n/10 access points, key establishment over
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+\OT1/pcr/m/n/10 insecure channel, DH-KeyAgreement mit
+
+Underfull \hbox (badness 1552) in paragraph at lines 78--93
+\OT1/ptm/m/n/10 Equal-ity Com-par-i-son'' or short AEC is used to achive
+
+Underfull \hbox (badness 1424) in paragraph at lines 78--93
+\OT1/ptm/m/n/10 con-tain-ing a counter over ev-ery chan-nel while hop-ping
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--93
+\OT1/pcr/m/n/10 TODO: technicalities and security + alles
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 96--104
+[]\OT1/pcr/m/n/10 TODO: klarheit schaffen wie die
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--104
+\OT1/pcr/m/n/10 uebertragungen funktionieren, graphics
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--104
+\OT1/pcr/m/n/10 depth, security analysis of phy-primitive
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--104
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
+[]\OT1/pcr/m/n/10 vermutlich mit zu Help als erweiterung
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+[]\OT1/pcr/m/n/10 Aus presentation und paper zusammenbauen
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--115
+[]\OT1/pcr/m/n/10 TODO: vermutlich streichen und lieber
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[3] (./TEPandIntegrity.aux) )
+(see the transcript file for additional information)</opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on TEPandIntegrity.pdf (3 pages, 147447 bytes).
+SyncTeX written on TEPandIntegrity.synctex.gz.
+Transcript written on TEPandIntegrity.log.
+Latexmk: Getting log file 'TEPandIntegrity.log'
+Latexmk: Examining 'TEPandIntegrity.fls'
+Latexmk: Examining 'TEPandIntegrity.log'
+Latexmk: Log file says output to 'TEPandIntegrity.pdf'
+Latexmk: All targets () are up-to-date
+
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 6 Nov. 2023. Version 4.81.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  /home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+  TEPandIntegrity.tex
+Category 'changed_user':
+  /home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+  TEPandIntegrity.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+(./IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+(/opt/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ptm.fd)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+-- This is a 10 point document.
+)
+** ATTENTION: Overriding command lockouts (line 2).
+(/opt/texlive/2023/texmf-dist/tex/latex/cite/cite.sty) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/algorithms/algorithmic.sty (/opt/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty) (/opt/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/opt/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/opt/texlive/2023/texmf-dist/tex/latex/base/textcomp.sty) (/opt/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/opt/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def) (./TEPandIntegrity.aux)
+-- Lines per column: 56 (exact).
+(/opt/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/opt/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/opt/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd)
+Underfull \hbox (badness 1584) in paragraph at lines 55--67
+\OT1/ptm/m/n/10 de-signed bit strings known as ``de-lim-iters''. The sender
+
+Underfull \hbox (badness 1371) in paragraph at lines 55--67
+\OT1/ptm/m/n/10 a new con-cept called ``Au-then-ti-ca-tion through pres-ence''
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--67
+
+[1{/opt/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/opt/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}] (/opt/texlive/2023/texmf-dist/tex/latex/psnfss/ot1pcr.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+[]\OT1/pcr/m/n/10 TODO: "Authentication through presence",
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\OT1/pcr/m/n/10 access points, key establishment over
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\OT1/pcr/m/n/10 insecure channel, DH-KeyAgreement mit
+
+Underfull \hbox (badness 1552) in paragraph at lines 86--101
+\OT1/ptm/m/n/10 Equal-ity Com-par-i-son'' or short AEC is used to achive
+
+Underfull \hbox (badness 1424) in paragraph at lines 86--101
+\OT1/ptm/m/n/10 con-tain-ing a counter over ev-ery chan-nel while hop-ping
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--101
+\OT1/pcr/m/n/10 TODO: technicalities and security + alles
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 104--112
+[]\OT1/pcr/m/n/10 TODO: klarheit schaffen wie die
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--112
+\OT1/pcr/m/n/10 uebertragungen funktionieren, graphics
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--112
+\OT1/pcr/m/n/10 depth, security analysis of phy-primitive
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--112
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+[]\OT1/pcr/m/n/10 vermutlich mit zu Help als erweiterung
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+[]\OT1/pcr/m/n/10 Aus presentation und paper zusammenbauen
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--123
+[]\OT1/pcr/m/n/10 TODO: vermutlich streichen und lieber
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[3] (./TEPandIntegrity.aux) )
+(see the transcript file for additional information)</opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on TEPandIntegrity.pdf (3 pages, 147645 bytes).
+SyncTeX written on TEPandIntegrity.synctex.gz.
+Transcript written on TEPandIntegrity.log.
+Latexmk: Getting log file 'TEPandIntegrity.log'
+Latexmk: Examining 'TEPandIntegrity.fls'
+Latexmk: Examining 'TEPandIntegrity.log'
+Latexmk: Log file says output to 'TEPandIntegrity.pdf'
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  TEPandIntegrity.aux
+
+------------
+Run number 2 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+(./IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+(/opt/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ptm.fd)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+-- This is a 10 point document.
+)
+** ATTENTION: Overriding command lockouts (line 2).
+(/opt/texlive/2023/texmf-dist/tex/latex/cite/cite.sty) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/algorithms/algorithmic.sty (/opt/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty) (/opt/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/opt/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/opt/texlive/2023/texmf-dist/tex/latex/base/textcomp.sty) (/opt/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/opt/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def) (./TEPandIntegrity.aux)
+-- Lines per column: 56 (exact).
+(/opt/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/opt/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/opt/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd)
+Underfull \hbox (badness 1584) in paragraph at lines 55--67
+\OT1/ptm/m/n/10 de-signed bit strings known as ``de-lim-iters''. The sender
+
+Underfull \hbox (badness 1371) in paragraph at lines 55--67
+\OT1/ptm/m/n/10 a new con-cept called ``Au-then-ti-ca-tion through pres-ence''
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--67
+
+[1{/opt/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/opt/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}] (/opt/texlive/2023/texmf-dist/tex/latex/psnfss/ot1pcr.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+[]\OT1/pcr/m/n/10 TODO: "Authentication through presence",
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\OT1/pcr/m/n/10 access points, key establishment over
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\OT1/pcr/m/n/10 insecure channel, DH-KeyAgreement mit
+
+Underfull \hbox (badness 1552) in paragraph at lines 86--101
+\OT1/ptm/m/n/10 Equal-ity Com-par-i-son'' or short AEC is used to achive
+
+Underfull \hbox (badness 1424) in paragraph at lines 86--101
+\OT1/ptm/m/n/10 con-tain-ing a counter over ev-ery chan-nel while hop-ping
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--101
+\OT1/pcr/m/n/10 TODO: technicalities and security + alles
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 104--112
+[]\OT1/pcr/m/n/10 TODO: klarheit schaffen wie die
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--112
+\OT1/pcr/m/n/10 uebertragungen funktionieren, graphics
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--112
+\OT1/pcr/m/n/10 depth, security analysis of phy-primitive
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--112
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+[]\OT1/pcr/m/n/10 vermutlich mit zu Help als erweiterung
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+[]\OT1/pcr/m/n/10 Aus presentation und paper zusammenbauen
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--123
+[]\OT1/pcr/m/n/10 TODO: vermutlich streichen und lieber
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[3] (./TEPandIntegrity.aux) )
+(see the transcript file for additional information)</opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on TEPandIntegrity.pdf (3 pages, 147645 bytes).
+SyncTeX written on TEPandIntegrity.synctex.gz.
+Transcript written on TEPandIntegrity.log.
+Latexmk: Getting log file 'TEPandIntegrity.log'
+Latexmk: Examining 'TEPandIntegrity.fls'
+Latexmk: Examining 'TEPandIntegrity.log'
+Latexmk: Log file says output to 'TEPandIntegrity.pdf'
+Latexmk: All targets () are up-to-date
+
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 6 Nov. 2023. Version 4.81.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  /home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+  TEPandIntegrity.tex
+Category 'changed_user':
+  /home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+  TEPandIntegrity.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+(./IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+(/opt/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ptm.fd)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+-- This is a 10 point document.
+)
+** ATTENTION: Overriding command lockouts (line 2).
+(/opt/texlive/2023/texmf-dist/tex/latex/cite/cite.sty) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/algorithms/algorithmic.sty (/opt/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty) (/opt/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/opt/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/opt/texlive/2023/texmf-dist/tex/latex/base/textcomp.sty) (/opt/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/opt/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def) (./TEPandIntegrity.aux)
+-- Lines per column: 56 (exact).
+(/opt/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/opt/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/opt/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd)
+Underfull \hbox (badness 1584) in paragraph at lines 55--67
+\OT1/ptm/m/n/10 de-signed bit strings known as ``de-lim-iters''. The sender
+
+Underfull \hbox (badness 1371) in paragraph at lines 55--67
+\OT1/ptm/m/n/10 a new con-cept called ``Au-then-ti-ca-tion through pres-ence''
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--67
+
+[1{/opt/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/opt/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}] (/opt/texlive/2023/texmf-dist/tex/latex/psnfss/ot1pcr.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+[]\OT1/pcr/m/n/10 TODO: "Authentication through presence",
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\OT1/pcr/m/n/10 access points, key establishment over
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\OT1/pcr/m/n/10 insecure channel, DH-KeyAgreement mit
+
+Underfull \hbox (badness 1552) in paragraph at lines 86--101
+\OT1/ptm/m/n/10 Equal-ity Com-par-i-son'' or short AEC is used to achive
+
+Underfull \hbox (badness 1424) in paragraph at lines 86--101
+\OT1/ptm/m/n/10 con-tain-ing a counter over ev-ery chan-nel while hop-ping
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--101
+\OT1/pcr/m/n/10 TODO: technicalities and security + alles
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 104--112
+[]\OT1/pcr/m/n/10 TODO: klarheit schaffen wie die
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--112
+\OT1/pcr/m/n/10 uebertragungen funktionieren, graphics
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--112
+\OT1/pcr/m/n/10 depth, security analysis of phy-primitive
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--112
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+[]\OT1/pcr/m/n/10 vermutlich mit zu Help als erweiterung
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+[]\OT1/pcr/m/n/10 Aus presentation und paper zusammenbauen
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--123
+[]\OT1/pcr/m/n/10 TODO: vermutlich streichen und lieber
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[3] (./TEPandIntegrity.aux) )
+(see the transcript file for additional information)</opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on TEPandIntegrity.pdf (3 pages, 148010 bytes).
+SyncTeX written on TEPandIntegrity.synctex.gz.
+Transcript written on TEPandIntegrity.log.
+Latexmk: Getting log file 'TEPandIntegrity.log'
+Latexmk: Examining 'TEPandIntegrity.fls'
+Latexmk: Examining 'TEPandIntegrity.log'
+Latexmk: Log file says output to 'TEPandIntegrity.pdf'
+Latexmk: All targets () are up-to-date
+
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 6 Nov. 2023. Version 4.81.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  /home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+Category 'changed_user':
+  /home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+(./IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+(/opt/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ptm.fd)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+-- This is a 10 point document.
+)
+** ATTENTION: Overriding command lockouts (line 2).
+(/opt/texlive/2023/texmf-dist/tex/latex/cite/cite.sty) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/algorithms/algorithmic.sty (/opt/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty) (/opt/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/opt/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/opt/texlive/2023/texmf-dist/tex/latex/base/textcomp.sty) (/opt/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/opt/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def) (./TEPandIntegrity.aux)
+-- Lines per column: 56 (exact).
+(/opt/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/opt/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/opt/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd)
+Underfull \hbox (badness 1721) in paragraph at lines 55--67
+\OT1/ptm/m/n/10 by the re-ceiver. The com-ple-men-tary en-cod-ing used for
+
+Underfull \hbox (badness 1584) in paragraph at lines 55--67
+\OT1/ptm/m/n/10 de-signed bit strings known as ``de-lim-iters''. The sender
+
+Underfull \hbox (badness 1371) in paragraph at lines 55--67
+\OT1/ptm/m/n/10 a new con-cept called ``Au-then-ti-ca-tion through pres-ence''
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--67
+
+[1{/opt/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/opt/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}] (/opt/texlive/2023/texmf-dist/tex/latex/psnfss/ot1pcr.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+[]\OT1/pcr/m/n/10 TODO: "Authentication through presence",
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\OT1/pcr/m/n/10 access points, key establishment over
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\OT1/pcr/m/n/10 insecure channel, DH-KeyAgreement mit
+
+Underfull \hbox (badness 1552) in paragraph at lines 86--101
+\OT1/ptm/m/n/10 Equal-ity Com-par-i-son'' or short AEC is used to achive
+
+Underfull \hbox (badness 1424) in paragraph at lines 86--101
+\OT1/ptm/m/n/10 con-tain-ing a counter over ev-ery chan-nel while hop-ping
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--101
+\OT1/pcr/m/n/10 TODO: technicalities and security + alles
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 104--112
+[]\OT1/pcr/m/n/10 TODO: klarheit schaffen wie die
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--112
+\OT1/pcr/m/n/10 uebertragungen funktionieren, graphics
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--112
+\OT1/pcr/m/n/10 depth, security analysis of phy-primitive
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--112
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+[]\OT1/pcr/m/n/10 vermutlich mit zu Help als erweiterung
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+[]\OT1/pcr/m/n/10 Aus presentation und paper zusammenbauen
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--123
+[]\OT1/pcr/m/n/10 TODO: vermutlich streichen und lieber
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[4] (./TEPandIntegrity.aux) )
+(see the transcript file for additional information)</opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on TEPandIntegrity.pdf (4 pages, 149810 bytes).
+SyncTeX written on TEPandIntegrity.synctex.gz.
+Transcript written on TEPandIntegrity.log.
+Latexmk: Getting log file 'TEPandIntegrity.log'
+Latexmk: Examining 'TEPandIntegrity.fls'
+Latexmk: Examining 'TEPandIntegrity.log'
+Latexmk: Log file says output to 'TEPandIntegrity.pdf'
+Latexmk: All targets () are up-to-date
+
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 6 Nov. 2023. Version 4.81.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  /home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+  TEPandIntegrity.tex
+Category 'changed_user':
+  /home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+  TEPandIntegrity.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+(./IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+(/opt/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ptm.fd)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+-- This is a 10 point document.
+)
+** ATTENTION: Overriding command lockouts (line 2).
+(/opt/texlive/2023/texmf-dist/tex/latex/cite/cite.sty) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/algorithms/algorithmic.sty (/opt/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty) (/opt/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/opt/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/opt/texlive/2023/texmf-dist/tex/latex/base/textcomp.sty) (/opt/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/opt/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def) (./TEPandIntegrity.aux)
+-- Lines per column: 56 (exact).
+(/opt/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/opt/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/opt/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd)
+Underfull \hbox (badness 1721) in paragraph at lines 55--67
+\OT1/ptm/m/n/10 the en-closed mes-sage. If the mes-sage can be de-coded
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--67
+
+[1{/opt/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/opt/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}] (/opt/texlive/2023/texmf-dist/tex/latex/psnfss/ot1pcr.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+[]\OT1/pcr/m/n/10 TODO: "Authentication through presence",
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\OT1/pcr/m/n/10 access points, key establishment over
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+\OT1/pcr/m/n/10 insecure channel, DH-KeyAgreement mit
+
+Underfull \hbox (badness 1552) in paragraph at lines 86--101
+\OT1/ptm/m/n/10 Equal-ity Com-par-i-son'' or short AEC is used to achive
+
+Underfull \hbox (badness 1424) in paragraph at lines 86--101
+\OT1/ptm/m/n/10 con-tain-ing a counter over ev-ery chan-nel while hop-ping
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--101
+\OT1/pcr/m/n/10 TODO: technicalities and security + alles
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 104--112
+[]\OT1/pcr/m/n/10 TODO: klarheit schaffen wie die
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--112
+\OT1/pcr/m/n/10 uebertragungen funktionieren, graphics
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--112
+\OT1/pcr/m/n/10 depth, security analysis of phy-primitive
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--112
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+[]\OT1/pcr/m/n/10 vermutlich mit zu Help als erweiterung
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+[]\OT1/pcr/m/n/10 Aus presentation und paper zusammenbauen
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--123
+[]\OT1/pcr/m/n/10 TODO: vermutlich streichen und lieber
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[4] (./TEPandIntegrity.aux) )
+(see the transcript file for additional information)</opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on TEPandIntegrity.pdf (4 pages, 149829 bytes).
+SyncTeX written on TEPandIntegrity.synctex.gz.
+Transcript written on TEPandIntegrity.log.
+Latexmk: Getting log file 'TEPandIntegrity.log'
+Latexmk: Examining 'TEPandIntegrity.fls'
+Latexmk: Examining 'TEPandIntegrity.log'
+Latexmk: Log file says output to 'TEPandIntegrity.pdf'
+Latexmk: All targets () are up-to-date
+
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 6 Nov. 2023. Version 4.81.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  /home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+  TEPandIntegrity.tex
+Category 'changed_user':
+  /home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+  TEPandIntegrity.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+(./IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+(/opt/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ptm.fd)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+-- This is a 10 point document.
+)
+** ATTENTION: Overriding command lockouts (line 2).
+(/opt/texlive/2023/texmf-dist/tex/latex/cite/cite.sty) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/algorithms/algorithmic.sty (/opt/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty) (/opt/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/opt/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/opt/texlive/2023/texmf-dist/tex/latex/base/textcomp.sty) (/opt/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/opt/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def) (./TEPandIntegrity.aux)
+-- Lines per column: 56 (exact).
+(/opt/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/opt/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/opt/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd)
+Overfull \hbox (6.0pt too wide) in paragraph at lines 55--68
+[]
+
+Underfull \hbox (badness 1721) in paragraph at lines 55--68
+\OT1/ptm/m/n/10 the en-closed mes-sage. If the mes-sage can be de-coded
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--68
+
+[1{/opt/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/opt/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}] (/opt/texlive/2023/texmf-dist/tex/latex/psnfss/ot1pcr.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+[]\OT1/pcr/m/n/10 TODO: "Authentication through presence",
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+\OT1/pcr/m/n/10 access points, key establishment over
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+\OT1/pcr/m/n/10 insecure channel, DH-KeyAgreement mit
+[2 <./img/ICodes.png>]
+Underfull \hbox (badness 1552) in paragraph at lines 87--102
+\OT1/ptm/m/n/10 Equal-ity Com-par-i-son'' or short AEC is used to achive
+
+Underfull \hbox (badness 1424) in paragraph at lines 87--102
+\OT1/ptm/m/n/10 con-tain-ing a counter over ev-ery chan-nel while hop-ping
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--102
+\OT1/pcr/m/n/10 TODO: technicalities and security + alles
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--113
+[]\OT1/pcr/m/n/10 TODO: klarheit schaffen wie die
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--113
+\OT1/pcr/m/n/10 uebertragungen funktionieren, graphics
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--113
+\OT1/pcr/m/n/10 depth, security analysis of phy-primitive
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--113
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+[]\OT1/pcr/m/n/10 vermutlich mit zu Help als erweiterung
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
+[]\OT1/pcr/m/n/10 Aus presentation und paper zusammenbauen
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--124
+[]\OT1/pcr/m/n/10 TODO: vermutlich streichen und lieber
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[4] (./TEPandIntegrity.aux) )
+(see the transcript file for additional information)</opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on TEPandIntegrity.pdf (4 pages, 180196 bytes).
+SyncTeX written on TEPandIntegrity.synctex.gz.
+Transcript written on TEPandIntegrity.log.
+Latexmk: Getting log file 'TEPandIntegrity.log'
+Latexmk: Examining 'TEPandIntegrity.fls'
+Latexmk: Examining 'TEPandIntegrity.log'
+Latexmk: Log file says output to 'TEPandIntegrity.pdf'
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  TEPandIntegrity.aux
+
+------------
+Run number 2 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+(./IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+(/opt/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ptm.fd)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+-- This is a 10 point document.
+)
+** ATTENTION: Overriding command lockouts (line 2).
+(/opt/texlive/2023/texmf-dist/tex/latex/cite/cite.sty) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/algorithms/algorithmic.sty (/opt/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty) (/opt/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/opt/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/opt/texlive/2023/texmf-dist/tex/latex/base/textcomp.sty) (/opt/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/opt/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def) (./TEPandIntegrity.aux)
+-- Lines per column: 56 (exact).
+(/opt/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/opt/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/opt/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd)
+Overfull \hbox (6.0pt too wide) in paragraph at lines 55--68
+[]
+
+Underfull \hbox (badness 1721) in paragraph at lines 55--68
+\OT1/ptm/m/n/10 the en-closed mes-sage. If the mes-sage can be de-coded
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--68
+
+[1{/opt/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/opt/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}] (/opt/texlive/2023/texmf-dist/tex/latex/psnfss/ot1pcr.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+[]\OT1/pcr/m/n/10 TODO: "Authentication through presence",
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+\OT1/pcr/m/n/10 access points, key establishment over
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+\OT1/pcr/m/n/10 insecure channel, DH-KeyAgreement mit
+[2 <./img/ICodes.png>]
+Underfull \hbox (badness 1552) in paragraph at lines 87--102
+\OT1/ptm/m/n/10 Equal-ity Com-par-i-son'' or short AEC is used to achive
+
+Underfull \hbox (badness 1424) in paragraph at lines 87--102
+\OT1/ptm/m/n/10 con-tain-ing a counter over ev-ery chan-nel while hop-ping
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--102
+\OT1/pcr/m/n/10 TODO: technicalities and security + alles
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--113
+[]\OT1/pcr/m/n/10 TODO: klarheit schaffen wie die
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--113
+\OT1/pcr/m/n/10 uebertragungen funktionieren, graphics
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--113
+\OT1/pcr/m/n/10 depth, security analysis of phy-primitive
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--113
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+[]\OT1/pcr/m/n/10 vermutlich mit zu Help als erweiterung
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
+[]\OT1/pcr/m/n/10 Aus presentation und paper zusammenbauen
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--124
+[]\OT1/pcr/m/n/10 TODO: vermutlich streichen und lieber
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[4] (./TEPandIntegrity.aux) )
+(see the transcript file for additional information)</opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on TEPandIntegrity.pdf (4 pages, 180196 bytes).
+SyncTeX written on TEPandIntegrity.synctex.gz.
+Transcript written on TEPandIntegrity.log.
+Latexmk: Getting log file 'TEPandIntegrity.log'
+Latexmk: Examining 'TEPandIntegrity.fls'
+Latexmk: Examining 'TEPandIntegrity.log'
+Latexmk: Log file says output to 'TEPandIntegrity.pdf'
+Latexmk: All targets () are up-to-date
+
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 6 Nov. 2023. Version 4.81.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  /home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+  TEPandIntegrity.tex
+Category 'changed_user':
+  /home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+  TEPandIntegrity.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+(./IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+(/opt/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ptm.fd)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+-- This is a 10 point document.
+)
+** ATTENTION: Overriding command lockouts (line 2).
+(/opt/texlive/2023/texmf-dist/tex/latex/cite/cite.sty) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/algorithms/algorithmic.sty (/opt/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty) (/opt/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/opt/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/opt/texlive/2023/texmf-dist/tex/latex/base/textcomp.sty) (/opt/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/opt/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def) (./TEPandIntegrity.aux)
+-- Lines per column: 56 (exact).
+(/opt/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/opt/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/opt/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd)
+Overfull \hbox (6.0pt too wide) in paragraph at lines 62--63
+[][] 
+
+Underfull \hbox (badness 1721) in paragraph at lines 55--71
+\OT1/ptm/m/n/10 the en-closed mes-sage. If the mes-sage can be de-coded
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--71
+
+[1{/opt/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/opt/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}] (/opt/texlive/2023/texmf-dist/tex/latex/psnfss/ot1pcr.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+[]\OT1/pcr/m/n/10 TODO: "Authentication through presence",
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+\OT1/pcr/m/n/10 access points, key establishment over
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+\OT1/pcr/m/n/10 insecure channel, DH-KeyAgreement mit
+[2 <./img/ICodes.png>]
+Underfull \hbox (badness 1552) in paragraph at lines 90--105
+\OT1/ptm/m/n/10 Equal-ity Com-par-i-son'' or short AEC is used to achive
+
+Underfull \hbox (badness 1424) in paragraph at lines 90--105
+\OT1/ptm/m/n/10 con-tain-ing a counter over ev-ery chan-nel while hop-ping
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--105
+\OT1/pcr/m/n/10 TODO: technicalities and security + alles
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--116
+[]\OT1/pcr/m/n/10 TODO: klarheit schaffen wie die
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--116
+\OT1/pcr/m/n/10 uebertragungen funktionieren, graphics
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--116
+\OT1/pcr/m/n/10 depth, security analysis of phy-primitive
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--116
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
+[]\OT1/pcr/m/n/10 vermutlich mit zu Help als erweiterung
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+[]\OT1/pcr/m/n/10 Aus presentation und paper zusammenbauen
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--127
+[]\OT1/pcr/m/n/10 TODO: vermutlich streichen und lieber
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[4] (./TEPandIntegrity.aux) )
+(see the transcript file for additional information)</opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on TEPandIntegrity.pdf (4 pages, 180245 bytes).
+SyncTeX written on TEPandIntegrity.synctex.gz.
+Transcript written on TEPandIntegrity.log.
+Latexmk: Getting log file 'TEPandIntegrity.log'
+Latexmk: Examining 'TEPandIntegrity.fls'
+Latexmk: Examining 'TEPandIntegrity.log'
+Latexmk: Log file says output to 'TEPandIntegrity.pdf'
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  TEPandIntegrity.aux
+
+------------
+Run number 2 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+(./IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+(/opt/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ptm.fd)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+-- This is a 10 point document.
+)
+** ATTENTION: Overriding command lockouts (line 2).
+(/opt/texlive/2023/texmf-dist/tex/latex/cite/cite.sty) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/algorithms/algorithmic.sty (/opt/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty) (/opt/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/opt/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/opt/texlive/2023/texmf-dist/tex/latex/base/textcomp.sty) (/opt/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/opt/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def) (./TEPandIntegrity.aux)
+-- Lines per column: 56 (exact).
+(/opt/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/opt/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/opt/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd)
+Overfull \hbox (6.0pt too wide) in paragraph at lines 62--63
+[][] 
+
+Underfull \hbox (badness 1721) in paragraph at lines 55--71
+\OT1/ptm/m/n/10 the en-closed mes-sage. If the mes-sage can be de-coded
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--71
+
+[1{/opt/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/opt/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}] (/opt/texlive/2023/texmf-dist/tex/latex/psnfss/ot1pcr.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+[]\OT1/pcr/m/n/10 TODO: "Authentication through presence",
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+\OT1/pcr/m/n/10 access points, key establishment over
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+\OT1/pcr/m/n/10 insecure channel, DH-KeyAgreement mit
+[2 <./img/ICodes.png>]
+Underfull \hbox (badness 1552) in paragraph at lines 90--105
+\OT1/ptm/m/n/10 Equal-ity Com-par-i-son'' or short AEC is used to achive
+
+Underfull \hbox (badness 1424) in paragraph at lines 90--105
+\OT1/ptm/m/n/10 con-tain-ing a counter over ev-ery chan-nel while hop-ping
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--105
+\OT1/pcr/m/n/10 TODO: technicalities and security + alles
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--116
+[]\OT1/pcr/m/n/10 TODO: klarheit schaffen wie die
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--116
+\OT1/pcr/m/n/10 uebertragungen funktionieren, graphics
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--116
+\OT1/pcr/m/n/10 depth, security analysis of phy-primitive
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--116
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
+[]\OT1/pcr/m/n/10 vermutlich mit zu Help als erweiterung
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+[]\OT1/pcr/m/n/10 Aus presentation und paper zusammenbauen
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--127
+[]\OT1/pcr/m/n/10 TODO: vermutlich streichen und lieber
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[4] (./TEPandIntegrity.aux) )
+(see the transcript file for additional information)</opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on TEPandIntegrity.pdf (4 pages, 180245 bytes).
+SyncTeX written on TEPandIntegrity.synctex.gz.
+Transcript written on TEPandIntegrity.log.
+Latexmk: Getting log file 'TEPandIntegrity.log'
+Latexmk: Examining 'TEPandIntegrity.fls'
+Latexmk: Examining 'TEPandIntegrity.log'
+Latexmk: Log file says output to 'TEPandIntegrity.pdf'
+Latexmk: All targets () are up-to-date
+
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 6 Nov. 2023. Version 4.81.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  /home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+  TEPandIntegrity.tex
+Category 'changed_user':
+  /home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+  TEPandIntegrity.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+(./IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+(/opt/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ptm.fd)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+-- This is a 10 point document.
+)
+** ATTENTION: Overriding command lockouts (line 2).
+(/opt/texlive/2023/texmf-dist/tex/latex/cite/cite.sty) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/algorithms/algorithmic.sty (/opt/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty) (/opt/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/opt/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/opt/texlive/2023/texmf-dist/tex/latex/base/textcomp.sty) (/opt/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/opt/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def) (./TEPandIntegrity.aux)
+-- Lines per column: 56 (exact).
+(/opt/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/opt/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/opt/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd)
+Underfull \hbox (badness 1721) in paragraph at lines 55--71
+\OT1/ptm/m/n/10 the en-closed mes-sage. If the mes-sage can be de-coded
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--71
+
+[1{/opt/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/opt/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}] (/opt/texlive/2023/texmf-dist/tex/latex/psnfss/ot1pcr.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+[]\OT1/pcr/m/n/10 TODO: "Authentication through presence",
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+\OT1/pcr/m/n/10 access points, key establishment over
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+\OT1/pcr/m/n/10 insecure channel, DH-KeyAgreement mit
+[2 <./img/ICodes.png>]
+Underfull \hbox (badness 1552) in paragraph at lines 90--105
+\OT1/ptm/m/n/10 Equal-ity Com-par-i-son'' or short AEC is used to achive
+
+Underfull \hbox (badness 1424) in paragraph at lines 90--105
+\OT1/ptm/m/n/10 con-tain-ing a counter over ev-ery chan-nel while hop-ping
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--105
+\OT1/pcr/m/n/10 TODO: technicalities and security + alles
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--116
+[]\OT1/pcr/m/n/10 TODO: klarheit schaffen wie die
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--116
+\OT1/pcr/m/n/10 uebertragungen funktionieren, graphics
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--116
+\OT1/pcr/m/n/10 depth, security analysis of phy-primitive
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--116
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
+[]\OT1/pcr/m/n/10 vermutlich mit zu Help als erweiterung
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+[]\OT1/pcr/m/n/10 Aus presentation und paper zusammenbauen
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--127
+[]\OT1/pcr/m/n/10 TODO: vermutlich streichen und lieber
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[4] (./TEPandIntegrity.aux) )
+(see the transcript file for additional information)</opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on TEPandIntegrity.pdf (4 pages, 180243 bytes).
+SyncTeX written on TEPandIntegrity.synctex.gz.
+Transcript written on TEPandIntegrity.log.
+Latexmk: Getting log file 'TEPandIntegrity.log'
+Latexmk: Examining 'TEPandIntegrity.fls'
+Latexmk: Examining 'TEPandIntegrity.log'
+Latexmk: Log file says output to 'TEPandIntegrity.pdf'
+Latexmk: All targets () are up-to-date
+
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 6 Nov. 2023. Version 4.81.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  /home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+Category 'changed_user':
+  /home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+(./IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+(/opt/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ptm.fd)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+-- This is a 10 point document.
+)
+** ATTENTION: Overriding command lockouts (line 2).
+(/opt/texlive/2023/texmf-dist/tex/latex/cite/cite.sty) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/algorithms/algorithmic.sty (/opt/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty) (/opt/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/opt/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/opt/texlive/2023/texmf-dist/tex/latex/base/textcomp.sty) (/opt/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/opt/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def) (./TEPandIntegrity.aux)
+-- Lines per column: 56 (exact).
+(/opt/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/opt/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/opt/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd) [1{/opt/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/opt/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}] [2 <./img/ICodes.png> <./img/ICodes2.png>] (/opt/texlive/2023/texmf-dist/tex/latex/psnfss/ot1pcr.fd)
+Underfull \hbox (badness 1552) in paragraph at lines 104--119
+\OT1/ptm/m/n/10 Equal-ity Com-par-i-son'' or short AEC is used to achive
+
+Underfull \hbox (badness 1424) in paragraph at lines 104--119
+\OT1/ptm/m/n/10 con-tain-ing a counter over ev-ery chan-nel while hop-ping
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--119
+\OT1/pcr/m/n/10 TODO: technicalities and security + alles
+[3 <./img/TEA.png> <./img/ICodesDH.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 122--129
+[]\OT1/pcr/m/n/10 TODO: klarheit schaffen wie die
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--129
+\OT1/pcr/m/n/10 uebertragungen funktionieren, graphics
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+Underfull \hbox (badness 10000) in paragraph at lines 134--139
+\OT1/pcr/m/n/10 depth, security analysis of phy-primitive
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--139
+
+[4 <./img/HELP.png> <./img/HELP2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 141--146
+[]\OT1/pcr/m/n/10 Aus presentation und paper zusammenbauen
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[5 <./img/Verse.png>] (./TEPandIntegrity.aux) )
+(see the transcript file for additional information)</opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on TEPandIntegrity.pdf (5 pages, 625507 bytes).
+SyncTeX written on TEPandIntegrity.synctex.gz.
+Transcript written on TEPandIntegrity.log.
+Latexmk: Getting log file 'TEPandIntegrity.log'
+Latexmk: Examining 'TEPandIntegrity.fls'
+Latexmk: Examining 'TEPandIntegrity.log'
+Latexmk: Log file says output to 'TEPandIntegrity.pdf'
+Latexmk: All targets () are up-to-date
+
+Latexmk: In file-database 'TEPandIntegrity.fdb_latexmk' line 86 is of wrong format:
+   '======='
+Latexmk: In file-database 'TEPandIntegrity.fdb_latexmk' line 170 is of wrong format:
+   '>>>>>>> 91e891609e8bd69c33051426dcedd60d9686dae9'
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 6 Nov. 2023. Version 4.81.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Changed files or newly in use/created:
+  /home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+  TEPandIntegrity.aux
+  TEPandIntegrity.tex
+Category 'changed_user':
+  /home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+  TEPandIntegrity.tex
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder  "/home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+(./IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+(/opt/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ptm.fd)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+-- This is a 10 point document.
+)
+** ATTENTION: Overriding command lockouts (line 2).
+(/opt/texlive/2023/texmf-dist/tex/latex/cite/cite.sty) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty) (/opt/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/algorithms/algorithmic.sty (/opt/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty)) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty) (/opt/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg) (/opt/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def))) (/opt/texlive/2023/texmf-dist/tex/latex/base/textcomp.sty) (/opt/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty (/opt/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg) (/opt/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/opt/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def) (./TEPandIntegrity.aux)
+-- Lines per column: 56 (exact).
+(/opt/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/opt/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty (/opt/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg)) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd) (/opt/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd) [1{/opt/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/opt/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}] [2 <./img/ICodes.png> <./img/ICodes2.png>] (/opt/texlive/2023/texmf-dist/tex/latex/psnfss/ot1pcr.fd)
+Underfull \hbox (badness 1552) in paragraph at lines 103--118
+\OT1/ptm/m/n/10 Equal-ity Com-par-i-son'' or short AEC is used to achive
+
+Underfull \hbox (badness 1424) in paragraph at lines 103--118
+\OT1/ptm/m/n/10 con-tain-ing a counter over ev-ery chan-nel while hop-ping
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--118
+\OT1/pcr/m/n/10 TODO: technicalities and security + alles
+[3 <./img/TEA.png> <./img/ICodesDH.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 121--128
+[]\OT1/pcr/m/n/10 TODO: klarheit schaffen wie die
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--128
+\OT1/pcr/m/n/10 uebertragungen funktionieren, graphics
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+Underfull \hbox (badness 10000) in paragraph at lines 133--138
+\OT1/pcr/m/n/10 depth, security analysis of phy-primitive
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--138
+
+[4 <./img/HELP.png> <./img/HELP2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 140--145
+[]\OT1/pcr/m/n/10 Aus presentation und paper zusammenbauen
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[5 <./img/Verse.png>] (./TEPandIntegrity.aux) )
+(see the transcript file for additional information)</opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></opt/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on TEPandIntegrity.pdf (5 pages, 625514 bytes).
+SyncTeX written on TEPandIntegrity.synctex.gz.
+Transcript written on TEPandIntegrity.log.
+Latexmk: Getting log file 'TEPandIntegrity.log'
+Latexmk: Examining 'TEPandIntegrity.fls'
+Latexmk: Examining 'TEPandIntegrity.log'
+Latexmk: Log file says output to 'TEPandIntegrity.pdf'
+Latexmk: All targets () are up-to-date
+
+Rc files read:
+  NONE
+Latexmk: This is Latexmk, John Collins, 6 Nov. 2023. Version 4.81.
+Latexmk: Nothing to do for '/home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex'.
+Latexmk: All targets () are up-to-date
+

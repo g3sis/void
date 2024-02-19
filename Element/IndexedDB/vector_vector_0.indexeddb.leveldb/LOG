@@ -1,53 +1,6 @@
-2023/11/07-15:18:45.240 55fd Creating DB /home/void/.config/Element/IndexedDB/vector_vector_0.indexeddb.leveldb since it was missing.
-2023/11/07-15:18:45.251 55fd Reusing MANIFEST /home/void/.config/Element/IndexedDB/vector_vector_0.indexeddb.leveldb/MANIFEST-000001
-2023/11/07-15:18:45.804 560f Level-0 table #5: started
-2023/11/07-15:18:45.812 560f Level-0 table #5: 1358 bytes OK
-2023/11/07-15:18:45.819 560f Delete type=0 #3
-2023/11/07-15:18:45.820 560e Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
-2023/11/07-15:18:45.821 560f Level-0 table #7: started
-2023/11/07-15:18:45.826 560f Level-0 table #7: 511 bytes OK
-2023/11/07-15:18:45.830 560f Delete type=0 #4
-2023/11/07-15:18:45.831 55fd Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
-2023/11/07-15:19:22.634 55fb Level-0 table #9: started
-2023/11/07-15:19:22.644 55fb Level-0 table #9: 130063 bytes OK
-2023/11/07-15:19:22.649 55fb Delete type=0 #6
-2023/11/07-15:19:22.650 55fb Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x05\x02\x01\x01\x00-' @ 776 : 1
-2023/11/07-15:19:22.650 55fb Compacting 1@0 + 1@1 files
-2023/11/07-15:19:22.656 55fb Generated table #10@0: 403 keys, 5814 bytes
-2023/11/07-15:19:22.656 55fb Compacted 1@0 + 1@1 files => 5814 bytes
-2023/11/07-15:19:22.660 55fb compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/11/07-15:19:22.660 55fb Delete type=2 #9
-2023/11/07-15:19:22.661 55fb Manual compaction at level-0 from '\x00\x05\x05\x02\x01\x01\x00-' @ 776 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
-2023/11/07-15:19:22.739 55fb Level-0 table #12: started
-2023/11/07-15:19:22.743 55fb Level-0 table #12: 1183 bytes OK
-2023/11/07-15:19:22.750 55fb Delete type=2 #7
-2023/11/07-15:19:22.750 55fb Delete type=0 #8
-2023/11/07-15:19:22.750 55fb Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x03\x02\x04\x01\x01\x01\x00-' @ 1302 : 0
-2023/11/07-15:19:22.750 55fb Compacting 1@0 + 1@1 files
-2023/11/07-15:19:22.755 55fb Generated table #13@0: 342 keys, 3366 bytes
-2023/11/07-15:19:22.755 55fb Compacted 1@0 + 1@1 files => 3366 bytes
-2023/11/07-15:19:22.764 55fb compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/11/07-15:19:22.765 55fb Delete type=2 #12
-2023/11/07-15:19:22.765 55fb Manual compaction at level-0 from '\x00\x04\x03\x02\x04\x01\x01\x01\x00-' @ 1302 : 0 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
-2023/11/07-15:19:22.768 55fb Level-0 table #15: started
-2023/11/07-15:19:22.771 55fb Level-0 table #15: 582 bytes OK
-2023/11/07-15:19:22.779 55fb Delete type=0 #11
-2023/11/07-15:19:22.779 55fb Delete type=2 #10
-2023/11/07-15:19:22.779 55fb Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 1319 : 1
-2023/11/07-15:19:22.779 55fb Compacting 1@0 + 1@1 files
-2023/11/07-15:19:22.784 55fb Generated table #16@0: 348 keys, 3405 bytes
-2023/11/07-15:19:22.784 55fb Compacted 1@0 + 1@1 files => 3405 bytes
-2023/11/07-15:19:22.791 55fb compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/11/07-15:19:22.791 55fb Delete type=2 #15
-2023/11/07-15:19:22.791 55fb Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 1319 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
-2023/11/07-15:19:22.792 55fb Level-0 table #18: started
-2023/11/07-15:19:22.797 55fb Level-0 table #18: 676 bytes OK
-2023/11/07-15:19:22.802 55fb Delete type=0 #14
-2023/11/07-15:19:22.802 55fb Delete type=2 #13
-2023/11/07-15:19:22.802 55fb Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 1348 : 0
-2023/11/07-15:19:22.802 55fb Compacting 1@0 + 1@1 files
-2023/11/07-15:19:22.807 55fb Generated table #19@0: 354 keys, 3565 bytes
-2023/11/07-15:19:22.807 55fb Compacted 1@0 + 1@1 files => 3565 bytes
-2023/11/07-15:19:22.812 55fb compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/11/07-15:19:22.812 55fb Delete type=2 #18
-2023/11/07-15:19:22.812 55fb Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 1348 : 0 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/11/28-10:04:34.079 5c66 Reusing MANIFEST /home/void/.config/Element/IndexedDB/vector_vector_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/28-10:04:34.079 5c66 Recovering log #17
+2023/11/28-10:04:34.107 5c66 Reusing old log /home/void/.config/Element/IndexedDB/vector_vector_0.indexeddb.leveldb/000017.log 
+2023/12/01-13:48:45.271 6140 Level-0 table #22: started
+2023/12/01-13:48:45.318 6140 Level-0 table #22: 1351269 bytes OK
+2023/12/01-13:48:45.326 6140 Delete type=0 #17

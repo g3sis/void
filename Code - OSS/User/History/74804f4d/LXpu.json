@@ -1,0 +1,11 @@
+{
+    "window.menuBarVisibility": "toggle",
+    "workbench.colorTheme": "Aura Dark (Soft Text)",
+    "window.zoomLevel": 1,
+    "[latex]": {
+        "editor.defaultFormatter": "James-Yu.latex-workshop"
+    },
+    "editor.fontLigatures": false,
+    "editor.wordWrap": "on",
+    "workbench.iconTheme": "material-icon-theme"
+}

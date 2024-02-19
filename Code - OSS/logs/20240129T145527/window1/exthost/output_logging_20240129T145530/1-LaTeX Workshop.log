@@ -1,0 +1,1092 @@
+[14:55:31.594][Logger] New log placeholder %WS1% registered for /home/void/Documents/TEP-and-Integrity-Codes .
+[14:55:31.594][Extension] Initializing LaTeX Workshop.
+[14:55:31.943][Build][Recipe] Set $LATEXWORKSHOP_DOCKER_LATEX: ""
+[14:55:32.073][Server] Creating LaTeX Workshop http and websocket server.
+[14:55:32.305][Format][Bib] Bibtex format config: {"tab":"  ","case":"lowercase","left":"{","right":"}","trailingComma":false,"sort":["key"],"alignOnEqual":true,"sortFields":false,"fieldsOrder":[],"firstEntries":["string","xdata"]}
+[14:55:32.398][Server] Server successfully started: {"address":"127.0.0.1","family":"IPv4","port":35119} .
+[14:55:32.544][Extension] Extension root: /home/void/.vscode-oss/extensions/james-yu.latex-workshop-9.18.0
+[14:55:32.544][Extension] $PATH: /home/void/.local/bin:/home/void/.opam/5.0.0/bin:/opt/texlive/2023/bin/x86_64-linux:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin
+[14:55:32.546][Extension] $SHELL: /bin/fish
+[14:55:32.546][Extension] $LANG: en_GB.UTF-8
+[14:55:32.547][Extension] $LC_ALL: undefined
+[14:55:32.548][Extension] process.platform: linux
+[14:55:32.549][Extension] process.arch: x64
+[14:55:32.550][Extension] vscode.env.appName: Code - OSS
+[14:55:32.551][Extension] vscode.env.remoteName: undefined
+[14:55:32.552][Extension] vscode.env.uiKind: 1
+[14:55:32.681][Extension] Trigger characters for intellisense of LaTeX documents: ["\\",",","{"]
+[14:55:32.684][Root] Current workspace folders: ["file://%WS1%"]
+[14:55:32.686][Extension] LaTeX Workshop initialized.
+[14:55:32.688][Root] Found root file from active editor: %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex
+[14:55:32.689][Root] Root file changed: from %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex to %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex, langID latex . Refresh dependencies
+[14:55:32.689][Event] ROOT_FILE_CHANGED: "%WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex"
+[14:55:32.690][Cacher][Watcher] Reset.
+[14:55:32.691][Cacher][Watcher] Reset.
+[14:55:32.691][Cacher][Watcher] Reset.
+[14:55:32.700][Cacher] Adding %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[14:55:32.703][Cacher][Watcher] Watched %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex with a new watcher on %WS1%/Conference-LaTeX-template_10-17-19 .
+[14:55:32.704][Event] FILE_WATCHED: "%WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex"
+[14:55:32.708][Cacher] Caching %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[14:55:32.711][Cacher] Updated inputs of %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[14:55:32.712][Cacher] Parse LaTeX AST: %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[14:55:32.712][Event] ROOT_FILE_SEARCHED
+[14:55:32.723][Server] valdOrigin is http://127.0.0.1:35119
+[14:55:33.949][Cacher] Parsed LaTeX AST: %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[14:55:33.950][File] Calling kpsewhich to resolve IEEEtran.cls .
+[14:55:34.205][Cacher] Updated elements in 255.38 ms: %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[14:55:34.206][Event] FILE_PARSED: "%WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex"
+[14:55:34.209][Cacher] Parsing .fls %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.fls .
+[14:55:34.214][Cacher] Adding %WS1%/Conference-LaTeX-template_10-17-19/IEEEtran.cls .
+[14:55:34.215][Cacher][Watcher] Watched %WS1%/Conference-LaTeX-template_10-17-19/IEEEtran.cls .
+[14:55:34.215][Event] FILE_WATCHED: "%WS1%/Conference-LaTeX-template_10-17-19/IEEEtran.cls"
+[14:55:34.227][Cacher] Found .aux %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex from .fls %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.fls , parsing.
+[14:55:34.228][Cacher] Parsed .aux %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[14:55:34.229][Cacher] Parsed .fls %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.fls .
+[14:55:34.237][Structure] Structure force updated with 0 root sections for %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[14:55:34.238][Event] STRUCTURE_UPDATED
+[14:57:24.912][Root] Current workspace folders: ["file://%WS1%"]
+[14:57:24.935][Root] Found root file from active editor: %WS1%/beamer-tum/template-pdflatex.tex
+[14:57:24.938][Root] Root file changed: from %WS1%/beamer-tum/template-pdflatex.tex to %WS1%/beamer-tum/template-pdflatex.tex, langID latex . Refresh dependencies
+[14:57:24.939][Event] ROOT_FILE_CHANGED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[14:57:24.941][Cacher][Watcher] Reset.
+[14:57:24.941][Cacher][Watcher] Reset.
+[14:57:24.942][Cacher][Watcher] Reset.
+[14:57:24.947][Cacher] Adding %WS1%/beamer-tum/template-pdflatex.tex .
+[14:57:24.948][Cacher][Watcher] Watched %WS1%/beamer-tum/template-pdflatex.tex with a new watcher on %WS1%/beamer-tum .
+[14:57:24.948][Event] FILE_WATCHED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[14:57:24.953][Cacher] Caching %WS1%/beamer-tum/template-pdflatex.tex .
+[14:57:24.954][Cacher] Updated inputs of %WS1%/beamer-tum/template-pdflatex.tex .
+[14:57:24.954][Cacher] Parse LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[14:57:24.955][Event] ROOT_FILE_SEARCHED
+[14:57:24.956][Event] STRUCTURE_UPDATED
+[14:57:25.023][Cacher] Parsed LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[14:57:25.097][File] Calling kpsewhich to resolve beamer.cls .
+[14:57:25.375][Cacher] Updated elements in 351.01 ms: %WS1%/beamer-tum/template-pdflatex.tex .
+[14:57:25.378][Event] FILE_PARSED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[14:57:25.380][Cacher] Parsing .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[14:57:25.448][Cacher] Found .aux %WS1%/beamer-tum/template-pdflatex.tex from .fls %WS1%/beamer-tum/template-pdflatex.fls , parsing.
+[14:57:25.449][Cacher] Parsed .aux %WS1%/beamer-tum/template-pdflatex.tex .
+[14:57:25.449][Cacher] Parsed .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[14:57:25.450][Structure] Structure force updated with 13 root sections for %WS1%/beamer-tum/template-pdflatex.tex .
+[14:57:25.451][Event] STRUCTURE_UPDATED
+[15:02:31.196][Root] Current workspace folders: ["file://%WS1%"]
+[15:02:31.207][Root] Found root file from active editor: %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex
+[15:02:31.208][Root] Root file changed: from %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex to %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex, langID latex . Refresh dependencies
+[15:02:31.209][Event] ROOT_FILE_CHANGED: "%WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex"
+[15:02:31.209][Cacher][Watcher] Reset.
+[15:02:31.210][Cacher][Watcher] Reset.
+[15:02:31.211][Cacher][Watcher] Reset.
+[15:02:31.212][Cacher] Adding %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:02:31.213][Cacher][Watcher] Watched %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex with a new watcher on %WS1%/Conference-LaTeX-template_10-17-19 .
+[15:02:31.213][Event] FILE_WATCHED: "%WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex"
+[15:02:31.214][Cacher] Caching %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:02:31.215][Cacher] Updated inputs of %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:02:31.215][Cacher] Parse LaTeX AST: %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:02:31.216][Event] ROOT_FILE_SEARCHED
+[15:02:31.217][Event] STRUCTURE_UPDATED
+[15:02:31.617][Cacher] Parsed LaTeX AST: %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:02:31.618][File] Calling kpsewhich to resolve IEEEtran.cls .
+[15:02:31.906][Cacher] Updated elements in 288.08 ms: %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:02:31.907][Event] FILE_PARSED: "%WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex"
+[15:02:31.909][Cacher] Parsing .fls %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.fls .
+[15:02:31.912][Cacher] Adding %WS1%/Conference-LaTeX-template_10-17-19/IEEEtran.cls .
+[15:02:31.912][Cacher][Watcher] Watched %WS1%/Conference-LaTeX-template_10-17-19/IEEEtran.cls .
+[15:02:31.912][Event] FILE_WATCHED: "%WS1%/Conference-LaTeX-template_10-17-19/IEEEtran.cls"
+[15:02:31.923][Cacher] Found .aux %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex from .fls %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.fls , parsing.
+[15:02:31.925][Cacher] Parsed .aux %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:02:31.925][Cacher] Parsed .fls %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.fls .
+[15:02:31.927][Structure] Structure force updated with 2 root sections for %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:02:31.927][Event] STRUCTURE_UPDATED
+[15:02:32.584][Root] Current workspace folders: ["file://%WS1%"]
+[15:02:32.599][Root] Found root file from active editor: %WS1%/beamer-tum/template-pdflatex.tex
+[15:02:32.600][Root] Root file changed: from %WS1%/beamer-tum/template-pdflatex.tex to %WS1%/beamer-tum/template-pdflatex.tex, langID latex . Refresh dependencies
+[15:02:32.601][Event] ROOT_FILE_CHANGED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:02:32.602][Cacher][Watcher] Reset.
+[15:02:32.602][Cacher][Watcher] Reset.
+[15:02:32.602][Cacher][Watcher] Reset.
+[15:02:32.604][Cacher] Adding %WS1%/beamer-tum/template-pdflatex.tex .
+[15:02:32.604][Cacher][Watcher] Watched %WS1%/beamer-tum/template-pdflatex.tex with a new watcher on %WS1%/beamer-tum .
+[15:02:32.606][Event] FILE_WATCHED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:02:32.607][Cacher] Caching %WS1%/beamer-tum/template-pdflatex.tex .
+[15:02:32.609][Cacher] Updated inputs of %WS1%/beamer-tum/template-pdflatex.tex .
+[15:02:32.609][Cacher] Parse LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:02:32.610][Event] ROOT_FILE_SEARCHED
+[15:02:32.612][Event] STRUCTURE_UPDATED
+[15:02:32.675][Cacher] Parsed LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:02:32.676][File] Calling kpsewhich to resolve beamer.cls .
+[15:02:32.937][Cacher] Updated elements in 261.47 ms: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:02:32.939][Event] FILE_PARSED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:02:32.940][Cacher] Parsing .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[15:02:32.970][Cacher] Found .aux %WS1%/beamer-tum/template-pdflatex.tex from .fls %WS1%/beamer-tum/template-pdflatex.fls , parsing.
+[15:02:32.970][Cacher] Parsed .aux %WS1%/beamer-tum/template-pdflatex.tex .
+[15:02:32.971][Cacher] Parsed .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[15:02:32.971][Structure] Structure force updated with 13 root sections for %WS1%/beamer-tum/template-pdflatex.tex .
+[15:02:32.972][Event] STRUCTURE_UPDATED
+[15:02:34.373][Viewer][Panel] Internal PDF viewer at http://127.0.0.1:35119/viewer.html?file=pdf..ZmlsZSUzQSUyRiUyRiUyRmhvbWUlMkZ2b2lkJTJGRG9jdW1lbnRzJTJGVEVQLWFuZC1JbnRlZ3JpdHktQ29kZXMlMkZiZWFtZXItdHVtJTJGdGVtcGxhdGUtcGRmbGF0ZXgucGRm .
+[15:02:34.377][Cacher][Watcher] Watched %WS1%/beamer-tum/template-pdflatex.pdf with a new watcher on %WS1%/beamer-tum .
+[15:02:34.378][Event] FILE_WATCHED: "%WS1%/beamer-tum/template-pdflatex.pdf"
+[15:02:35.132][Viewer] Handle data type: open
+[15:02:35.262][Server] Preview PDF file: file://%WS1%/beamer-tum/template-pdflatex.pdf
+[15:02:35.437][Viewer] Handle data type: loaded
+[15:02:35.438][Event] VIEWER_PAGE_LOADED
+[15:02:45.289][Event] STRUCTURE_UPDATED
+[15:03:35.981][Root] Current workspace folders: ["file://%WS1%"]
+[15:03:35.995][Root] Found root file from active editor: %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex
+[15:03:35.996][Root] Root file changed: from %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex to %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex, langID latex . Refresh dependencies
+[15:03:35.997][Event] ROOT_FILE_CHANGED: "%WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex"
+[15:03:35.998][Cacher][Watcher] Reset.
+[15:03:35.998][Cacher][Watcher] Reset.
+[15:03:35.998][Cacher][Watcher] Reset.
+[15:03:36.001][Cacher] Adding %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:03:36.002][Cacher][Watcher] Watched %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex with a new watcher on %WS1%/Conference-LaTeX-template_10-17-19 .
+[15:03:36.002][Event] FILE_WATCHED: "%WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex"
+[15:03:36.005][Cacher] Caching %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:03:36.006][Cacher] Updated inputs of %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:03:36.007][Cacher] Parse LaTeX AST: %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:03:36.007][Event] ROOT_FILE_SEARCHED
+[15:03:36.010][Event] STRUCTURE_UPDATED
+[15:03:36.394][Cacher] Parsed LaTeX AST: %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:03:36.395][File] Calling kpsewhich to resolve IEEEtran.cls .
+[15:03:36.643][Cacher] Updated elements in 248.55 ms: %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:03:36.645][Event] FILE_PARSED: "%WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex"
+[15:03:36.647][Cacher] Parsing .fls %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.fls .
+[15:03:36.653][Cacher] Adding %WS1%/Conference-LaTeX-template_10-17-19/IEEEtran.cls .
+[15:03:36.654][Cacher][Watcher] Watched %WS1%/Conference-LaTeX-template_10-17-19/IEEEtran.cls .
+[15:03:36.655][Event] FILE_WATCHED: "%WS1%/Conference-LaTeX-template_10-17-19/IEEEtran.cls"
+[15:03:36.665][Cacher] Found .aux %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex from .fls %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.fls , parsing.
+[15:03:36.666][Cacher] Parsed .aux %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:03:36.667][Cacher] Parsed .fls %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.fls .
+[15:03:36.669][Structure] Structure force updated with 2 root sections for %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:03:36.669][Event] STRUCTURE_UPDATED
+[15:03:48.795][Root] Current workspace folders: ["file://%WS1%"]
+[15:03:48.831][Root] Found root file from active editor: %WS1%/beamer-tum/template-pdflatex.tex
+[15:03:48.832][Root] Root file changed: from %WS1%/beamer-tum/template-pdflatex.tex to %WS1%/beamer-tum/template-pdflatex.tex, langID latex . Refresh dependencies
+[15:03:48.833][Event] ROOT_FILE_CHANGED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:03:48.834][Cacher][Watcher] Reset.
+[15:03:48.835][Cacher][Watcher] Reset.
+[15:03:48.835][Cacher][Watcher] Reset.
+[15:03:48.837][Cacher] Adding %WS1%/beamer-tum/template-pdflatex.tex .
+[15:03:48.839][Cacher][Watcher] Watched %WS1%/beamer-tum/template-pdflatex.tex with a new watcher on %WS1%/beamer-tum .
+[15:03:48.839][Event] FILE_WATCHED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:03:48.842][Cacher] Caching %WS1%/beamer-tum/template-pdflatex.tex .
+[15:03:48.843][Cacher] Updated inputs of %WS1%/beamer-tum/template-pdflatex.tex .
+[15:03:48.843][Cacher] Parse LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:03:48.844][Event] ROOT_FILE_SEARCHED
+[15:03:48.846][Event] STRUCTURE_UPDATED
+[15:03:48.894][Cacher] Parsed LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:03:48.895][File] Calling kpsewhich to resolve beamer.cls .
+[15:03:49.150][Cacher] Updated elements in 255.18 ms: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:03:49.151][Event] FILE_PARSED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:03:49.153][Cacher] Parsing .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[15:03:49.189][Cacher] Found .aux %WS1%/beamer-tum/template-pdflatex.tex from .fls %WS1%/beamer-tum/template-pdflatex.fls , parsing.
+[15:03:49.190][Cacher] Parsed .aux %WS1%/beamer-tum/template-pdflatex.tex .
+[15:03:49.190][Cacher] Parsed .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[15:03:49.191][Structure] Structure force updated with 13 root sections for %WS1%/beamer-tum/template-pdflatex.tex .
+[15:03:49.192][Event] STRUCTURE_UPDATED
+[15:04:00.119][Root] Current workspace folders: ["file://%WS1%"]
+[15:04:00.131][Root] Found root file from active editor: %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex
+[15:04:00.132][Root] Root file changed: from %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex to %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex, langID latex . Refresh dependencies
+[15:04:00.132][Event] ROOT_FILE_CHANGED: "%WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex"
+[15:04:00.133][Cacher][Watcher] Reset.
+[15:04:00.133][Cacher][Watcher] Reset.
+[15:04:00.134][Cacher][Watcher] Reset.
+[15:04:00.134][Cacher] Adding %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:04:00.135][Cacher][Watcher] Watched %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex with a new watcher on %WS1%/Conference-LaTeX-template_10-17-19 .
+[15:04:00.136][Event] FILE_WATCHED: "%WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex"
+[15:04:00.136][Cacher] Caching %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:04:00.137][Cacher] Updated inputs of %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:04:00.138][Cacher] Parse LaTeX AST: %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:04:00.138][Event] ROOT_FILE_SEARCHED
+[15:04:00.141][Event] STRUCTURE_UPDATED
+[15:04:00.440][Cacher] Parsed LaTeX AST: %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:04:00.441][File] Calling kpsewhich to resolve IEEEtran.cls .
+[15:04:00.686][Cacher] Updated elements in 245.51 ms: %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:04:00.688][Event] FILE_PARSED: "%WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex"
+[15:04:00.689][Cacher] Parsing .fls %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.fls .
+[15:04:00.693][Cacher] Adding %WS1%/Conference-LaTeX-template_10-17-19/IEEEtran.cls .
+[15:04:00.693][Cacher][Watcher] Watched %WS1%/Conference-LaTeX-template_10-17-19/IEEEtran.cls .
+[15:04:00.693][Event] FILE_WATCHED: "%WS1%/Conference-LaTeX-template_10-17-19/IEEEtran.cls"
+[15:04:00.703][Cacher] Found .aux %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex from .fls %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.fls , parsing.
+[15:04:00.704][Cacher] Parsed .aux %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:04:00.704][Cacher] Parsed .fls %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.fls .
+[15:04:00.706][Structure] Structure force updated with 2 root sections for %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:04:00.706][Event] STRUCTURE_UPDATED
+[15:04:11.643][Root] Current workspace folders: ["file://%WS1%"]
+[15:04:11.660][Root] Found root file from active editor: %WS1%/beamer-tum/template-pdflatex.tex
+[15:04:11.661][Root] Root file changed: from %WS1%/beamer-tum/template-pdflatex.tex to %WS1%/beamer-tum/template-pdflatex.tex, langID latex . Refresh dependencies
+[15:04:11.662][Event] ROOT_FILE_CHANGED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:04:11.664][Cacher][Watcher] Reset.
+[15:04:11.664][Cacher][Watcher] Reset.
+[15:04:11.665][Cacher][Watcher] Reset.
+[15:04:11.666][Cacher] Adding %WS1%/beamer-tum/template-pdflatex.tex .
+[15:04:11.667][Cacher][Watcher] Watched %WS1%/beamer-tum/template-pdflatex.tex with a new watcher on %WS1%/beamer-tum .
+[15:04:11.668][Event] FILE_WATCHED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:04:11.669][Cacher] Caching %WS1%/beamer-tum/template-pdflatex.tex .
+[15:04:11.670][Cacher] Updated inputs of %WS1%/beamer-tum/template-pdflatex.tex .
+[15:04:11.671][Cacher] Parse LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:04:11.671][Event] ROOT_FILE_SEARCHED
+[15:04:11.673][Event] STRUCTURE_UPDATED
+[15:04:11.713][Cacher] Parsed LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:04:11.714][File] Calling kpsewhich to resolve beamer.cls .
+[15:04:11.975][Cacher] Updated elements in 261.55 ms: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:04:11.977][Event] FILE_PARSED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:04:11.980][Cacher] Parsing .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[15:04:12.015][Cacher] Found .aux %WS1%/beamer-tum/template-pdflatex.tex from .fls %WS1%/beamer-tum/template-pdflatex.fls , parsing.
+[15:04:12.016][Cacher] Parsed .aux %WS1%/beamer-tum/template-pdflatex.tex .
+[15:04:12.016][Cacher] Parsed .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[15:04:12.017][Structure] Structure force updated with 13 root sections for %WS1%/beamer-tum/template-pdflatex.tex .
+[15:04:12.018][Event] STRUCTURE_UPDATED
+[15:04:20.443][Extension] onDidSaveTextDocument triggered: file://%WS1%/beamer-tum/template-pdflatex.tex
+[15:04:20.516][Cacher][Watcher] "change" emitted on %WS1%/beamer-tum/template-pdflatex.tex.
+[15:04:20.521][Cacher] Caching %WS1%/beamer-tum/template-pdflatex.tex .
+[15:04:20.525][Cacher] Updated inputs of %WS1%/beamer-tum/template-pdflatex.tex .
+[15:04:20.526][Cacher] Parse LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:04:20.528][Build] Auto build starteddetecting the change of a file: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:04:20.530][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/beamer-tum/template-pdflatex.tex"}
+[15:04:20.532][Build] The document of the active editor: file://%WS1%/beamer-tum/template-pdflatex.tex
+[15:04:20.534][Build] The languageId of the document: latex
+[15:04:20.535][Build] Building root file: %WS1%/beamer-tum/template-pdflatex.tex
+[15:04:20.537][Build][Recipe] Build root file %WS1%/beamer-tum/template-pdflatex.tex
+[15:04:20.539][Event] FILE_CHANGED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:04:20.586][Extension] onDidSaveTextDocument triggered: file://%WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex
+[15:04:20.622][Build][Recipe] Preparing to run recipe: latexmk.
+[15:04:20.624][Build][Recipe] Prepared 1 tools.
+[15:04:20.663][Build][Recipe] outDir: %WS1%/beamer-tum .
+[15:04:20.669][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/beamer-tum","%WS1%/beamer-tum/template-pdflatex"].
+[15:04:20.670][Build] env: {}
+[15:04:20.671][Build] root: %WS1%/beamer-tum/template-pdflatex.tex
+[15:04:20.672][Build] cwd: %WS1%/beamer-tum
+[15:04:20.690][Build] LaTeX build process spawned with PID 10000.
+[15:04:20.695][Cacher] Parsed LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:04:20.696][File] Calling kpsewhich to resolve beamer.cls .
+[15:04:20.934][Cacher] Updated elements in 237.85 ms: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:04:20.935][Event] FILE_PARSED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:04:20.936][Structure] Structure force updated with 2 root sections for %WS1%/beamer-tum/template-pdflatex.tex .
+[15:04:20.936][Event] STRUCTURE_UPDATED
+[15:04:22.711][Parser][TexLog] Logged 0 messages.
+[15:04:22.712][Build] Finished a step in recipe with PID 10000.
+[15:04:22.713][Build] Successfully built %WS1%/beamer-tum/template-pdflatex.tex .
+[15:04:22.714][Event] BUILD_DONE
+[15:04:22.715][Viewer] Call refreshExistingViewer: "%WS1%/beamer-tum/template-pdflatex.pdf" .
+[15:04:22.715][Viewer] Refresh PDF viewer: %WS1%/beamer-tum/template-pdflatex.pdf
+[15:04:22.717][Cacher] Parsing .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[15:04:22.740][Cacher] Found .aux %WS1%/beamer-tum/template-pdflatex.tex from .fls %WS1%/beamer-tum/template-pdflatex.fls , parsing.
+[15:04:22.741][Cacher] Parsed .aux %WS1%/beamer-tum/template-pdflatex.tex .
+[15:04:22.741][Cacher] Parsed .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[15:04:22.746][Server] Preview PDF file: file://%WS1%/beamer-tum/template-pdflatex.pdf
+[15:04:25.907][Viewer] Handle data type: loaded
+[15:04:25.908][Event] VIEWER_PAGE_LOADED
+[15:04:34.048][Event] STRUCTURE_UPDATED
+[15:04:41.236][Extension] onDidSaveTextDocument triggered: file://%WS1%/beamer-tum/template-pdflatex.tex
+[15:04:41.303][Cacher][Watcher] "change" emitted on %WS1%/beamer-tum/template-pdflatex.tex.
+[15:04:41.305][Cacher] Caching %WS1%/beamer-tum/template-pdflatex.tex .
+[15:04:41.306][Cacher] Updated inputs of %WS1%/beamer-tum/template-pdflatex.tex .
+[15:04:41.306][Cacher] Parse LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:04:41.306][Build] Auto build starteddetecting the change of a file: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:04:41.307][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/beamer-tum/template-pdflatex.tex"}
+[15:04:41.307][Build] The document of the active editor: file://%WS1%/beamer-tum/template-pdflatex.tex
+[15:04:41.307][Build] The languageId of the document: latex
+[15:04:41.308][Build] Building root file: %WS1%/beamer-tum/template-pdflatex.tex
+[15:04:41.308][Build][Recipe] Build root file %WS1%/beamer-tum/template-pdflatex.tex
+[15:04:41.309][Event] FILE_CHANGED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:04:41.310][Build][Recipe] Preparing to run recipe: latexmk.
+[15:04:41.311][Build][Recipe] Prepared 1 tools.
+[15:04:41.313][Build][Recipe] outDir: %WS1%/beamer-tum .
+[15:04:41.314][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/beamer-tum","%WS1%/beamer-tum/template-pdflatex"].
+[15:04:41.314][Build] env: {}
+[15:04:41.314][Build] root: %WS1%/beamer-tum/template-pdflatex.tex
+[15:04:41.315][Build] cwd: %WS1%/beamer-tum
+[15:04:41.327][Build] LaTeX build process spawned with PID 10210.
+[15:04:41.373][Cacher] Parsed LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:04:41.374][File] Calling kpsewhich to resolve beamer.cls .
+[15:04:41.607][Cacher] Updated elements in 233.48 ms: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:04:41.609][Event] FILE_PARSED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:04:41.610][Structure] Structure force updated with 2 root sections for %WS1%/beamer-tum/template-pdflatex.tex .
+[15:04:41.611][Event] STRUCTURE_UPDATED
+[15:04:43.242][Parser][TexLog] Logged 0 messages.
+[15:04:43.242][Build] Finished a step in recipe with PID 10210.
+[15:04:43.243][Build] Successfully built %WS1%/beamer-tum/template-pdflatex.tex .
+[15:04:43.243][Event] BUILD_DONE
+[15:04:43.244][Viewer] Call refreshExistingViewer: "%WS1%/beamer-tum/template-pdflatex.pdf" .
+[15:04:43.244][Viewer] Refresh PDF viewer: %WS1%/beamer-tum/template-pdflatex.pdf
+[15:04:43.246][Cacher] Parsing .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[15:04:43.269][Cacher] Found .aux %WS1%/beamer-tum/template-pdflatex.tex from .fls %WS1%/beamer-tum/template-pdflatex.fls , parsing.
+[15:04:43.270][Cacher] Parsed .aux %WS1%/beamer-tum/template-pdflatex.tex .
+[15:04:43.270][Cacher] Parsed .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[15:04:43.277][Server] Preview PDF file: file://%WS1%/beamer-tum/template-pdflatex.pdf
+[15:04:44.341][Viewer] Handle data type: loaded
+[15:04:44.342][Event] VIEWER_PAGE_LOADED
+[15:04:46.734][Event] STRUCTURE_UPDATED
+[15:05:21.030][Event] STRUCTURE_UPDATED
+[15:05:25.907][Event] STRUCTURE_UPDATED
+[15:05:28.484][Root] Current workspace folders: ["file://%WS1%"]
+[15:05:28.517][Root] Found root file from active editor: %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex
+[15:05:28.520][Root] Root file changed: from %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex to %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex, langID latex . Refresh dependencies
+[15:05:28.521][Event] ROOT_FILE_CHANGED: "%WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex"
+[15:05:28.523][Cacher][Watcher] Reset.
+[15:05:28.524][Cacher][Watcher] Reset.
+[15:05:28.525][Cacher][Watcher] Reset.
+[15:05:28.532][Cacher] Adding %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:05:28.533][Cacher][Watcher] Watched %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex with a new watcher on %WS1%/Conference-LaTeX-template_10-17-19 .
+[15:05:28.534][Event] FILE_WATCHED: "%WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex"
+[15:05:28.538][Cacher] Caching %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:05:28.539][Cacher] Updated inputs of %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:05:28.540][Cacher] Parse LaTeX AST: %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:05:28.540][Event] ROOT_FILE_SEARCHED
+[15:05:28.542][Event] STRUCTURE_UPDATED
+[15:05:28.892][Cacher] Parsed LaTeX AST: %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:05:28.893][File] Calling kpsewhich to resolve IEEEtran.cls .
+[15:05:29.187][Cacher] Updated elements in 294.51 ms: %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:05:29.188][Event] FILE_PARSED: "%WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex"
+[15:05:29.190][Cacher] Parsing .fls %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.fls .
+[15:05:29.194][Cacher] Adding %WS1%/Conference-LaTeX-template_10-17-19/IEEEtran.cls .
+[15:05:29.194][Cacher][Watcher] Watched %WS1%/Conference-LaTeX-template_10-17-19/IEEEtran.cls .
+[15:05:29.195][Event] FILE_WATCHED: "%WS1%/Conference-LaTeX-template_10-17-19/IEEEtran.cls"
+[15:05:29.206][Cacher] Found .aux %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex from .fls %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.fls , parsing.
+[15:05:29.207][Cacher] Parsed .aux %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:05:29.207][Cacher] Parsed .fls %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.fls .
+[15:05:29.209][Structure] Structure force updated with 2 root sections for %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:05:29.209][Event] STRUCTURE_UPDATED
+[15:05:30.729][Root] Current workspace folders: ["file://%WS1%"]
+[15:05:30.762][Root] Found root file from active editor: %WS1%/beamer-tum/template-pdflatex.tex
+[15:05:30.765][Root] Root file changed: from %WS1%/beamer-tum/template-pdflatex.tex to %WS1%/beamer-tum/template-pdflatex.tex, langID latex . Refresh dependencies
+[15:05:30.766][Event] ROOT_FILE_CHANGED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:05:30.768][Cacher][Watcher] Reset.
+[15:05:30.769][Cacher][Watcher] Reset.
+[15:05:30.770][Cacher][Watcher] Reset.
+[15:05:30.773][Cacher] Adding %WS1%/beamer-tum/template-pdflatex.tex .
+[15:05:30.775][Cacher][Watcher] Watched %WS1%/beamer-tum/template-pdflatex.tex with a new watcher on %WS1%/beamer-tum .
+[15:05:30.776][Event] FILE_WATCHED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:05:30.778][Cacher] Caching %WS1%/beamer-tum/template-pdflatex.tex .
+[15:05:30.780][Cacher] Updated inputs of %WS1%/beamer-tum/template-pdflatex.tex .
+[15:05:30.780][Cacher] Parse LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:05:30.781][Event] ROOT_FILE_SEARCHED
+[15:05:30.783][Event] STRUCTURE_UPDATED
+[15:05:30.837][Cacher] Parsed LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:05:30.838][File] Calling kpsewhich to resolve beamer.cls .
+[15:05:31.130][Cacher] Updated elements in 292.36 ms: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:05:31.131][Event] FILE_PARSED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:05:31.132][Cacher] Parsing .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[15:05:31.171][Cacher] Found .aux %WS1%/beamer-tum/template-pdflatex.tex from .fls %WS1%/beamer-tum/template-pdflatex.fls , parsing.
+[15:05:31.172][Cacher] Parsed .aux %WS1%/beamer-tum/template-pdflatex.tex .
+[15:05:31.172][Cacher] Parsed .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[15:05:31.173][Structure] Structure force updated with 13 root sections for %WS1%/beamer-tum/template-pdflatex.tex .
+[15:05:31.173][Event] STRUCTURE_UPDATED
+[15:05:33.422][Viewer][Panel] Internal PDF viewer at http://127.0.0.1:35119/viewer.html?file=pdf..ZmlsZSUzQSUyRiUyRiUyRmhvbWUlMkZ2b2lkJTJGRG9jdW1lbnRzJTJGVEVQLWFuZC1JbnRlZ3JpdHktQ29kZXMlMkZDb25mZXJlbmNlLUxhVGVYLXRlbXBsYXRlXzEwLTE3LTE5JTJGVEVQYW5kSW50ZWdyaXR5LnBkZg .
+[15:05:33.423][Cacher][Watcher] Watched %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.pdf with a new watcher on %WS1%/Conference-LaTeX-template_10-17-19 .
+[15:05:33.423][Event] FILE_WATCHED: "%WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.pdf"
+[15:05:33.626][Viewer] Handle data type: open
+[15:05:33.778][Server] Preview PDF file: file://%WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.pdf
+[15:05:34.108][Viewer] Handle data type: loaded
+[15:05:34.108][Event] VIEWER_PAGE_LOADED
+[15:11:27.244][Event] STRUCTURE_UPDATED
+[15:15:20.664][Event] STRUCTURE_UPDATED
+[15:16:00.814][Extension] onDidSaveTextDocument triggered: file://%WS1%/beamer-tum/template-pdflatex.tex
+[15:16:00.871][Cacher][Watcher] "change" emitted on %WS1%/beamer-tum/template-pdflatex.tex.
+[15:16:00.876][Cacher] Caching %WS1%/beamer-tum/template-pdflatex.tex .
+[15:16:00.878][Cacher] Updated inputs of %WS1%/beamer-tum/template-pdflatex.tex .
+[15:16:00.879][Cacher] Parse LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:16:00.880][Build] Auto build starteddetecting the change of a file: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:16:00.881][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/beamer-tum/template-pdflatex.tex"}
+[15:16:00.882][Build] The document of the active editor: file://%WS1%/beamer-tum/template-pdflatex.tex
+[15:16:00.883][Build] The languageId of the document: latex
+[15:16:00.887][Build] Building root file: %WS1%/beamer-tum/template-pdflatex.tex
+[15:16:00.888][Build][Recipe] Build root file %WS1%/beamer-tum/template-pdflatex.tex
+[15:16:00.889][Event] FILE_CHANGED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:16:00.896][Build][Recipe] Preparing to run recipe: latexmk.
+[15:16:00.897][Build][Recipe] Prepared 1 tools.
+[15:16:00.901][Build][Recipe] outDir: %WS1%/beamer-tum .
+[15:16:00.904][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/beamer-tum","%WS1%/beamer-tum/template-pdflatex"].
+[15:16:00.905][Build] env: {}
+[15:16:00.906][Build] root: %WS1%/beamer-tum/template-pdflatex.tex
+[15:16:00.907][Build] cwd: %WS1%/beamer-tum
+[15:16:00.937][Build] LaTeX build process spawned with PID 16889.
+[15:16:00.977][Cacher] Parsed LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:16:00.979][File] Calling kpsewhich to resolve beamer.cls .
+[15:16:01.295][Cacher] Updated elements in 317.06 ms: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:16:01.297][Event] FILE_PARSED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:16:01.299][Structure] Structure force updated with 2 root sections for %WS1%/beamer-tum/template-pdflatex.tex .
+[15:16:01.300][Event] STRUCTURE_UPDATED
+[15:16:03.004][Parser][TexLog] Logged 0 messages.
+[15:16:03.004][Build] Finished a step in recipe with PID 16889.
+[15:16:03.005][Build] Successfully built %WS1%/beamer-tum/template-pdflatex.tex .
+[15:16:03.005][Event] BUILD_DONE
+[15:16:03.006][Viewer] Call refreshExistingViewer: "%WS1%/beamer-tum/template-pdflatex.pdf" .
+[15:16:03.006][Viewer] Refresh PDF viewer: %WS1%/beamer-tum/template-pdflatex.pdf
+[15:16:03.007][Cacher] Parsing .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[15:16:03.030][Cacher] Found .aux %WS1%/beamer-tum/template-pdflatex.tex from .fls %WS1%/beamer-tum/template-pdflatex.fls , parsing.
+[15:16:03.031][Cacher] Parsed .aux %WS1%/beamer-tum/template-pdflatex.tex .
+[15:16:03.031][Cacher] Parsed .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[15:16:03.036][Server] Preview PDF file: file://%WS1%/beamer-tum/template-pdflatex.pdf
+[15:16:03.410][Viewer] Handle data type: loaded
+[15:16:03.411][Event] VIEWER_PAGE_LOADED
+[15:16:07.523][Event] STRUCTURE_UPDATED
+[15:17:10.555][Event] STRUCTURE_UPDATED
+[15:17:16.793][Event] STRUCTURE_UPDATED
+[15:18:14.696][Extension] onDidSaveTextDocument triggered: file://%WS1%/beamer-tum/template-pdflatex.tex
+[15:18:14.753][Cacher][Watcher] "change" emitted on %WS1%/beamer-tum/template-pdflatex.tex.
+[15:18:14.762][Cacher] Caching %WS1%/beamer-tum/template-pdflatex.tex .
+[15:18:14.765][Cacher] Updated inputs of %WS1%/beamer-tum/template-pdflatex.tex .
+[15:18:14.766][Cacher] Parse LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:18:14.767][Build] Auto build starteddetecting the change of a file: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:18:14.768][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/beamer-tum/template-pdflatex.tex"}
+[15:18:14.769][Build] The document of the active editor: file://%WS1%/beamer-tum/template-pdflatex.tex
+[15:18:14.770][Build] The languageId of the document: latex
+[15:18:14.771][Build] Building root file: %WS1%/beamer-tum/template-pdflatex.tex
+[15:18:14.772][Build][Recipe] Build root file %WS1%/beamer-tum/template-pdflatex.tex
+[15:18:14.773][Event] FILE_CHANGED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:18:14.779][Build][Recipe] Preparing to run recipe: latexmk.
+[15:18:14.781][Build][Recipe] Prepared 1 tools.
+[15:18:14.785][Build][Recipe] outDir: %WS1%/beamer-tum .
+[15:18:14.787][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/beamer-tum","%WS1%/beamer-tum/template-pdflatex"].
+[15:18:14.788][Build] env: {}
+[15:18:14.790][Build] root: %WS1%/beamer-tum/template-pdflatex.tex
+[15:18:14.794][Build] cwd: %WS1%/beamer-tum
+[15:18:14.827][Build] LaTeX build process spawned with PID 18176.
+[15:18:14.859][Cacher] Parsed LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:18:14.861][File] Calling kpsewhich to resolve beamer.cls .
+[15:18:15.139][Cacher] Updated elements in 279.28 ms: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:18:15.141][Event] FILE_PARSED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:18:15.142][Structure] Structure force updated with 2 root sections for %WS1%/beamer-tum/template-pdflatex.tex .
+[15:18:15.142][Event] STRUCTURE_UPDATED
+[15:18:16.308][Event] STRUCTURE_UPDATED
+[15:18:18.931][Parser][TexLog] Logged 0 messages.
+[15:18:18.932][Build] Finished a step in recipe with PID 18176.
+[15:18:18.932][Build] Successfully built %WS1%/beamer-tum/template-pdflatex.tex .
+[15:18:18.933][Event] BUILD_DONE
+[15:18:18.933][Viewer] Call refreshExistingViewer: "%WS1%/beamer-tum/template-pdflatex.pdf" .
+[15:18:18.934][Viewer] Refresh PDF viewer: %WS1%/beamer-tum/template-pdflatex.pdf
+[15:18:18.935][Cacher] Parsing .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[15:18:18.975][Cacher] Found .aux %WS1%/beamer-tum/template-pdflatex.tex from .fls %WS1%/beamer-tum/template-pdflatex.fls , parsing.
+[15:18:18.976][Cacher] Parsed .aux %WS1%/beamer-tum/template-pdflatex.tex .
+[15:18:18.976][Cacher] Parsed .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[15:18:19.024][Server] Preview PDF file: file://%WS1%/beamer-tum/template-pdflatex.pdf
+[15:18:19.100][Viewer] Handle data type: loaded
+[15:18:19.100][Event] VIEWER_PAGE_LOADED
+[15:18:33.378][Event] STRUCTURE_UPDATED
+[15:18:57.997][Event] STRUCTURE_UPDATED
+[15:19:17.845][Extension] onDidSaveTextDocument triggered: file://%WS1%/beamer-tum/template-pdflatex.tex
+[15:19:17.904][Cacher][Watcher] "change" emitted on %WS1%/beamer-tum/template-pdflatex.tex.
+[15:19:17.908][Cacher] Caching %WS1%/beamer-tum/template-pdflatex.tex .
+[15:19:17.910][Cacher] Updated inputs of %WS1%/beamer-tum/template-pdflatex.tex .
+[15:19:17.911][Cacher] Parse LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:19:17.913][Build] Auto build starteddetecting the change of a file: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:19:17.913][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/beamer-tum/template-pdflatex.tex"}
+[15:19:17.914][Build] The document of the active editor: file://%WS1%/beamer-tum/template-pdflatex.tex
+[15:19:17.915][Build] The languageId of the document: latex
+[15:19:17.916][Build] Building root file: %WS1%/beamer-tum/template-pdflatex.tex
+[15:19:17.917][Build][Recipe] Build root file %WS1%/beamer-tum/template-pdflatex.tex
+[15:19:17.918][Event] FILE_CHANGED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:19:17.922][Build][Recipe] Preparing to run recipe: latexmk.
+[15:19:17.924][Build][Recipe] Prepared 1 tools.
+[15:19:17.927][Build][Recipe] outDir: %WS1%/beamer-tum .
+[15:19:17.930][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/beamer-tum","%WS1%/beamer-tum/template-pdflatex"].
+[15:19:17.931][Build] env: {}
+[15:19:17.932][Build] root: %WS1%/beamer-tum/template-pdflatex.tex
+[15:19:17.933][Build] cwd: %WS1%/beamer-tum
+[15:19:17.959][Build] LaTeX build process spawned with PID 18810.
+[15:19:17.990][Cacher] Parsed LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:19:17.990][File] Calling kpsewhich to resolve beamer.cls .
+[15:19:18.224][Cacher] Updated elements in 234.09 ms: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:19:18.226][Event] FILE_PARSED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:19:18.227][Structure] Structure force updated with 4 root sections for %WS1%/beamer-tum/template-pdflatex.tex .
+[15:19:18.228][Event] STRUCTURE_UPDATED
+[15:19:20.180][Event] STRUCTURE_UPDATED
+[15:19:22.078][Parser][TexLog] Logged 0 messages.
+[15:19:22.079][Build] Finished a step in recipe with PID 18810.
+[15:19:22.079][Build] Successfully built %WS1%/beamer-tum/template-pdflatex.tex .
+[15:19:22.079][Event] BUILD_DONE
+[15:19:22.080][Viewer] Call refreshExistingViewer: "%WS1%/beamer-tum/template-pdflatex.pdf" .
+[15:19:22.080][Viewer] Refresh PDF viewer: %WS1%/beamer-tum/template-pdflatex.pdf
+[15:19:22.081][Cacher] Parsing .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[15:19:22.106][Cacher] Found .aux %WS1%/beamer-tum/template-pdflatex.tex from .fls %WS1%/beamer-tum/template-pdflatex.fls , parsing.
+[15:19:22.106][Cacher] Parsed .aux %WS1%/beamer-tum/template-pdflatex.tex .
+[15:19:22.107][Cacher] Parsed .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[15:19:22.110][Server] Preview PDF file: file://%WS1%/beamer-tum/template-pdflatex.pdf
+[15:19:22.165][Viewer] Handle data type: loaded
+[15:19:22.166][Event] VIEWER_PAGE_LOADED
+[15:19:24.229][Event] STRUCTURE_UPDATED
+[15:20:34.150][Event] STRUCTURE_UPDATED
+[15:20:54.453][Root] Current workspace folders: ["file://%WS1%"]
+[15:20:54.466][Root] Found root file from active editor: %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex
+[15:20:54.468][Root] Root file changed: from %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex to %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex, langID latex . Refresh dependencies
+[15:20:54.468][Event] ROOT_FILE_CHANGED: "%WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex"
+[15:20:54.469][Cacher][Watcher] Reset.
+[15:20:54.469][Cacher][Watcher] Reset.
+[15:20:54.470][Cacher][Watcher] Reset.
+[15:20:54.471][Cacher] Adding %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:20:54.471][Cacher][Watcher] Watched %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex with a new watcher on %WS1%/Conference-LaTeX-template_10-17-19 .
+[15:20:54.472][Event] FILE_WATCHED: "%WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex"
+[15:20:54.473][Cacher] Caching %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:20:54.474][Cacher] Updated inputs of %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:20:54.475][Cacher] Parse LaTeX AST: %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:20:54.475][Event] ROOT_FILE_SEARCHED
+[15:20:54.477][Event] STRUCTURE_UPDATED
+[15:20:54.774][Cacher] Parsed LaTeX AST: %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:20:54.775][File] Calling kpsewhich to resolve IEEEtran.cls .
+[15:20:55.075][Cacher] Updated elements in 300.03 ms: %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:20:55.077][Event] FILE_PARSED: "%WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex"
+[15:20:55.078][Cacher] Parsing .fls %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.fls .
+[15:20:55.083][Cacher] Adding %WS1%/Conference-LaTeX-template_10-17-19/IEEEtran.cls .
+[15:20:55.083][Cacher][Watcher] Watched %WS1%/Conference-LaTeX-template_10-17-19/IEEEtran.cls .
+[15:20:55.084][Event] FILE_WATCHED: "%WS1%/Conference-LaTeX-template_10-17-19/IEEEtran.cls"
+[15:20:55.100][Cacher] Found .aux %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex from .fls %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.fls , parsing.
+[15:20:55.101][Cacher] Parsed .aux %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:20:55.101][Cacher] Parsed .fls %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.fls .
+[15:20:55.103][Structure] Structure force updated with 5 root sections for %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:20:55.104][Event] STRUCTURE_UPDATED
+[15:20:56.321][Root] Current workspace folders: ["file://%WS1%"]
+[15:20:56.348][Root] Found root file from active editor: %WS1%/beamer-tum/template-pdflatex.tex
+[15:20:56.349][Root] Root file changed: from %WS1%/beamer-tum/template-pdflatex.tex to %WS1%/beamer-tum/template-pdflatex.tex, langID latex . Refresh dependencies
+[15:20:56.350][Event] ROOT_FILE_CHANGED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:20:56.351][Cacher][Watcher] Reset.
+[15:20:56.352][Cacher][Watcher] Reset.
+[15:20:56.353][Cacher][Watcher] Reset.
+[15:20:56.354][Cacher] Adding %WS1%/beamer-tum/template-pdflatex.tex .
+[15:20:56.356][Cacher][Watcher] Watched %WS1%/beamer-tum/template-pdflatex.tex with a new watcher on %WS1%/beamer-tum .
+[15:20:56.356][Event] FILE_WATCHED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:20:56.357][Cacher] Caching %WS1%/beamer-tum/template-pdflatex.tex .
+[15:20:56.358][Cacher] Updated inputs of %WS1%/beamer-tum/template-pdflatex.tex .
+[15:20:56.358][Cacher] Parse LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:20:56.359][Event] ROOT_FILE_SEARCHED
+[15:20:56.360][Event] STRUCTURE_UPDATED
+[15:20:56.426][Cacher] Parsed LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:20:56.428][File] Calling kpsewhich to resolve beamer.cls .
+[15:20:56.705][Cacher] Updated elements in 276.89 ms: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:20:56.706][Event] FILE_PARSED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:20:56.708][Cacher] Parsing .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[15:20:56.743][Cacher] Found .aux %WS1%/beamer-tum/template-pdflatex.tex from .fls %WS1%/beamer-tum/template-pdflatex.fls , parsing.
+[15:20:56.744][Cacher] Parsed .aux %WS1%/beamer-tum/template-pdflatex.tex .
+[15:20:56.745][Cacher] Parsed .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[15:20:56.745][Structure] Structure force updated with 13 root sections for %WS1%/beamer-tum/template-pdflatex.tex .
+[15:20:56.746][Event] STRUCTURE_UPDATED
+[15:21:12.335][Extension] onDidSaveTextDocument triggered: file://%WS1%/beamer-tum/template-pdflatex.tex
+[15:21:12.396][Cacher][Watcher] "change" emitted on %WS1%/beamer-tum/template-pdflatex.tex.
+[15:21:12.399][Cacher] Caching %WS1%/beamer-tum/template-pdflatex.tex .
+[15:21:12.401][Cacher] Updated inputs of %WS1%/beamer-tum/template-pdflatex.tex .
+[15:21:12.402][Cacher] Parse LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:21:12.403][Build] Auto build starteddetecting the change of a file: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:21:12.404][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/beamer-tum/template-pdflatex.tex"}
+[15:21:12.405][Build] The document of the active editor: file://%WS1%/beamer-tum/template-pdflatex.tex
+[15:21:12.406][Build] The languageId of the document: latex
+[15:21:12.407][Build] Building root file: %WS1%/beamer-tum/template-pdflatex.tex
+[15:21:12.408][Build][Recipe] Build root file %WS1%/beamer-tum/template-pdflatex.tex
+[15:21:12.409][Event] FILE_CHANGED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:21:12.417][Build][Recipe] Preparing to run recipe: latexmk.
+[15:21:12.418][Build][Recipe] Prepared 1 tools.
+[15:21:12.421][Build][Recipe] outDir: %WS1%/beamer-tum .
+[15:21:12.423][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/beamer-tum","%WS1%/beamer-tum/template-pdflatex"].
+[15:21:12.424][Build] env: {}
+[15:21:12.425][Build] root: %WS1%/beamer-tum/template-pdflatex.tex
+[15:21:12.427][Build] cwd: %WS1%/beamer-tum
+[15:21:12.454][Build] LaTeX build process spawned with PID 19935.
+[15:21:12.557][Cacher] Parsed LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:21:12.559][File] Calling kpsewhich to resolve beamer.cls .
+[15:21:12.823][Cacher] Updated elements in 264.75 ms: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:21:12.825][Event] FILE_PARSED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:21:12.828][Structure] Structure force updated with 5 root sections for %WS1%/beamer-tum/template-pdflatex.tex .
+[15:21:12.828][Event] STRUCTURE_UPDATED
+[15:21:14.724][Parser][TexLog] Logged 0 messages.
+[15:21:14.724][Build] Finished a step in recipe with PID 19935.
+[15:21:14.725][Build] Successfully built %WS1%/beamer-tum/template-pdflatex.tex .
+[15:21:14.726][Event] BUILD_DONE
+[15:21:14.728][Viewer] Call refreshExistingViewer: "%WS1%/beamer-tum/template-pdflatex.pdf" .
+[15:21:14.728][Viewer] Refresh PDF viewer: %WS1%/beamer-tum/template-pdflatex.pdf
+[15:21:14.729][Cacher] Parsing .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[15:21:14.755][Cacher] Found .aux %WS1%/beamer-tum/template-pdflatex.tex from .fls %WS1%/beamer-tum/template-pdflatex.fls , parsing.
+[15:21:14.756][Cacher] Parsed .aux %WS1%/beamer-tum/template-pdflatex.tex .
+[15:21:14.756][Cacher] Parsed .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[15:21:14.760][Server] Preview PDF file: file://%WS1%/beamer-tum/template-pdflatex.pdf
+[15:22:12.957][Extension] onDidSaveTextDocument triggered: file://%WS1%/beamer-tum/template-pdflatex.tex
+[15:22:13.015][Cacher][Watcher] "change" emitted on %WS1%/beamer-tum/template-pdflatex.tex.
+[15:22:13.026][Cacher] Caching %WS1%/beamer-tum/template-pdflatex.tex .
+[15:22:13.028][Cacher] Updated inputs of %WS1%/beamer-tum/template-pdflatex.tex .
+[15:22:13.029][Cacher] Parse LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:22:13.030][Build] Auto build starteddetecting the change of a file: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:22:13.031][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/beamer-tum/template-pdflatex.tex"}
+[15:22:13.032][Build] The document of the active editor: file://%WS1%/beamer-tum/template-pdflatex.tex
+[15:22:13.033][Build] The languageId of the document: latex
+[15:22:13.034][Build] Building root file: %WS1%/beamer-tum/template-pdflatex.tex
+[15:22:13.035][Build][Recipe] Build root file %WS1%/beamer-tum/template-pdflatex.tex
+[15:22:13.036][Event] FILE_CHANGED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:22:13.043][Build][Recipe] Preparing to run recipe: latexmk.
+[15:22:13.044][Build][Recipe] Prepared 1 tools.
+[15:22:13.050][Build][Recipe] outDir: %WS1%/beamer-tum .
+[15:22:13.054][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/beamer-tum","%WS1%/beamer-tum/template-pdflatex"].
+[15:22:13.056][Build] env: {}
+[15:22:13.057][Build] root: %WS1%/beamer-tum/template-pdflatex.tex
+[15:22:13.063][Build] cwd: %WS1%/beamer-tum
+[15:22:13.094][Build] LaTeX build process spawned with PID 20518.
+[15:22:13.171][Cacher] Parsed LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:22:13.172][File] Calling kpsewhich to resolve beamer.cls .
+[15:22:13.418][Cacher] Updated elements in 245.95 ms: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:22:13.419][Event] FILE_PARSED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:22:13.420][Structure] Structure force updated with 5 root sections for %WS1%/beamer-tum/template-pdflatex.tex .
+[15:22:13.421][Event] STRUCTURE_UPDATED
+[15:22:16.888][Root] Current workspace folders: ["file://%WS1%"]
+[15:22:16.902][Root] Found root file from active editor: %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex
+[15:22:16.903][Root] Root file changed: from %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex to %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex, langID latex . Refresh dependencies
+[15:22:16.903][Event] ROOT_FILE_CHANGED: "%WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex"
+[15:22:16.904][Cacher][Watcher] Reset.
+[15:22:16.904][Cacher][Watcher] Reset.
+[15:22:16.905][Cacher][Watcher] Reset.
+[15:22:16.907][Cacher] Adding %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:22:16.908][Cacher][Watcher] Watched %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex with a new watcher on %WS1%/Conference-LaTeX-template_10-17-19 .
+[15:22:16.908][Event] FILE_WATCHED: "%WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex"
+[15:22:16.909][Cacher] Caching %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:22:16.910][Cacher] Updated inputs of %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:22:16.911][Cacher] Parse LaTeX AST: %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:22:16.911][Event] ROOT_FILE_SEARCHED
+[15:22:16.912][Event] STRUCTURE_UPDATED
+[15:22:17.301][Cacher] Parsed LaTeX AST: %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:22:17.301][File] Calling kpsewhich to resolve IEEEtran.cls .
+[15:22:17.555][Cacher] Updated elements in 253.64 ms: %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:22:17.556][Event] FILE_PARSED: "%WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex"
+[15:22:17.557][Cacher] Parsing .fls %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.fls .
+[15:22:17.560][Cacher] Adding %WS1%/Conference-LaTeX-template_10-17-19/IEEEtran.cls .
+[15:22:17.560][Cacher][Watcher] Watched %WS1%/Conference-LaTeX-template_10-17-19/IEEEtran.cls .
+[15:22:17.560][Event] FILE_WATCHED: "%WS1%/Conference-LaTeX-template_10-17-19/IEEEtran.cls"
+[15:22:17.569][Cacher] Found .aux %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex from .fls %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.fls , parsing.
+[15:22:17.571][Cacher] Parsed .aux %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:22:17.571][Cacher] Parsed .fls %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.fls .
+[15:22:17.572][Structure] Structure force updated with 6 root sections for %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:22:17.573][Event] STRUCTURE_UPDATED
+[15:22:17.579][Parser][TexLog] Logged 0 messages.
+[15:22:17.580][Build] Finished a step in recipe with PID 20518.
+[15:22:17.580][Build] Successfully built %WS1%/beamer-tum/template-pdflatex.tex .
+[15:22:17.581][Event] BUILD_DONE
+[15:22:17.581][Viewer] Call refreshExistingViewer: "%WS1%/beamer-tum/template-pdflatex.pdf" .
+[15:22:17.582][Viewer] Refresh PDF viewer: %WS1%/beamer-tum/template-pdflatex.pdf
+[15:22:17.584][Cacher] Parsing .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[15:22:17.621][Cacher] Found .aux %WS1%/beamer-tum/template-pdflatex.tex from .fls %WS1%/beamer-tum/template-pdflatex.fls , parsing.
+[15:22:17.622][Cacher] Parsed .aux %WS1%/beamer-tum/template-pdflatex.tex .
+[15:22:17.622][Cacher] Parsed .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[15:22:17.627][Server] Preview PDF file: file://%WS1%/beamer-tum/template-pdflatex.pdf
+[15:22:17.882][Root] Current workspace folders: ["file://%WS1%"]
+[15:22:17.909][Root] Found root file from active editor: %WS1%/beamer-tum/template-pdflatex.tex
+[15:22:17.911][Root] Root file changed: from %WS1%/beamer-tum/template-pdflatex.tex to %WS1%/beamer-tum/template-pdflatex.tex, langID latex . Refresh dependencies
+[15:22:17.911][Event] ROOT_FILE_CHANGED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:22:17.912][Cacher][Watcher] Reset.
+[15:22:17.913][Cacher][Watcher] Reset.
+[15:22:17.913][Cacher][Watcher] Reset.
+[15:22:17.915][Cacher] Adding %WS1%/beamer-tum/template-pdflatex.tex .
+[15:22:17.916][Cacher][Watcher] Watched %WS1%/beamer-tum/template-pdflatex.tex with a new watcher on %WS1%/beamer-tum .
+[15:22:17.917][Event] FILE_WATCHED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:22:17.918][Cacher] Caching %WS1%/beamer-tum/template-pdflatex.tex .
+[15:22:17.920][Cacher] Updated inputs of %WS1%/beamer-tum/template-pdflatex.tex .
+[15:22:17.920][Cacher] Parse LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:22:17.921][Event] ROOT_FILE_SEARCHED
+[15:22:17.922][Event] STRUCTURE_UPDATED
+[15:22:17.980][Cacher] Parsed LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:22:17.983][File] Calling kpsewhich to resolve beamer.cls .
+[15:22:18.236][Cacher] Updated elements in 253.35 ms: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:22:18.237][Event] FILE_PARSED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:22:18.238][Cacher] Parsing .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[15:22:18.270][Cacher] Found .aux %WS1%/beamer-tum/template-pdflatex.tex from .fls %WS1%/beamer-tum/template-pdflatex.fls , parsing.
+[15:22:18.270][Cacher] Parsed .aux %WS1%/beamer-tum/template-pdflatex.tex .
+[15:22:18.271][Cacher] Parsed .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[15:22:18.271][Structure] Structure force updated with 13 root sections for %WS1%/beamer-tum/template-pdflatex.tex .
+[15:22:18.272][Event] STRUCTURE_UPDATED
+[15:22:20.494][Viewer] Handle data type: loaded
+[15:22:20.494][Event] VIEWER_PAGE_LOADED
+[15:22:20.495][Viewer] Handle data type: loaded
+[15:22:20.496][Event] VIEWER_PAGE_LOADED
+[15:22:30.297][Event] STRUCTURE_UPDATED
+[15:24:12.647][Extension] onDidSaveTextDocument triggered: file://%WS1%/beamer-tum/template-pdflatex.tex
+[15:24:12.712][Cacher][Watcher] "change" emitted on %WS1%/beamer-tum/template-pdflatex.tex.
+[15:24:12.714][Cacher] Caching %WS1%/beamer-tum/template-pdflatex.tex .
+[15:24:12.715][Cacher] Updated inputs of %WS1%/beamer-tum/template-pdflatex.tex .
+[15:24:12.716][Cacher] Parse LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:24:12.717][Build] Auto build starteddetecting the change of a file: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:24:12.717][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/beamer-tum/template-pdflatex.tex"}
+[15:24:12.718][Build] The document of the active editor: file://%WS1%/beamer-tum/template-pdflatex.tex
+[15:24:12.719][Build] The languageId of the document: latex
+[15:24:12.719][Build] Building root file: %WS1%/beamer-tum/template-pdflatex.tex
+[15:24:12.720][Build][Recipe] Build root file %WS1%/beamer-tum/template-pdflatex.tex
+[15:24:12.720][Event] FILE_CHANGED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:24:12.723][Build][Recipe] Preparing to run recipe: latexmk.
+[15:24:12.723][Build][Recipe] Prepared 1 tools.
+[15:24:12.725][Build][Recipe] outDir: %WS1%/beamer-tum .
+[15:24:12.727][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/beamer-tum","%WS1%/beamer-tum/template-pdflatex"].
+[15:24:12.728][Build] env: {}
+[15:24:12.728][Build] root: %WS1%/beamer-tum/template-pdflatex.tex
+[15:24:12.729][Build] cwd: %WS1%/beamer-tum
+[15:24:12.742][Build] LaTeX build process spawned with PID 21664.
+[15:24:12.782][Cacher] Parsed LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:24:12.783][File] Calling kpsewhich to resolve beamer.cls .
+[15:24:13.010][Cacher] Updated elements in 227.70 ms: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:24:13.011][Event] FILE_PARSED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:24:13.012][Structure] Structure force updated with 6 root sections for %WS1%/beamer-tum/template-pdflatex.tex .
+[15:24:13.013][Event] STRUCTURE_UPDATED
+[15:24:17.286][Parser][TexLog] Logged 0 messages.
+[15:24:17.287][Build] Finished a step in recipe with PID 21664.
+[15:24:17.287][Build] Successfully built %WS1%/beamer-tum/template-pdflatex.tex .
+[15:24:17.287][Event] BUILD_DONE
+[15:24:17.288][Viewer] Call refreshExistingViewer: "%WS1%/beamer-tum/template-pdflatex.pdf" .
+[15:24:17.288][Viewer] Refresh PDF viewer: %WS1%/beamer-tum/template-pdflatex.pdf
+[15:24:17.289][Cacher] Parsing .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[15:24:17.314][Cacher] Found .aux %WS1%/beamer-tum/template-pdflatex.tex from .fls %WS1%/beamer-tum/template-pdflatex.fls , parsing.
+[15:24:17.314][Cacher] Parsed .aux %WS1%/beamer-tum/template-pdflatex.tex .
+[15:24:17.314][Cacher] Parsed .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[15:24:17.317][Server] Preview PDF file: file://%WS1%/beamer-tum/template-pdflatex.pdf
+[15:24:28.478][Extension] onDidSaveTextDocument triggered: file://%WS1%/beamer-tum/template-pdflatex.tex
+[15:24:28.541][Cacher][Watcher] "change" emitted on %WS1%/beamer-tum/template-pdflatex.tex.
+[15:24:28.543][Cacher] Caching %WS1%/beamer-tum/template-pdflatex.tex .
+[15:24:28.544][Cacher] Updated inputs of %WS1%/beamer-tum/template-pdflatex.tex .
+[15:24:28.545][Cacher] Parse LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:24:28.545][Build] Auto build starteddetecting the change of a file: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:24:28.546][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/beamer-tum/template-pdflatex.tex"}
+[15:24:28.546][Build] The document of the active editor: file://%WS1%/beamer-tum/template-pdflatex.tex
+[15:24:28.547][Build] The languageId of the document: latex
+[15:24:28.547][Build] Building root file: %WS1%/beamer-tum/template-pdflatex.tex
+[15:24:28.548][Build][Recipe] Build root file %WS1%/beamer-tum/template-pdflatex.tex
+[15:24:28.548][Event] FILE_CHANGED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:24:28.557][Build][Recipe] Preparing to run recipe: latexmk.
+[15:24:28.558][Build][Recipe] Prepared 1 tools.
+[15:24:28.569][Build][Recipe] outDir: %WS1%/beamer-tum .
+[15:24:28.571][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/beamer-tum","%WS1%/beamer-tum/template-pdflatex"].
+[15:24:28.571][Build] env: {}
+[15:24:28.571][Build] root: %WS1%/beamer-tum/template-pdflatex.tex
+[15:24:28.572][Build] cwd: %WS1%/beamer-tum
+[15:24:28.584][Build] LaTeX build process spawned with PID 21835.
+[15:24:28.618][Cacher] Parsed LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:24:28.619][File] Calling kpsewhich to resolve beamer.cls .
+[15:24:28.860][Cacher] Updated elements in 241.68 ms: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:24:28.861][Event] FILE_PARSED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:24:28.862][Structure] Structure force updated with 11 root sections for %WS1%/beamer-tum/template-pdflatex.tex .
+[15:24:28.863][Event] STRUCTURE_UPDATED
+[15:24:33.175][Parser][TexLog] Logged 0 messages.
+[15:24:33.176][Build] Finished a step in recipe with PID 21835.
+[15:24:33.176][Build] Successfully built %WS1%/beamer-tum/template-pdflatex.tex .
+[15:24:33.176][Event] BUILD_DONE
+[15:24:33.177][Viewer] Call refreshExistingViewer: "%WS1%/beamer-tum/template-pdflatex.pdf" .
+[15:24:33.177][Viewer] Refresh PDF viewer: %WS1%/beamer-tum/template-pdflatex.pdf
+[15:24:33.178][Cacher] Parsing .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[15:24:33.199][Cacher] Found .aux %WS1%/beamer-tum/template-pdflatex.tex from .fls %WS1%/beamer-tum/template-pdflatex.fls , parsing.
+[15:24:33.200][Cacher] Parsed .aux %WS1%/beamer-tum/template-pdflatex.tex .
+[15:24:33.200][Cacher] Parsed .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[15:24:33.202][Server] Preview PDF file: file://%WS1%/beamer-tum/template-pdflatex.pdf
+[15:24:43.004][Viewer] Handle data type: loaded
+[15:24:43.005][Event] VIEWER_PAGE_LOADED
+[15:24:43.006][Viewer] Handle data type: loaded
+[15:24:43.007][Event] VIEWER_PAGE_LOADED
+[15:29:17.027][Event] STRUCTURE_UPDATED
+[15:29:41.447][Extension] onDidSaveTextDocument triggered: file://%WS1%/beamer-tum/template-pdflatex.tex
+[15:29:41.509][Cacher][Watcher] "change" emitted on %WS1%/beamer-tum/template-pdflatex.tex.
+[15:29:41.516][Cacher] Caching %WS1%/beamer-tum/template-pdflatex.tex .
+[15:29:41.519][Cacher] Updated inputs of %WS1%/beamer-tum/template-pdflatex.tex .
+[15:29:41.520][Cacher] Parse LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:29:41.521][Build] Auto build starteddetecting the change of a file: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:29:41.522][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/beamer-tum/template-pdflatex.tex"}
+[15:29:41.523][Build] The document of the active editor: file://%WS1%/beamer-tum/template-pdflatex.tex
+[15:29:41.524][Build] The languageId of the document: latex
+[15:29:41.525][Build] Building root file: %WS1%/beamer-tum/template-pdflatex.tex
+[15:29:41.526][Build][Recipe] Build root file %WS1%/beamer-tum/template-pdflatex.tex
+[15:29:41.527][Event] FILE_CHANGED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:29:41.532][Build][Recipe] Preparing to run recipe: latexmk.
+[15:29:41.533][Build][Recipe] Prepared 1 tools.
+[15:29:41.537][Build][Recipe] outDir: %WS1%/beamer-tum .
+[15:29:41.542][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/beamer-tum","%WS1%/beamer-tum/template-pdflatex"].
+[15:29:41.543][Build] env: {}
+[15:29:41.545][Build] root: %WS1%/beamer-tum/template-pdflatex.tex
+[15:29:41.547][Build] cwd: %WS1%/beamer-tum
+[15:29:41.575][Build] LaTeX build process spawned with PID 24725.
+[15:29:41.718][Cacher] Parsed LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:29:41.719][File] Calling kpsewhich to resolve beamer.cls .
+[15:29:41.961][Cacher] Updated elements in 241.93 ms: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:29:41.962][Event] FILE_PARSED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:29:41.963][Structure] Structure force updated with 12 root sections for %WS1%/beamer-tum/template-pdflatex.tex .
+[15:29:41.963][Event] STRUCTURE_UPDATED
+[15:29:44.042][Parser][TexLog] Logged 0 messages.
+[15:29:44.043][Build] Finished a step in recipe with PID 24725.
+[15:29:44.043][Build] Successfully built %WS1%/beamer-tum/template-pdflatex.tex .
+[15:29:44.043][Event] BUILD_DONE
+[15:29:44.044][Viewer] Call refreshExistingViewer: "%WS1%/beamer-tum/template-pdflatex.pdf" .
+[15:29:44.044][Viewer] Refresh PDF viewer: %WS1%/beamer-tum/template-pdflatex.pdf
+[15:29:44.046][Cacher] Parsing .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[15:29:44.075][Cacher] Found .aux %WS1%/beamer-tum/template-pdflatex.tex from .fls %WS1%/beamer-tum/template-pdflatex.fls , parsing.
+[15:29:44.076][Cacher] Parsed .aux %WS1%/beamer-tum/template-pdflatex.tex .
+[15:29:44.076][Cacher] Parsed .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[15:29:44.079][Server] Preview PDF file: file://%WS1%/beamer-tum/template-pdflatex.pdf
+[15:30:01.107][Viewer] Handle data type: loaded
+[15:30:01.108][Event] VIEWER_PAGE_LOADED
+[15:35:53.990][Event] STRUCTURE_UPDATED
+[15:37:54.855][Event] STRUCTURE_UPDATED
+[15:37:56.232][Extension] onDidSaveTextDocument triggered: file://%WS1%/beamer-tum/template-pdflatex.tex
+[15:37:56.297][Cacher][Watcher] "change" emitted on %WS1%/beamer-tum/template-pdflatex.tex.
+[15:37:56.301][Cacher] Caching %WS1%/beamer-tum/template-pdflatex.tex .
+[15:37:56.302][Cacher] Updated inputs of %WS1%/beamer-tum/template-pdflatex.tex .
+[15:37:56.303][Cacher] Parse LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:37:56.303][Build] Auto build starteddetecting the change of a file: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:37:56.304][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/beamer-tum/template-pdflatex.tex"}
+[15:37:56.304][Build] The document of the active editor: file://%WS1%/beamer-tum/template-pdflatex.tex
+[15:37:56.305][Build] The languageId of the document: latex
+[15:37:56.305][Build] Building root file: %WS1%/beamer-tum/template-pdflatex.tex
+[15:37:56.306][Build][Recipe] Build root file %WS1%/beamer-tum/template-pdflatex.tex
+[15:37:56.307][Event] FILE_CHANGED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:37:56.310][Build][Recipe] Preparing to run recipe: latexmk.
+[15:37:56.310][Build][Recipe] Prepared 1 tools.
+[15:37:56.312][Build][Recipe] outDir: %WS1%/beamer-tum .
+[15:37:56.314][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/beamer-tum","%WS1%/beamer-tum/template-pdflatex"].
+[15:37:56.314][Build] env: {}
+[15:37:56.315][Build] root: %WS1%/beamer-tum/template-pdflatex.tex
+[15:37:56.316][Build] cwd: %WS1%/beamer-tum
+[15:37:56.331][Build] LaTeX build process spawned with PID 29330.
+[15:37:56.357][Cacher] Parsed LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:37:56.357][File] Calling kpsewhich to resolve beamer.cls .
+[15:37:56.580][Cacher] Updated elements in 223.42 ms: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:37:56.581][Event] FILE_PARSED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:37:56.582][Structure] Structure force updated with 12 root sections for %WS1%/beamer-tum/template-pdflatex.tex .
+[15:37:56.583][Event] STRUCTURE_UPDATED
+[15:37:58.744][Parser][TexLog] Logged 0 messages.
+[15:37:58.744][Build] Finished a step in recipe with PID 29330.
+[15:37:58.745][Build] Successfully built %WS1%/beamer-tum/template-pdflatex.tex .
+[15:37:58.745][Event] BUILD_DONE
+[15:37:58.746][Viewer] Call refreshExistingViewer: "%WS1%/beamer-tum/template-pdflatex.pdf" .
+[15:37:58.746][Viewer] Refresh PDF viewer: %WS1%/beamer-tum/template-pdflatex.pdf
+[15:37:58.747][Cacher] Parsing .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[15:37:58.778][Cacher] Found .aux %WS1%/beamer-tum/template-pdflatex.tex from .fls %WS1%/beamer-tum/template-pdflatex.fls , parsing.
+[15:37:58.779][Cacher] Parsed .aux %WS1%/beamer-tum/template-pdflatex.tex .
+[15:37:58.779][Cacher] Parsed .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[15:37:58.783][Server] Preview PDF file: file://%WS1%/beamer-tum/template-pdflatex.pdf
+[15:37:58.887][Viewer] Handle data type: loaded
+[15:37:58.887][Event] VIEWER_PAGE_LOADED
+[15:38:14.633][Root] Current workspace folders: ["file://%WS1%"]
+[15:38:14.647][Root] Found root file from active editor: %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex
+[15:38:14.649][Root] Root file changed: from %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex to %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex, langID latex . Refresh dependencies
+[15:38:14.649][Event] ROOT_FILE_CHANGED: "%WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex"
+[15:38:14.650][Cacher][Watcher] Reset.
+[15:38:14.650][Cacher][Watcher] Reset.
+[15:38:14.651][Cacher][Watcher] Reset.
+[15:38:14.651][Cacher] Adding %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:38:14.652][Cacher][Watcher] Watched %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex with a new watcher on %WS1%/Conference-LaTeX-template_10-17-19 .
+[15:38:14.653][Event] FILE_WATCHED: "%WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex"
+[15:38:14.653][Cacher] Caching %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:38:14.655][Cacher] Updated inputs of %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:38:14.655][Cacher] Parse LaTeX AST: %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:38:14.655][Event] ROOT_FILE_SEARCHED
+[15:38:14.657][Event] STRUCTURE_UPDATED
+[15:38:14.968][Cacher] Parsed LaTeX AST: %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:38:14.969][File] Calling kpsewhich to resolve IEEEtran.cls .
+[15:38:15.225][Cacher] Updated elements in 256.63 ms: %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:38:15.227][Event] FILE_PARSED: "%WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex"
+[15:38:15.228][Cacher] Parsing .fls %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.fls .
+[15:38:15.232][Cacher] Adding %WS1%/Conference-LaTeX-template_10-17-19/IEEEtran.cls .
+[15:38:15.232][Cacher][Watcher] Watched %WS1%/Conference-LaTeX-template_10-17-19/IEEEtran.cls .
+[15:38:15.233][Event] FILE_WATCHED: "%WS1%/Conference-LaTeX-template_10-17-19/IEEEtran.cls"
+[15:38:15.244][Cacher] Found .aux %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex from .fls %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.fls , parsing.
+[15:38:15.245][Cacher] Parsed .aux %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:38:15.245][Cacher] Parsed .fls %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.fls .
+[15:38:15.247][Structure] Structure force updated with 12 root sections for %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[15:38:15.247][Event] STRUCTURE_UPDATED
+[15:40:49.938][Root] Current workspace folders: ["file://%WS1%"]
+[15:40:49.951][Root] Found root file from active editor: %WS1%/beamer-tum/template-pdflatex.tex
+[15:40:49.952][Root] Root file changed: from %WS1%/beamer-tum/template-pdflatex.tex to %WS1%/beamer-tum/template-pdflatex.tex, langID latex . Refresh dependencies
+[15:40:49.953][Event] ROOT_FILE_CHANGED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:40:49.953][Cacher][Watcher] Reset.
+[15:40:49.954][Cacher][Watcher] Reset.
+[15:40:49.954][Cacher][Watcher] Reset.
+[15:40:49.955][Cacher] Adding %WS1%/beamer-tum/template-pdflatex.tex .
+[15:40:49.956][Cacher][Watcher] Watched %WS1%/beamer-tum/template-pdflatex.tex with a new watcher on %WS1%/beamer-tum .
+[15:40:49.957][Event] FILE_WATCHED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:40:49.959][Cacher] Caching %WS1%/beamer-tum/template-pdflatex.tex .
+[15:40:49.961][Cacher] Updated inputs of %WS1%/beamer-tum/template-pdflatex.tex .
+[15:40:49.961][Cacher] Parse LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:40:49.962][Event] ROOT_FILE_SEARCHED
+[15:40:49.964][Event] STRUCTURE_UPDATED
+[15:40:50.010][Cacher] Parsed LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:40:50.011][File] Calling kpsewhich to resolve beamer.cls .
+[15:40:50.312][Cacher] Updated elements in 301.09 ms: %WS1%/beamer-tum/template-pdflatex.tex .
+[15:40:50.313][Event] FILE_PARSED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[15:40:50.315][Cacher] Parsing .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[15:40:50.356][Cacher] Found .aux %WS1%/beamer-tum/template-pdflatex.tex from .fls %WS1%/beamer-tum/template-pdflatex.fls , parsing.
+[15:40:50.357][Cacher] Parsed .aux %WS1%/beamer-tum/template-pdflatex.tex .
+[15:40:50.357][Cacher] Parsed .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[15:40:50.358][Structure] Structure force updated with 13 root sections for %WS1%/beamer-tum/template-pdflatex.tex .
+[15:40:50.359][Event] STRUCTURE_UPDATED
+[16:10:08.008][Event] STRUCTURE_UPDATED
+[16:51:24.902][Event] STRUCTURE_UPDATED
+[17:17:25.002][Event] STRUCTURE_UPDATED
+[16:36:48.412][Event] STRUCTURE_UPDATED
+[16:39:51.770][Event] STRUCTURE_UPDATED
+[16:40:13.759][Event] STRUCTURE_UPDATED
+[16:55:09.853][Event] STRUCTURE_UPDATED
+[16:55:15.518][Root] Current workspace folders: ["file://%WS1%"]
+[16:55:15.548][Root] Found root file from active editor: %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex
+[16:55:15.551][Root] Root file changed: from %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex to %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex, langID latex . Refresh dependencies
+[16:55:15.552][Event] ROOT_FILE_CHANGED: "%WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex"
+[16:55:15.553][Cacher][Watcher] Reset.
+[16:55:15.554][Cacher][Watcher] Reset.
+[16:55:15.555][Cacher][Watcher] Reset.
+[16:55:15.562][Cacher] Adding %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[16:55:15.563][Cacher][Watcher] Watched %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex with a new watcher on %WS1%/Conference-LaTeX-template_10-17-19 .
+[16:55:15.564][Event] FILE_WATCHED: "%WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex"
+[16:55:15.567][Cacher] Caching %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[16:55:15.569][Cacher] Updated inputs of %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[16:55:15.570][Cacher] Parse LaTeX AST: %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[16:55:15.570][Event] ROOT_FILE_SEARCHED
+[16:55:15.572][Event] STRUCTURE_UPDATED
+[16:55:15.780][Cacher] Parsed LaTeX AST: %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[16:55:15.781][File] Calling kpsewhich to resolve IEEEtran.cls .
+[16:55:16.006][Cacher] Updated elements in 225.01 ms: %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[16:55:16.007][Event] FILE_PARSED: "%WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex"
+[16:55:16.008][Cacher] Parsing .fls %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.fls .
+[16:55:16.012][Cacher] Adding %WS1%/Conference-LaTeX-template_10-17-19/IEEEtran.cls .
+[16:55:16.013][Cacher][Watcher] Watched %WS1%/Conference-LaTeX-template_10-17-19/IEEEtran.cls .
+[16:55:16.013][Event] FILE_WATCHED: "%WS1%/Conference-LaTeX-template_10-17-19/IEEEtran.cls"
+[16:55:16.026][Cacher] Found .aux %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex from .fls %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.fls , parsing.
+[16:55:16.027][Cacher] Parsed .aux %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[16:55:16.028][Cacher] Parsed .fls %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.fls .
+[16:55:16.029][Structure] Structure force updated with 12 root sections for %WS1%/Conference-LaTeX-template_10-17-19/TEPandIntegrity.tex .
+[16:55:16.030][Event] STRUCTURE_UPDATED
+[10:24:56.478][Root] Current workspace folders: ["file://%WS1%"]
+[10:24:56.506][Root] Found root file from active editor: %WS1%/beamer-tum/template-pdflatex.tex
+[10:24:56.509][Root] Root file changed: from %WS1%/beamer-tum/template-pdflatex.tex to %WS1%/beamer-tum/template-pdflatex.tex, langID latex . Refresh dependencies
+[10:24:56.510][Event] ROOT_FILE_CHANGED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[10:24:56.511][Cacher][Watcher] Reset.
+[10:24:56.512][Cacher][Watcher] Reset.
+[10:24:56.513][Cacher][Watcher] Reset.
+[10:24:56.515][Cacher] Adding %WS1%/beamer-tum/template-pdflatex.tex .
+[10:24:56.517][Cacher][Watcher] Watched %WS1%/beamer-tum/template-pdflatex.tex with a new watcher on %WS1%/beamer-tum .
+[10:24:56.519][Event] FILE_WATCHED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[10:24:56.522][Cacher] Caching %WS1%/beamer-tum/template-pdflatex.tex .
+[10:24:56.525][Cacher] Updated inputs of %WS1%/beamer-tum/template-pdflatex.tex .
+[10:24:56.526][Cacher] Parse LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[10:24:56.527][Event] ROOT_FILE_SEARCHED
+[10:24:56.531][Event] STRUCTURE_UPDATED
+[10:24:56.651][Cacher] Parsed LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[10:24:56.652][File] Calling kpsewhich to resolve beamer.cls .
+[10:24:56.910][Cacher] Updated elements in 258.57 ms: %WS1%/beamer-tum/template-pdflatex.tex .
+[10:24:56.917][Event] FILE_PARSED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[10:24:56.920][Cacher] Parsing .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[10:24:56.999][Cacher] Found .aux %WS1%/beamer-tum/template-pdflatex.tex from .fls %WS1%/beamer-tum/template-pdflatex.fls , parsing.
+[10:24:57.000][Cacher] Parsed .aux %WS1%/beamer-tum/template-pdflatex.tex .
+[10:24:57.001][Cacher] Parsed .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[10:24:57.002][Structure] Structure force updated with 13 root sections for %WS1%/beamer-tum/template-pdflatex.tex .
+[10:24:57.003][Event] STRUCTURE_UPDATED
+[10:28:31.292][Event] STRUCTURE_UPDATED
+[10:28:37.587][Event] STRUCTURE_UPDATED
+[10:30:06.097][Event] STRUCTURE_UPDATED
+[11:33:20.984][Extension] onDidSaveTextDocument triggered: file://%WS1%/beamer-tum/template-pdflatex.tex
+[11:33:21.042][Cacher][Watcher] "change" emitted on %WS1%/beamer-tum/template-pdflatex.tex.
+[11:33:21.050][Cacher] Caching %WS1%/beamer-tum/template-pdflatex.tex .
+[11:33:21.052][Cacher] Updated inputs of %WS1%/beamer-tum/template-pdflatex.tex .
+[11:33:21.053][Cacher] Parse LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[11:33:21.054][Build] Auto build starteddetecting the change of a file: %WS1%/beamer-tum/template-pdflatex.tex .
+[11:33:21.055][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/beamer-tum/template-pdflatex.tex"}
+[11:33:21.056][Build] The document of the active editor: file://%WS1%/beamer-tum/template-pdflatex.tex
+[11:33:21.057][Build] The languageId of the document: latex
+[11:33:21.058][Build] Building root file: %WS1%/beamer-tum/template-pdflatex.tex
+[11:33:21.059][Build][Recipe] Build root file %WS1%/beamer-tum/template-pdflatex.tex
+[11:33:21.060][Event] FILE_CHANGED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[11:33:21.064][Build][Recipe] Preparing to run recipe: latexmk.
+[11:33:21.066][Build][Recipe] Prepared 1 tools.
+[11:33:21.069][Build][Recipe] outDir: %WS1%/beamer-tum .
+[11:33:21.071][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/beamer-tum","%WS1%/beamer-tum/template-pdflatex"].
+[11:33:21.072][Build] env: {}
+[11:33:21.073][Build] root: %WS1%/beamer-tum/template-pdflatex.tex
+[11:33:21.074][Build] cwd: %WS1%/beamer-tum
+[11:33:21.102][Build] LaTeX build process spawned with PID 16441.
+[11:33:21.196][Cacher] Parsed LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[11:33:21.199][File] Calling kpsewhich to resolve beamer.cls .
+[11:33:21.463][Cacher] Updated elements in 264.79 ms: %WS1%/beamer-tum/template-pdflatex.tex .
+[11:33:21.464][Event] FILE_PARSED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[11:33:21.465][Structure] Structure force updated with 12 root sections for %WS1%/beamer-tum/template-pdflatex.tex .
+[11:33:21.465][Event] STRUCTURE_UPDATED
+[11:33:23.481][Parser][TexLog] Logged 0 messages.
+[11:33:23.482][Build] Finished a step in recipe with PID 16441.
+[11:33:23.482][Build] Successfully built %WS1%/beamer-tum/template-pdflatex.tex .
+[11:33:23.482][Event] BUILD_DONE
+[11:33:23.483][Viewer] Call refreshExistingViewer: "%WS1%/beamer-tum/template-pdflatex.pdf" .
+[11:33:23.483][Viewer] Refresh PDF viewer: %WS1%/beamer-tum/template-pdflatex.pdf
+[11:33:23.485][Cacher] Parsing .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[11:33:23.519][Cacher] Found .aux %WS1%/beamer-tum/template-pdflatex.tex from .fls %WS1%/beamer-tum/template-pdflatex.fls , parsing.
+[11:33:23.519][Cacher] Parsed .aux %WS1%/beamer-tum/template-pdflatex.tex .
+[11:33:23.520][Cacher] Parsed .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[11:33:23.523][Server] Preview PDF file: file://%WS1%/beamer-tum/template-pdflatex.pdf
+[11:33:23.636][Viewer] Handle data type: loaded
+[11:33:23.637][Event] VIEWER_PAGE_LOADED
+[11:33:44.704][Event] STRUCTURE_UPDATED
+[11:34:01.113][Extension] onDidSaveTextDocument triggered: file://%WS1%/beamer-tum/template-pdflatex.tex
+[11:34:01.172][Cacher][Watcher] "change" emitted on %WS1%/beamer-tum/template-pdflatex.tex.
+[11:34:01.175][Cacher] Caching %WS1%/beamer-tum/template-pdflatex.tex .
+[11:34:01.177][Cacher] Updated inputs of %WS1%/beamer-tum/template-pdflatex.tex .
+[11:34:01.178][Cacher] Parse LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[11:34:01.179][Build] Auto build starteddetecting the change of a file: %WS1%/beamer-tum/template-pdflatex.tex .
+[11:34:01.180][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/beamer-tum/template-pdflatex.tex"}
+[11:34:01.181][Build] The document of the active editor: file://%WS1%/beamer-tum/template-pdflatex.tex
+[11:34:01.182][Build] The languageId of the document: latex
+[11:34:01.183][Build] Building root file: %WS1%/beamer-tum/template-pdflatex.tex
+[11:34:01.184][Build][Recipe] Build root file %WS1%/beamer-tum/template-pdflatex.tex
+[11:34:01.185][Event] FILE_CHANGED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[11:34:01.189][Build][Recipe] Preparing to run recipe: latexmk.
+[11:34:01.190][Build][Recipe] Prepared 1 tools.
+[11:34:01.193][Build][Recipe] outDir: %WS1%/beamer-tum .
+[11:34:01.196][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/beamer-tum","%WS1%/beamer-tum/template-pdflatex"].
+[11:34:01.197][Build] env: {}
+[11:34:01.198][Build] root: %WS1%/beamer-tum/template-pdflatex.tex
+[11:34:01.199][Build] cwd: %WS1%/beamer-tum
+[11:34:01.225][Build] LaTeX build process spawned with PID 16838.
+[11:34:01.424][Cacher] Parsed LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[11:34:01.424][File] Calling kpsewhich to resolve beamer.cls .
+[11:34:01.639][Cacher] Updated elements in 214.92 ms: %WS1%/beamer-tum/template-pdflatex.tex .
+[11:34:01.640][Event] FILE_PARSED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[11:34:01.641][Structure] Structure force updated with 12 root sections for %WS1%/beamer-tum/template-pdflatex.tex .
+[11:34:01.643][Event] STRUCTURE_UPDATED
+[11:34:03.613][Parser][TexLog] Logged 0 messages.
+[11:34:03.614][Build] Finished a step in recipe with PID 16838.
+[11:34:03.614][Build] Successfully built %WS1%/beamer-tum/template-pdflatex.tex .
+[11:34:03.614][Event] BUILD_DONE
+[11:34:03.615][Viewer] Call refreshExistingViewer: "%WS1%/beamer-tum/template-pdflatex.pdf" .
+[11:34:03.615][Viewer] Refresh PDF viewer: %WS1%/beamer-tum/template-pdflatex.pdf
+[11:34:03.616][Cacher] Parsing .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[11:34:03.638][Cacher] Found .aux %WS1%/beamer-tum/template-pdflatex.tex from .fls %WS1%/beamer-tum/template-pdflatex.fls , parsing.
+[11:34:03.639][Cacher] Parsed .aux %WS1%/beamer-tum/template-pdflatex.tex .
+[11:34:03.639][Cacher] Parsed .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[11:34:03.643][Server] Preview PDF file: file://%WS1%/beamer-tum/template-pdflatex.pdf
+[11:34:03.728][Viewer] Handle data type: loaded
+[11:34:03.729][Event] VIEWER_PAGE_LOADED
+[11:34:05.286][Event] STRUCTURE_UPDATED
+[11:38:30.216][Extension] onDidSaveTextDocument triggered: file://%WS1%/beamer-tum/template-pdflatex.tex
+[11:38:30.276][Cacher][Watcher] "change" emitted on %WS1%/beamer-tum/template-pdflatex.tex.
+[11:38:30.279][Cacher] Caching %WS1%/beamer-tum/template-pdflatex.tex .
+[11:38:30.280][Cacher] Updated inputs of %WS1%/beamer-tum/template-pdflatex.tex .
+[11:38:30.280][Cacher] Parse LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[11:38:30.281][Build] Auto build starteddetecting the change of a file: %WS1%/beamer-tum/template-pdflatex.tex .
+[11:38:30.281][Event] AUTO_BUILD_INITIATED: {"type":"onFileChange","file":"%WS1%/beamer-tum/template-pdflatex.tex"}
+[11:38:30.281][Build] The document of the active editor: file://%WS1%/beamer-tum/template-pdflatex.tex
+[11:38:30.282][Build] The languageId of the document: latex
+[11:38:30.282][Build] Building root file: %WS1%/beamer-tum/template-pdflatex.tex
+[11:38:30.282][Build][Recipe] Build root file %WS1%/beamer-tum/template-pdflatex.tex
+[11:38:30.283][Event] FILE_CHANGED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[11:38:30.285][Build][Recipe] Preparing to run recipe: latexmk.
+[11:38:30.285][Build][Recipe] Prepared 1 tools.
+[11:38:30.286][Build][Recipe] outDir: %WS1%/beamer-tum .
+[11:38:30.287][Build] Recipe step 1 The command is latexmk:["-synctex=1","-interaction=nonstopmode","-file-line-error","-pdf","-outdir=%WS1%/beamer-tum","%WS1%/beamer-tum/template-pdflatex"].
+[11:38:30.288][Build] env: {}
+[11:38:30.288][Build] root: %WS1%/beamer-tum/template-pdflatex.tex
+[11:38:30.289][Build] cwd: %WS1%/beamer-tum
+[11:38:30.303][Build] LaTeX build process spawned with PID 19888.
+[11:38:30.352][Cacher] Parsed LaTeX AST: %WS1%/beamer-tum/template-pdflatex.tex .
+[11:38:30.354][File] Calling kpsewhich to resolve beamer.cls .
+[11:38:30.593][Cacher] Updated elements in 239.95 ms: %WS1%/beamer-tum/template-pdflatex.tex .
+[11:38:30.595][Event] FILE_PARSED: "%WS1%/beamer-tum/template-pdflatex.tex"
+[11:38:30.596][Structure] Structure force updated with 12 root sections for %WS1%/beamer-tum/template-pdflatex.tex .
+[11:38:30.596][Event] STRUCTURE_UPDATED
+[11:38:34.687][Parser][TexLog] Logged 0 messages.
+[11:38:34.688][Build] Finished a step in recipe with PID 19888.
+[11:38:34.688][Build] Successfully built %WS1%/beamer-tum/template-pdflatex.tex .
+[11:38:34.689][Event] BUILD_DONE
+[11:38:34.690][Viewer] Call refreshExistingViewer: "%WS1%/beamer-tum/template-pdflatex.pdf" .
+[11:38:34.690][Viewer] Refresh PDF viewer: %WS1%/beamer-tum/template-pdflatex.pdf
+[11:38:34.691][Cacher] Parsing .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[11:38:34.724][Cacher] Found .aux %WS1%/beamer-tum/template-pdflatex.tex from .fls %WS1%/beamer-tum/template-pdflatex.fls , parsing.
+[11:38:34.724][Cacher] Parsed .aux %WS1%/beamer-tum/template-pdflatex.tex .
+[11:38:34.725][Cacher] Parsed .fls %WS1%/beamer-tum/template-pdflatex.fls .
+[11:38:34.729][Server] Preview PDF file: file://%WS1%/beamer-tum/template-pdflatex.pdf
+[11:38:34.856][Viewer] Handle data type: loaded
+[11:38:34.857][Event] VIEWER_PAGE_LOADED
+[11:38:43.453][Event] STRUCTURE_UPDATED
+[11:48:39.647][Cacher][Watcher] Reset.
+[11:48:39.647][Cacher][Watcher] Reset.
+[11:48:39.648][Cacher][Watcher] Reset.

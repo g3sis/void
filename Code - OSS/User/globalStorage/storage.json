@@ -1,19 +1,29 @@
 {
     "userDataProfilesMigration": true,
     "profileAssociations": {
-        "workspaces": {},
-        "emptyWindows": {
-            "1699536981467": "__default__profile__"
-        }
+        "workspaces": {
+            "file:///home/void/Documents": "__default__profile__",
+            "file:///home/void/Documents/itsec": "__default__profile__",
+            "file:///home/void/Documents/ki": "__default__profile__",
+            "file:///home/void/Documents/ki/ki.code-workspace": "__default__profile__",
+            "file:///home/void/Documents/itsec/itsec.code-workspace": "__default__profile__",
+            "file:///home/void/Documents/TEP-and-Integrity-Codes/TEP-and-Integrity-Codes.code-workspace": "__default__profile__",
+            "file:///home/void/Documents/TEP-and-Integrity-Codes": "__default__profile__"
+        },
+        "emptyWindows": {}
     },
     "profileAssociationsMigration": true,
     "telemetry.machineId": "c5098240a8eb15d4b006b5601d556cfc587e63e17ec99fab9a74a298d6d9c730",
     "backupWorkspaces": {
         "workspaces": [],
-        "folders": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/void/Documents/TEP-and-Integrity-Codes"
+            }
+        ],
         "emptyWindows": [
             {
-                "backupFolder": "1699536981467"
+                "backupFolder": "1707429188130"
             }
         ]
     },
@@ -62,15 +72,183 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
-                                    "id": "openRecentFile",
+                                    "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/void/Documents/itsec/code_stuff/W03/t10/pwn-students.py",
-                                        "path": "/home/void/Documents/itsec/code_stuff/W03/t10/pwn-students.py",
+                                        "external": "file:///home/void/Documents/TEP-and-Integrity-Codes",
+                                        "path": "/home/void/Documents/TEP-and-Integrity-Codes",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Documents/itsec/code_stuff/W03/t10/pwn-students.py"
+                                    "label": "~/Documents/TEP-and-Integrity-Codes"
+                                },
+                                {
+                                    "id": "openRecentWorkspace",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/void/Documents/itsec/itsec.code-workspace",
+                                        "path": "/home/void/Documents/itsec/itsec.code-workspace",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/itsec/itsec (Workspace)"
+                                },
+                                {
+                                    "id": "openRecentWorkspace",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/void/Documents/ki/ki.code-workspace",
+                                        "path": "/home/void/Documents/ki/ki.code-workspace",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/ki/ki (Workspace)"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/void/Documents/ki",
+                                        "path": "/home/void/Documents/ki",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/ki"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/void/Documents/itsec",
+                                        "path": "/home/void/Documents/itsec",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/itsec"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/void/Documents",
+                                        "path": "/home/void/Documents",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/void/Documents/TEP-and-Integrity-Codes/howto-review.pdf",
+                                        "path": "/home/void/Documents/TEP-and-Integrity-Codes/howto-review.pdf",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/TEP-and-Integrity-Codes/howto-review.pdf"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/void/Documents/TEP-and-Integrity-Codes/works.md",
+                                        "path": "/home/void/Documents/TEP-and-Integrity-Codes/works.md",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/TEP-and-Integrity-Codes/works.md"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/void/Documents/TEP-and-Integrity-Codes/material/Chorus%20%20Scalable%20In-band%20Trust%20Establishment.pdf",
+                                        "path": "/home/void/Documents/TEP-and-Integrity-Codes/material/Chorus  Scalable In-band Trust Establishment.pdf",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/TEP-and-Integrity-Codes/material/Chorus  Scalable In-band Trust Establishment.pdf"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/void/Documents/TEP-and-Integrity-Codes/README.md",
+                                        "path": "/home/void/Documents/TEP-and-Integrity-Codes/README.md",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/TEP-and-Integrity-Codes/README.md"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/void/Documents/ki/Topic%203%20Logic/ArtificialIntelligence_8_InferenceInFirstOrderLogic.pdf",
+                                        "path": "/home/void/Documents/ki/Topic 3 Logic/ArtificialIntelligence_8_InferenceInFirstOrderLogic.pdf",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/ki/Topic 3 Logic/ArtificialIntelligence_8_InferenceInFirstOrderLogic.pdf"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/void/Documents/ki/Topic%203%20Logic/ArtificialIntelligence_7_FirstOrderLogic.pdf",
+                                        "path": "/home/void/Documents/ki/Topic 3 Logic/ArtificialIntelligence_7_FirstOrderLogic.pdf",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/ki/Topic 3 Logic/ArtificialIntelligence_7_FirstOrderLogic.pdf"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/void/Documents/ki/Topic%202%20Constraint%20Satisfaction%20Problems/ArtificialIntelligence_5_ConstraintSatisfactionProblems.pdf",
+                                        "path": "/home/void/Documents/ki/Topic 2 Constraint Satisfaction Problems/ArtificialIntelligence_5_ConstraintSatisfactionProblems.pdf",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/ki/Topic 2 Constraint Satisfaction Problems/ArtificialIntelligence_5_ConstraintSatisfactionProblems.pdf"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/void/Documents/ki/Topic%203%20Logic/ArtificialIntelligence_6_LogicalAgents.pdf",
+                                        "path": "/home/void/Documents/ki/Topic 3 Logic/ArtificialIntelligence_6_LogicalAgents.pdf",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/ki/Topic 3 Logic/ArtificialIntelligence_6_LogicalAgents.pdf"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/void/Documents/itsec/sec.md",
+                                        "path": "/home/void/Documents/itsec/sec.md",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/itsec/sec.md"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/void/Documents/itsec/slides/kapitel5_authentifizierung.pdf",
+                                        "path": "/home/void/Documents/itsec/slides/kapitel5_authentifizierung.pdf",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Documents/itsec/slides/kapitel5_authentifizierung.pdf"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -84,7 +262,7 @@
                                 },
                                 {
                                     "id": "workbench.action.clearRecentFiles",
-                                    "label": "&&Clear Recently Opened"
+                                    "label": "&&Clear Recently Opened..."
                                 }
                             ]
                         }
@@ -128,6 +306,13 @@
                         "label": "Share",
                         "submenu": {
                             "items": [
+                                {
+                                    "id": "github.copyVscodeDevLinkFile",
+                                    "label": "Copy vscode.dev Link"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
                                 {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)..."
@@ -254,6 +439,10 @@
                     {
                         "id": "workbench.action.closeActiveEditor",
                         "label": "&&Close Editor"
+                    },
+                    {
+                        "id": "workbench.action.closeFolder",
+                        "label": "Close &&Folder"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -444,8 +633,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleMenuBar",
-                                    "label": "Menu &&Bar",
-                                    "checked": true
+                                    "label": "Menu &&Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
@@ -462,20 +650,33 @@
                                     "checked": true
                                 },
                                 {
-                                    "id": "workbench.action.toggleActivityBarVisibility",
-                                    "label": "&&Activity Bar",
-                                    "checked": true
-                                },
-                                {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "&&Panel"
+                                    "label": "&&Panel",
+                                    "checked": true
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarPosition",
-                                    "label": "&&Move Primary Side Bar Right"
+                                    "label": "&&Move Primary Side Bar Left"
+                                },
+                                {
+                                    "id": "submenuitem.ActivityBarPositionMenu",
+                                    "label": "Activity Bar Position",
+                                    "submenu": {
+                                        "items": [
+                                            {
+                                                "id": "workbench.action.activityBarLocation.side",
+                                                "label": "&&Side",
+                                                "checked": true
+                                            },
+                                            {
+                                                "id": "workbench.action.activityBarLocation.hide",
+                                                "label": "&&Hidden"
+                                            }
+                                        ]
+                                    }
                                 },
                                 {
                                     "id": "submenuitem.PanelPositionMenu",
@@ -519,6 +720,44 @@
                                             {
                                                 "id": "workbench.action.alignPanelRight",
                                                 "label": "Right"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "submenuitem.EditorTabsBarShowTabsSubmenu",
+                                    "label": "Tab Bar",
+                                    "submenu": {
+                                        "items": [
+                                            {
+                                                "id": "workbench.action.showMultipleEditorTabs",
+                                                "label": "Multiple Tabs",
+                                                "checked": true
+                                            },
+                                            {
+                                                "id": "workbench.action.showEditorTab",
+                                                "label": "Single Tab"
+                                            },
+                                            {
+                                                "id": "workbench.action.hideEditorTabs",
+                                                "label": "Hidden"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": "submenuitem.EditorActionsPositionSubmenu",
+                                    "label": "Editor Actions Position",
+                                    "submenu": {
+                                        "items": [
+                                            {
+                                                "id": "workbench.action.editorActionsDefault",
+                                                "label": "Tab Bar",
+                                                "checked": true
+                                            },
+                                            {
+                                                "id": "workbench.action.hideEditorActions",
+                                                "label": "Hidden"
                                             }
                                         ]
                                     }
@@ -593,8 +832,12 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
-                                    "id": "workbench.action.splitEditorInGroup",
-                                    "label": "Split in &&Group"
+                                    "id": "workbench.action.moveEditorToNewWindow",
+                                    "label": "&&Move Editor into New Window"
+                                },
+                                {
+                                    "id": "workbench.action.copyEditorToNewWindow",
+                                    "label": "&&Copy Editor into New Window"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -665,10 +908,6 @@
                         "label": "E&&xtensions"
                     },
                     {
-                        "id": "workbench.view.extension.test",
-                        "label": "T&&esting"
-                    },
-                    {
                         "id": "vscode.menubar.separator"
                     },
                     {
@@ -692,7 +931,8 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap"
+                        "label": "&&Word Wrap",
+                        "checked": true
                     }
                 ]
             },
@@ -709,7 +949,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1025,8 +1266,7 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal",
-                        "enabled": false
+                        "label": "&&Split Terminal"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1195,6 +1435,11 @@
                 "label": "Ctrl+W",
                 "userSettingsLabel": "ctrl+w"
             },
+            "workbench.action.closeFolder": {
+                "label": "Ctrl+K F",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k f"
+            },
             "workbench.action.closeWindow": {
                 "label": "Alt+F4",
                 "userSettingsLabel": "alt+f4"
@@ -1341,11 +1586,6 @@
                 "label": "Ctrl+K Ctrl+\\",
                 "isNative": false,
                 "userSettingsLabel": "ctrl+k ctrl+\\"
-            },
-            "workbench.action.splitEditorInGroup": {
-                "label": "Ctrl+K Ctrl+Shift+\\",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+k ctrl+shift+\\"
             },
             "workbench.action.toggleEditorGroupLayout": {
                 "label": "Shift+Alt+0",
@@ -1562,22 +1802,22 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#1f1f1f",
+    "themeBackground": "#161616",
     "windowSplash": {
-        "zoomLevel": 0,
+        "zoomLevel": 2,
         "baseTheme": "vs-dark",
         "colorInfo": {
             "foreground": "#cccccc",
-            "background": "#1f1f1f",
-            "editorBackground": "#1f1f1f",
-            "titleBarBackground": "#181818",
-            "activityBarBackground": "#181818",
-            "sideBarBackground": "#181818",
-            "statusBarBackground": "#181818",
-            "statusBarNoFolderBackground": "#1f1f1f"
+            "background": "#161616",
+            "editorBackground": "#161616",
+            "titleBarBackground": "#393939",
+            "activityBarBackground": "#262626",
+            "sideBarBackground": "#262626",
+            "statusBarBackground": "#262626",
+            "statusBarNoFolderBackground": "#262626"
         },
         "layoutInfo": {
-            "sideBarSide": "left",
+            "sideBarSide": "right",
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
@@ -1588,15 +1828,17 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/void/.config/Code - OSS/Backups/1699536981467",
+            "folder": "file:///home/void/Documents/TEP-and-Integrity-Codes",
+            "backupPath": "/home/void/.config/Code - OSS/Backups/b03f217b1d83b0f713c5b656ba99e02c",
             "uiState": {
                 "mode": 1,
-                "x": 8,
-                "y": 68,
-                "width": 1904,
-                "height": 1004
+                "x": 3,
+                "y": 27,
+                "width": 1914,
+                "height": 1050
             }
         },
         "openedWindows": []
-    }
+    },
+    "telemetry.sqmId": ""
 }

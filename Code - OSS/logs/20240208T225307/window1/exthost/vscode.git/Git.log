@@ -1,0 +1,29 @@
+2024-02-08 22:53:10.709 [info] Log level: Info
+2024-02-08 22:53:10.709 [info] Validating found git in: "git"
+2024-02-08 22:53:10.709 [info] Using git "2.43.0" from "git"
+2024-02-08 22:53:23.117 [info] Log level: Info
+2024-02-08 22:53:23.117 [info] Validating found git in: "git"
+2024-02-08 22:53:23.117 [info] Using git "2.43.0" from "git"
+2024-02-08 22:53:23.117 [info] > git rev-parse --show-toplevel [19ms]
+2024-02-08 22:53:23.172 [info] > git rev-parse --git-dir --git-common-dir [47ms]
+2024-02-08 22:53:23.187 [info] Open repository: /home/void/Documents/TEP-and-Integrity-Codes
+2024-02-08 22:53:23.229 [info] > git rev-parse --show-toplevel [12ms]
+2024-02-08 22:53:23.230 [info] > git config --get commit.template [23ms]
+2024-02-08 22:53:23.267 [info] > git rev-parse --show-toplevel [15ms]
+2024-02-08 22:53:23.281 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2024-02-08 22:53:23.292 [warning] ENOENT: no such file or directory, open '/home/void/Documents/TEP-and-Integrity-Codes/.git/refs/remotes/origin/main'
+2024-02-08 22:53:23.294 [info] > git rev-parse --show-toplevel [13ms]
+2024-02-08 22:53:23.304 [info] > git rev-parse refs/remotes/origin/main [11ms]
+2024-02-08 22:53:23.319 [info] > git rev-parse --show-toplevel [16ms]
+2024-02-08 22:53:23.330 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-08 22:53:23.353 [info] > git status -z -uall [37ms]
+2024-02-08 22:53:23.380 [info] > git config --get commit.template [3ms]
+2024-02-08 22:53:23.482 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2024-02-08 22:53:23.493 [warning] ENOENT: no such file or directory, open '/home/void/Documents/TEP-and-Integrity-Codes/.git/refs/remotes/origin/main'
+2024-02-08 22:53:23.496 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2024-02-08 22:53:23.538 [info] > git status -z -uall [34ms]
+2024-02-08 22:53:23.797 [info] > git check-ignore -v -z --stdin [10ms]
+2024-02-08 22:53:26.235 [info] > git check-ignore -v -z --stdin [2ms]
+2024-02-08 22:53:33.519 [info] > git show --textconv :Paper/TEPandIntegrity.tex [55ms]
+2024-02-08 22:53:33.520 [info] > git ls-files --stage -- /home/void/Documents/TEP-and-Integrity-Codes/Paper/TEPandIntegrity.tex [35ms]
+2024-02-08 22:53:33.565 [info] > git cat-file -s b98853c1f20b993e65303fad35401259602fb533 [27ms]

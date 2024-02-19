@@ -1,0 +1,49 @@
+[09:48:37.434][Logger] New log placeholder %WS1% registered for /home/void/Documents/itsec .
+[09:48:37.434][Extension] Initializing LaTeX Workshop.
+[09:48:37.732][Build][Recipe] Set $LATEXWORKSHOP_DOCKER_LATEX: ""
+[09:48:37.857][Server] Creating LaTeX Workshop http and websocket server.
+[09:48:38.085][Format][Bib] Bibtex format config: {"tab":"  ","case":"lowercase","left":"{","right":"}","trailingComma":false,"sort":["key"],"alignOnEqual":true,"sortFields":false,"fieldsOrder":[],"firstEntries":["string","xdata"]}
+[09:48:38.163][Server] Server successfully started: {"address":"127.0.0.1","family":"IPv4","port":40327} .
+[09:48:38.473][Extension] Extension root: /home/void/.vscode-oss/extensions/james-yu.latex-workshop-9.18.0
+[09:48:38.474][Extension] $PATH: /home/void/.local/bin:/home/void/.opam/5.0.0/bin:/opt/texlive/2023/bin/x86_64-linux:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin
+[09:48:38.474][Extension] $SHELL: /bin/fish
+[09:48:38.475][Extension] $LANG: en_GB.UTF-8
+[09:48:38.475][Extension] $LC_ALL: undefined
+[09:48:38.476][Extension] process.platform: linux
+[09:48:38.477][Extension] process.arch: x64
+[09:48:38.477][Extension] vscode.env.appName: Code - OSS
+[09:48:38.478][Extension] vscode.env.remoteName: undefined
+[09:48:38.478][Extension] vscode.env.uiKind: 1
+[09:48:38.599][Extension] Trigger characters for intellisense of LaTeX documents: ["\\",",","{"]
+[09:48:38.602][Root] Current workspace folders: ["file://%WS1%"]
+[09:48:38.603][Extension] LaTeX Workshop initialized.
+[09:48:38.604][Root] Current workspaceRootDir: file://%WS1% .
+[09:48:38.617][Server] valdOrigin is http://127.0.0.1:40327
+[09:48:38.887][Root] No root file found.
+[09:48:38.888][Structure] Structure cleared on undefined root.
+[09:48:38.888][Event] ROOT_FILE_SEARCHED
+[09:48:38.889][Event] STRUCTURE_UPDATED
+[09:48:38.892][Viewer][Panel] Internal PDF viewer at http://127.0.0.1:40327/viewer.html?file=pdf..ZmlsZSUzQSUyRiUyRiUyRmhvbWUlMkZ2b2lkJTJGRG9jdW1lbnRzJTJGaXRzZWMlMkZ0dXQlMkZ1ZWIxMy1zbGlkZXMucGRm .
+[09:48:38.894][Cacher][Watcher] Watched %WS1%/tut/ueb13-slides.pdf with a new watcher on %WS1%/tut .
+[09:48:38.895][Event] FILE_WATCHED: "%WS1%/tut/ueb13-slides.pdf"
+[09:48:40.331][Viewer] Handle data type: open
+[09:48:40.623][Server] Preview PDF file: file://%WS1%/tut/ueb13-slides.pdf
+[09:48:41.081][Viewer] Handle data type: loaded
+[09:48:41.082][Event] VIEWER_PAGE_LOADED
+[09:48:51.934][Viewer][Panel] Internal PDF viewer at http://127.0.0.1:40327/viewer.html?file=pdf..ZmlsZSUzQSUyRiUyRiUyRmhvbWUlMkZ2b2lkJTJGRG9jdW1lbnRzJTJGaXRzZWMlMkZ0dXQlMkZ1ZWIxNC5wZGY .
+[09:48:51.937][Cacher][Watcher] Watched %WS1%/tut/ueb14.pdf .
+[09:48:51.939][Event] FILE_WATCHED: "%WS1%/tut/ueb14.pdf"
+[09:48:52.245][Viewer] Handle data type: open
+[09:48:52.526][Server] Preview PDF file: file://%WS1%/tut/ueb14.pdf
+[09:48:53.020][Viewer] Handle data type: loaded
+[09:48:53.021][Event] VIEWER_PAGE_LOADED
+[11:02:47.511][Viewer][Panel] Internal PDF viewer at http://127.0.0.1:40327/viewer.html?file=pdf..ZmlsZSUzQSUyRiUyRiUyRmhvbWUlMkZ2b2lkJTJGRG9jdW1lbnRzJTJGaXRzZWMlMkZzbGlkZXMlMkZrYXBpdGVsOV9TeXN0ZW1zaWNoZXJoZWl0LnBkZg .
+[11:02:47.514][Cacher][Watcher] Watched %WS1%/slides/kapitel9_Systemsicherheit.pdf with a new watcher on %WS1%/slides .
+[11:02:47.515][Event] FILE_WATCHED: "%WS1%/slides/kapitel9_Systemsicherheit.pdf"
+[11:02:47.886][Viewer] Handle data type: open
+[11:02:48.053][Server] Preview PDF file: file://%WS1%/slides/kapitel9_Systemsicherheit.pdf
+[11:02:48.682][Viewer] Handle data type: loaded
+[11:02:48.683][Event] VIEWER_PAGE_LOADED
+[12:47:02.935][Cacher][Watcher] Reset.
+[12:47:02.935][Cacher][Watcher] Reset.
+[12:47:02.935][Cacher][Watcher] Reset.

@@ -1,0 +1,85 @@
+[22:53:32.014][Logger] New log placeholder %WS1% registered for /home/void/Documents/TEP-and-Integrity-Codes .
+[22:53:32.014][Extension] Initializing LaTeX Workshop.
+[22:53:32.413][Build][Recipe] Set $LATEXWORKSHOP_DOCKER_LATEX: ""
+[22:53:32.469][Server] Creating LaTeX Workshop http and websocket server.
+[22:53:32.690][Format][Bib] Bibtex format config: {"tab":"  ","case":"lowercase","left":"{","right":"}","trailingComma":false,"sort":["key"],"alignOnEqual":true,"sortFields":false,"fieldsOrder":[],"firstEntries":["string","xdata"]}
+[22:53:32.753][Server] Server successfully started: {"address":"127.0.0.1","family":"IPv4","port":44867} .
+[22:53:32.915][Extension] Extension root: /home/void/.vscode-oss/extensions/james-yu.latex-workshop-9.18.0
+[22:53:32.916][Extension] $PATH: /home/void/.local/bin:/home/void/.opam/5.0.0/bin:/opt/texlive/2023/bin/x86_64-linux:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin
+[22:53:32.916][Extension] $SHELL: /bin/fish
+[22:53:32.917][Extension] $LANG: en_GB.UTF-8
+[22:53:32.917][Extension] $LC_ALL: undefined
+[22:53:32.918][Extension] process.platform: linux
+[22:53:32.918][Extension] process.arch: x64
+[22:53:32.919][Extension] vscode.env.appName: Code - OSS
+[22:53:32.919][Extension] vscode.env.remoteName: undefined
+[22:53:32.919][Extension] vscode.env.uiKind: 1
+[22:53:33.030][Extension] Trigger characters for intellisense of LaTeX documents: ["\\",",","{"]
+[22:53:33.033][Root] Current workspace folders: ["file://%WS1%"]
+[22:53:33.035][Extension] LaTeX Workshop initialized.
+[22:53:33.037][Root] Found root file from active editor: %WS1%/Paper/TEPandIntegrity.tex
+[22:53:33.038][Root] Root file changed: from %WS1%/Paper/TEPandIntegrity.tex to %WS1%/Paper/TEPandIntegrity.tex, langID latex . Refresh dependencies
+[22:53:33.038][Event] ROOT_FILE_CHANGED: "%WS1%/Paper/TEPandIntegrity.tex"
+[22:53:33.040][Cacher][Watcher] Reset.
+[22:53:33.041][Cacher][Watcher] Reset.
+[22:53:33.041][Cacher][Watcher] Reset.
+[22:53:33.053][Cacher] Adding %WS1%/Paper/TEPandIntegrity.tex .
+[22:53:33.054][Cacher][Watcher] Watched %WS1%/Paper/TEPandIntegrity.tex with a new watcher on %WS1%/Paper .
+[22:53:33.054][Event] FILE_WATCHED: "%WS1%/Paper/TEPandIntegrity.tex"
+[22:53:33.058][Cacher] Caching %WS1%/Paper/TEPandIntegrity.tex .
+[22:53:33.061][Cacher] Updated inputs of %WS1%/Paper/TEPandIntegrity.tex .
+[22:53:33.062][Cacher] Parse LaTeX AST: %WS1%/Paper/TEPandIntegrity.tex .
+[22:53:33.062][Event] ROOT_FILE_SEARCHED
+[22:53:33.074][Server] valdOrigin is http://127.0.0.1:44867
+[22:53:34.242][Cacher] Parsed LaTeX AST: %WS1%/Paper/TEPandIntegrity.tex .
+[22:53:34.244][File] Calling kpsewhich to resolve IEEEtran.cls .
+[22:53:34.526][Cacher] Updated elements in 282.85 ms: %WS1%/Paper/TEPandIntegrity.tex .
+[22:53:34.528][Event] FILE_PARSED: "%WS1%/Paper/TEPandIntegrity.tex"
+[22:53:34.531][Cacher] Parsing .fls %WS1%/Paper/TEPandIntegrity.fls .
+[22:53:34.554][Cacher] Adding %WS1%/Paper/IEEEtran.cls .
+[22:53:34.554][Cacher][Watcher] Watched %WS1%/Paper/IEEEtran.cls .
+[22:53:34.554][Event] FILE_WATCHED: "%WS1%/Paper/IEEEtran.cls"
+[22:53:34.565][Cacher] Adding %WS1%/Paper/img/ICodes.png .
+[22:53:34.565][Cacher][Watcher] Watched %WS1%/Paper/img/ICodes.png with a new watcher on %WS1%/Paper/img .
+[22:53:34.566][Event] FILE_WATCHED: "%WS1%/Paper/img/ICodes.png"
+[22:53:34.567][Cacher] Adding %WS1%/Paper/img/ICodes2.png .
+[22:53:34.568][Cacher][Watcher] Watched %WS1%/Paper/img/ICodes2.png .
+[22:53:34.568][Event] FILE_WATCHED: "%WS1%/Paper/img/ICodes2.png"
+[22:53:34.571][Cacher] Adding %WS1%/Paper/img/ICodesDH.png .
+[22:53:34.572][Cacher][Watcher] Watched %WS1%/Paper/img/ICodesDH.png .
+[22:53:34.573][Event] FILE_WATCHED: "%WS1%/Paper/img/ICodesDH.png"
+[22:53:34.574][Cacher] Adding %WS1%/Paper/img/TEA.png .
+[22:53:34.575][Cacher][Watcher] Watched %WS1%/Paper/img/TEA.png .
+[22:53:34.576][Event] FILE_WATCHED: "%WS1%/Paper/img/TEA.png"
+[22:53:34.579][Cacher] Adding %WS1%/Paper/img/HELP.png .
+[22:53:34.579][Cacher][Watcher] Watched %WS1%/Paper/img/HELP.png .
+[22:53:34.580][Event] FILE_WATCHED: "%WS1%/Paper/img/HELP.png"
+[22:53:34.581][Cacher] Adding %WS1%/Paper/img/HELP2.png .
+[22:53:34.581][Cacher][Watcher] Watched %WS1%/Paper/img/HELP2.png .
+[22:53:34.582][Event] FILE_WATCHED: "%WS1%/Paper/img/HELP2.png"
+[22:53:34.583][Cacher] Adding %WS1%/Paper/img/Verse.png .
+[22:53:34.583][Cacher][Watcher] Watched %WS1%/Paper/img/Verse.png .
+[22:53:34.584][Event] FILE_WATCHED: "%WS1%/Paper/img/Verse.png"
+[22:53:34.586][Cacher] Found .aux %WS1%/Paper/TEPandIntegrity.tex from .fls %WS1%/Paper/TEPandIntegrity.fls , parsing.
+[22:53:34.587][Cacher] Parsed .aux %WS1%/Paper/TEPandIntegrity.tex .
+[22:53:34.588][Cacher] Parsed .fls %WS1%/Paper/TEPandIntegrity.fls .
+[22:53:34.599][Structure] Structure force updated with 0 root sections for %WS1%/Paper/TEPandIntegrity.tex .
+[22:53:34.600][Event] STRUCTURE_UPDATED
+[22:53:35.039][Commander] VIEW command invoked with mode: file://%WS1%/Paper/TEPandIntegrity.tex.
+[22:53:35.040][Root] Current workspace folders: ["file://%WS1%"]
+[22:53:35.042][Root] Found root file from active editor: %WS1%/Paper/TEPandIntegrity.tex
+[22:53:35.044][Root] Keep using the same root file: %WS1%/Paper/TEPandIntegrity.tex
+[22:53:35.045][Event] ROOT_FILE_SEARCHED
+[22:53:35.046][Event] STRUCTURE_UPDATED
+[22:53:35.285][Viewer][Panel] Internal PDF viewer at http://127.0.0.1:44867/viewer.html?file=pdf..ZmlsZSUzQSUyRiUyRiUyRmhvbWUlMkZ2b2lkJTJGRG9jdW1lbnRzJTJGVEVQLWFuZC1JbnRlZ3JpdHktQ29kZXMlMkZQYXBlciUyRlRFUGFuZEludGVncml0eS5wZGY .
+[22:53:35.286][Cacher][Watcher] Watched %WS1%/Paper/TEPandIntegrity.pdf with a new watcher on %WS1%/Paper .
+[22:53:35.287][Event] FILE_WATCHED: "%WS1%/Paper/TEPandIntegrity.pdf"
+[22:53:35.392][Event] STRUCTURE_UPDATED
+[22:53:35.400][Viewer] Open PDF tab for file://%WS1%/Paper/TEPandIntegrity.pdf
+[22:53:35.695][Viewer] Handle data type: open
+[22:53:35.837][Server] Preview PDF file: file://%WS1%/Paper/TEPandIntegrity.pdf
+[22:53:36.788][Viewer] Handle data type: loaded
+[22:53:36.789][Event] VIEWER_PAGE_LOADED
+[13:56:39.022][Cacher][Watcher] Reset.
+[13:56:39.022][Cacher][Watcher] Reset.
+[13:56:39.023][Cacher][Watcher] Reset.

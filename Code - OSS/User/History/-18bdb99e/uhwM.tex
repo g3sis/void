@@ -1,0 +1,135 @@
+\documentclass[conference]{IEEEtran}
+\IEEEoverridecommandlockouts
+% The preceding line is only needed to identify funding in the first footnote. If that is unneeded, please comment it out.
+\usepackage{cite}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{algorithmic}
+\usepackage{graphicx}
+\usepackage{textcomp}
+\usepackage{xcolor}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
+\begin{document}
+
+\title{A collection of In-Band Trust Establishment Techniques\\
+}
+
+\author{\IEEEauthorblockN{Möller, Robin}
+\IEEEauthorblockA{
+\textit{Technical University Munich}\\
+Munich, Germany \\
+robin.moeller@tum.de}
+}
+
+\maketitle
+
+\begin{abstract}
+
+\end{abstract}
+
+%\begin{IEEEkeywords}
+%\end{IEEEkeywords}
+
+\section{Introduction}
+
+\section{Background}
+\begin{itemize}
+    \item on-ff keying
+    \item manchester code 
+    \item DH key-agreement
+    \item attacker models
+    \item poepper et al. signal cancelation attack
+\end{itemize}
+
+\subsection{Integrity Codes}
+
+Codes that enable the receiver of a message to detect integrity violations during the transmission are genarally known as \textit{All-Unidirectional Error-Detecting} Codes.
+They are used in settings, where a bit ''0'' can be changed into a bit ''1'' but the reverse transformation is not feasible. 
+Cagalj et al provided the idea of integrity codes (I-codes), where a recipient can ensure the integrity of a message based on the encoding.
+I-Codes consist of a tripple ($ \mathcal{S}, \mathcal{C}, e$), where $\mathcal{S}$ is a finite set of possible source states, $\mathcal{C}$ resembles a set of codewords that is also finite and $e$ is a source encoding rule with two limitations.
+The first being that $e$ has to be an injective function and the second being the impossibility of converting a codeword $c$ to another codeword $c'$ where $c \neq c'$ without flipping at least one bit ''1''.
+This mechanic is used in combination with on-off keying and signal antiblocking to ensure the detectibility of attacks on the messages integrity. We will call the whole construction of these techniques I-codes for simplicity reasons.
+These attacks could be executed by an adversary in a man in the middle setting by trying to flip bits using several signal modulation techniques or simply signal overshadowing.
+To ensure that ''1'' bits cannot be turned into ''0'' bits and hereby canceld out, the symbol is transmitted as a random signal, which the attacker would have to predict the exact shape of in order to erase it.
+The reverse direction of bit flipping is possible, but given the use of on-off key modulation, the attacker must erase at least one signal to preserve the message's validity. Any invalid message is simply dropped by the receiver.
+The complementary encoding used for on-off keying makes synchronization between sender and receiver mandatory. It is achieved through the use of specially designed bit strings known as ``delimiters''. The sender transmits a signal containing a sequence of the message bracketed by two consecutive delimiters. Simultaneously, the receiver is actively monitoring the channel for any transmitted messages. 
+Upon detecting delimiters, the receiver proceeds to decode the enclosed message. If the message can be decoded using the inverse of the I-codes function $e$, it is accepted. Delimiters are defined by the following rules: Firstly, no substring of any given codeword can be transformed into a valid delimiter without flipping at least one bit from ''1'' to ''0''. Secondly, the delimiter cannot be transformed into any substring of any codeword by the same process. Lastly, any codeword received between two delimiters is considered valid.
+During experimentation with these concepts, Capkun et al. discovered that I-Codes offer sufficient robustness for the transmission of short messages. Additionally, they developed a new concept called ``Authentication through presence'' and outlined two exemplary use cases.
+The protocol works by sending the message $m$ whose integrity needs to be proven over a channel $C_1$ and a message digest $h(m)$ is sent over another channel $C_2$ using I-Coding with $h(\dot)$ being a one way function used to protect the integrity of the  message. \\
+
+\texttt{TODO: "Authentication through presence", access points, key establishment over insecure channel, DH-KeyAgreement, security analysis}
+
+\section{Tamper-Evident Pairing}
+
+The first truly in-band wireless pairing protocol is called Tamper-Evident Pairing and was developed by Golakotta et al.
+It is a protocol based on push button controll and offeres protection against MITM attacks without the usage of an out-of-band channel. To address three typical attacks on message integrity during a key exchange - Collision, Timing-Control and Capture effect - a new primitive, called Temper Evident Announcement (TEA) was introduced. The primitive consists of a synchronization package, the announcements payload and ON-OFF slots in that order. The first stage is simply a package to protect the transmission from being masked, which contains random data, ensuring the impossibility of signal cancelation through an adversary. It is also longer than a regular contiguous WIFI transmission. The payload contains a Diffie-Hellman public key and other registratioin information. It must be of fixed length to be invulnerable to extension attacks and truncation. The last part is a series of ON-OFF slots consisting of two direction bits followed by a hash of the original message. The direction bits indicate wether a message has been sent by an enrollee, using ''10'' as a request or by an registrar, using ''01'' as a reply. The amount of ON slots needs to equal to the amount of OFF slots to detect tampering. Because an attacker is not able to remove energy from a channel, disbalances are guaranteed if the message is being manipulated. With Manchester encoding being a rather inefficient way to achieve such balance, Golakotta et al. introduced a new encoding that takes an even number $N$ bits and produces $M = N + \lceil logN \rceil$ output bits. In special cases where devices without TEA awareness are communicating with each other a CTS\_TO\_SELF packet is inserted before the ON-OFF slots.
+The receiver performs a few other checks to ensure the integrity of a message. They are constantly listening for synchronization packages and will begin to \texttt{5.1.1 maybe mehr einbauen}
+
+\begin{itemize}
+    \item Tamper Evident Announcement
+      \item tampering entdeckt -> session overlap error und retry
+      \item fixed I-code vulnerability
+      
+    \item security evaluation 
+    \end{itemize}
+
+\section{Chorus}
+
+Chorus is a technique for initializing in-band trust. It was created by Hou et al. as a physical layer primitive, offering scalability.
+Its design draws significant inspiration from Tamper-Evident Pairing and I-Codes, and it is utilized to build secure group key agreement protocols.
+The key idea behind The Chorus is that each device sends a specially encoded authentication string to every other connected device synchronously. 
+Any discrepancy in these strings will be detected by all devices, each of which outputs only a single bit of information - it either accepts (1) or rejects (0).
+Given the unidirectional property of the wireless channel, the likelihood of altering a positive result is negligible. The Chorus does not directly authenticate a sent message. Instead, a method introduced by Hou et al. called ``Authenticated Equality Comparison'' or short AEC is used to achive authentication of N bit strings, which are derived from the original message. 
+AEC requires 3 key characteristics. It has to be \textit{Non-Spoofing}, which means that if messages $i$ and $j$ exist and the corresponding binary strings $s_i$ and $s_j$ are not the same, the outputs for every $i \in (1, . . . , N)$ are rejected with a high probabiliy. The second property that has to be met is \textit{Correctnes}. If for every pair messages $i,j \in (1, . . . , N)$ the corresponding binary strings $s_i$ and $s_j$ are equal, the criterium is met. The third atribbute is \textit{Non-Blocking} which just means that AEC cannot be blocked from happening, delayed or hidden.
+The basic Chorus starts if one node sends a synchronization packet which is longer than regular packets and contains random information. This node will be refered to as the coordinator. The existence of such a package is noticed by all other nodes via threashold energy detection. Afterwards the coordinator waits for a short period of time and reserves the channel for the time until Chorus deliveres a result by sending a CTS\_TO\_SELF packet.During the third phase each node $i$ sends a manchester encoded bit string using on-off keying simultaneously. During ON-Slots random information is transmited and during OFF-Slots the nodes keep silent and simply listen to the channel. If a node detects energy during an OFF-Slot, it outputs reject, otherwise it outputs accept.
+This realization is secure against a type-I signal cancellation attacker, because the attacking party would have to cancel out the sum of the random noise sent by each node during each `on' slot. Simply flipping `0' bits to `1' bits would just lead to the sending of abort messages. Self-cancellation does not significantly affect Chorus. \\
+\texttt{TODO: TYPE 2 attacker} \\
+An advanced scheme of Chorus, called FH-Chorus, uses uncoordinated frequency hopping (UFH) to defend against such an attacker. The key principle here is to minimize the probability of cancellation by changing the frequency multiple times during each slot, by splitting it into mm minislots of uniform length.
+The nodes now hop among the set of available channels for each minislot during their `on' slots. The same goes for `off' slots, with the brief difference of listening instead of transmitting random information on the channel. If noise is detected during mm of an `off' slot, an abort message is sent. If the channel is silent during the entire `off' slot, the node accepts.
+The complication of a needed frequency rendezvous is also simplified by UFH. The coordinator simply sends a synchronization package containing a counter over every channel while hopping onto mm frequencies and sending for a slot length of $T_s$, increasing the counter until it equals mm. Every other node, initially
+asynchronously, hops the channel with a longer slot length $T_s'$. As soon as a synchronization package is detected, the counter is decoded and the node begins listening after $(m-counter) \cdot T_s + T_{cts}$ seconds.
+The principle works for a two-node scenario but also for a larger group. \\
+\texttt{TODO: technicalities and security}
+
+\section{HELP}
+
+\texttt{TODO: klarheit schaffen wie die uebertragungen funktionieren}
+HELP, an in-band device pairing primitive, was developed by Ghose et al. They designed a physical layer primitive to verify the integrity of a message. The system comprises a base station (BS), to which all legitimate devices must connect, and a Helper device, which already maintains an authenticated connection with the BS. A new device (D) wants to link up to the BS using a Manchester-encoded message sent over a channel using on-off keying.
+The Helper device (H) is placed near D. Both devices have to be set into some kind of pairing mode by some type of short interaction. H then proceeds to send an authenticated-request to communicate to the BS using an authenticated encryption function $AE(\cdot)$. Following this initiation step, BS sends a publicly known SYNC frame to D and H which synchronizes the clocks of each device.
+D then transmits a pair of hashed message $h(m_D)$ and the message $m_D$ to BS in the way previously described. Simultaneously, H transmits a signal mhmh with a random number of On-Slots, which are determined by a vector $s$ and are time-aligned to the ones of $h(m_D)$. This sequence is most likely not a valid Manchester-encoded signal.
+After BS receives both messages, H reveals $AE(s,K)$ to BS. BS then decrypts and verifies the integrity of ss using a function $VD(\cdot)$, which is the corresponding decryption and verification function for $AE(\cdot)$. If this function fails, $m_D$ is aborted. If not, BS checks if all slots depicted in $s$ are On-Slots in the received message of D, with any kind of alteration leading to the abortion of the protocol.
+Afterwards, the helper's message is removed from the received signal and the integrity of the received $h(m_D)'$ is checked by comparing it to $h(m_D')$. The BS or H display FAILURE or SUCCESS on a failed/successful attempt.
+Using this primitive Hou et al. presented a Help-enabled DH message exchange protocol. Either BS or D publishes ($\mathbb{G}$, q, g) of the DH scheme if they are not publicly known yet and D calculates $z_D = g^{X_D}$ with $X_D$ being uniformaly at random chosen from $\mathbb{Z}_q$. Following initialization and synchronization, the integrity protected form of a message $m_D: ID_{D,Z_D}$ is being transmitted from D to BS. Simultaneously H is injecting $m_H$ on the slot positions given by $s$. To prevent an adversary A from discovering $m_D$, both the message and its hash are being protected by the physical layer primitive because A cannot learn $m_H$. After BS verified the integrity of $m_D$ using the technique described in the physical layer primitive, it replies with $z_{BS} = g^{X_{BS}}$ where $X_{BS}$ is chosen uniformly at random in $\mathbb{Z}_q$. A $k_{D,BS}=g^{X_D \cdot X_{BS}}$ is calculated independently by each party before they engage in a key confirmation phase which is initiated by D. On a failure of any verification step, the detecting party aborts the protocol. 
+ \texttt{TODO: more depth, security analysis of phy-primitive and device pairping protocol}\\
+
+
+\section{SFire}
+
+
+
+\section{VERSE}
+
+\section{Other Methods}
+\begin{itemize}
+    \item Secure In-Band Bootstrapping for Wireless Personal Area Networks 
+\end{itemize}
+\section{Evaluation and Discussion}
+
+\begin{itemize}
+    \item Comparison of the different techniques
+\end{itemize}
+
+\section{Related Work}
+
+\section{Conclusion}
+
+\section*{Acknowledgment}
+
+\section*{References}
+
+
+\begin{thebibliography}{00}
+\bibitem{b1} G. Eason, B. Noble, and I. N. Sneddon, ``On certain integrals of Lipschitz-Hankel type involving products of Bessel functions,'' Phil. Trans. Roy. Soc. London, vol. A247, pp. 529--551, April 1955.
+\end{thebibliography}
+
+\end{document}

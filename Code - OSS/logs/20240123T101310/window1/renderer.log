@@ -1,0 +1,6 @@
+2024-01-23 10:13:13.294 [info] Started local extension host with pid 2218.
+2024-01-23 10:13:13.650 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, saveEditor, terminalDataWriteEvent, terminalExecuteCommandEvent'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-01-23 10:13:13.763 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2024-01-23 10:13:17.372 [info] [perf] Render performance baseline is 69ms
+2024-01-26 11:48:30.774 [error] Cannot read properties of undefined (reading 'slice'): TypeError: Cannot read properties of undefined (reading 'slice')
+	at insertCursor (/home/void/.vscode-oss/extensions/james-yu.latex-workshop-9.18.0/out/src/preview/math/mathpreviewlib/cursorrenderer.js:64:57)
